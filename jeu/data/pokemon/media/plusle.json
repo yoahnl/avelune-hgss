@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "plusle",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/plusle/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/plusle/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/a8f6a94a457f3034da6ca2818448bb2bae6778698003335a7fccf940ef4a951b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/plusle/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/plusle/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/plusle/icon.png",
+      "overworld": "assets/pokemon/hgss-api/plusle/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/plusle/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/plusle/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "rest",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "confusion",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 6,
+      "moveId": "imprison",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 16,
+      "moveId": "endure",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 21,
+      "moveId": "swift",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 31,
+      "moveId": "yawn",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 36,
+      "moveId": "future_sight",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 46,
+      "moveId": "amnesia",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 51,
+      "moveId": "extrasensory",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 61,
+      "moveId": "flail",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 66,
+      "moveId": "natural_gift",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 76,
+      "moveId": "memento",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "rest",
+    "confusion"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "uxie",
+  "startingMoves": [
+    "rest",
+    "confusion"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

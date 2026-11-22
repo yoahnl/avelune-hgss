@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "hyper_cutter",
+    "secondary": "shell_armor"
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 308,
+    "def": 65,
+    "hp": 43,
+    "spa": 50,
+    "spd": 35,
+    "spe": 35
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "corphish",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "corphish",
+  "names": {
+    "fr": "Ecrapince"
+  },
+  "nationalDex": 341,
+  "progression": {
+    "baseExp": 111,
+    "baseFriendship": 70,
+    "catchRate": 205,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "corphish",
+    "learnset": "corphish",
+    "media": "corphish"
+  },
+  "schemaVersion": 1,
+  "slug": "corphish",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

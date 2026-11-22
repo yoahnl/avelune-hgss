@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "chlorophyll",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 40,
+    "bst": 325,
+    "def": 80,
+    "hp": 60,
+    "spa": 60,
+    "spd": 45,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "exeggcute",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "exeggcute",
+  "names": {
+    "fr": "Noeunoeuf"
+  },
+  "nationalDex": 102,
+  "progression": {
+    "baseExp": 98,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "exeggcute",
+    "learnset": "exeggcute",
+    "media": "exeggcute"
+  },
+  "schemaVersion": 1,
+  "slug": "exeggcute",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "psychic"
+    ]
+  }
+}

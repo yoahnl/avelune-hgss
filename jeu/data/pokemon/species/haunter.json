@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 405,
+    "def": 45,
+    "hp": 45,
+    "spa": 115,
+    "spd": 55,
+    "spe": 95
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "haunter",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "haunter",
+  "names": {
+    "fr": "Spectrum"
+  },
+  "nationalDex": 93,
+  "progression": {
+    "baseExp": 126,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "haunter",
+    "learnset": "haunter",
+    "media": "haunter"
+  },
+  "schemaVersion": 1,
+  "slug": "haunter",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ghost",
+      "poison"
+    ]
+  }
+}

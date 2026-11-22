@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "torrent",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 63,
+    "bst": 405,
+    "def": 80,
+    "hp": 59,
+    "spa": 65,
+    "spd": 80,
+    "spe": 58
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "water_1"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "wartortle",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "wartortle",
+  "names": {
+    "fr": "Carabaffe"
+  },
+  "nationalDex": 8,
+  "progression": {
+    "baseExp": 143,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "wartortle",
+    "learnset": "wartortle",
+    "media": "wartortle"
+  },
+  "schemaVersion": 1,
+  "slug": "wartortle",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

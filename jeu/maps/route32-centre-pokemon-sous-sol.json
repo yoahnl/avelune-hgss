@@ -1,0 +1,5891 @@
+{
+  "id": "route32-centre-pokemon-sous-sol",
+  "name": "Route 32 — Centre Pokémon — Sous-sol",
+  "size": {
+    "width": 32,
+    "height": 32
+  },
+  "version": "v9",
+  "spatialScene": {
+    "schemaVersion": 2,
+    "width": 32,
+    "depth": 32,
+    "heightLevels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "terrainSurfaces": {
+      "schemaVersion": 1,
+      "surfaces": [
+        {
+          "id": "centre-b1-support-bdhc",
+          "x": 0.0,
+          "z": 0.0,
+          "height": 0.0,
+          "gradientX": 0.0,
+          "gradientZ": 0.0,
+          "footprints": [
+            [
+              {
+                "x": 1.0,
+                "z": 2.0
+              },
+              {
+                "x": 16.0,
+                "z": 2.0
+              },
+              {
+                "x": 16.0,
+                "z": 13.002
+              },
+              {
+                "x": 1.0,
+                "z": 13.002
+              }
+            ]
+          ]
+        },
+        {
+          "id": "centre-b1-rampe-bdhc",
+          "x": 14.5,
+          "z": 9.5,
+          "height": 0.0,
+          "gradientX": 1.0,
+          "gradientZ": 0.0,
+          "footprints": [
+            [
+              {
+                "x": 0.0,
+                "z": 0.0
+              },
+              {
+                "x": 1.5,
+                "z": 0.0
+              },
+              {
+                "x": 1.5,
+                "z": 2.0
+              },
+              {
+                "x": 0.0,
+                "z": 2.0
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "levelHeight": 1.0,
+    "generateCliffs": false,
+    "instances": [
+      {
+        "id": "hgss-centre-b1-logo",
+        "modelId": "hgss-centre-b1-logo",
+        "position": {
+          "x": 8.5,
+          "y": 0.0,
+          "z": 9.9638671875
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-ecran",
+        "modelId": "hgss-centre-b1-ecran",
+        "position": {
+          "x": 11.5,
+          "y": 0.0,
+          "z": 3.77099609375
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-pc-complet",
+        "modelId": "hgss-centre-b1-pc-complet",
+        "position": {
+          "x": 15.3125,
+          "y": 0.53515625,
+          "z": 5.53125
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-station-0",
+        "modelId": "hgss-centre-b1-station-0",
+        "position": {
+          "x": 3.96875,
+          "y": 0.0,
+          "z": 4.40673828125
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-station-1",
+        "modelId": "hgss-centre-b1-station-1",
+        "position": {
+          "x": 7.96875,
+          "y": 0.0,
+          "z": 4.40673828125
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-station-2",
+        "modelId": "hgss-centre-b1-station-2",
+        "position": {
+          "x": 12.939453125,
+          "y": 0.0,
+          "z": 5.65673828125
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-0",
+        "modelId": "hgss-modele-11576b5e7119ed811014",
+        "position": {
+          "x": 12.5,
+          "y": 0.0,
+          "z": 12.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-1",
+        "modelId": "hgss-modele-11576b5e7119ed811014",
+        "position": {
+          "x": 4.5,
+          "y": 0.0,
+          "z": 12.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-2",
+        "modelId": "hgss-modele-530520900b064feaa30f",
+        "position": {
+          "x": 10.5,
+          "y": 0.0,
+          "z": 12.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-3",
+        "modelId": "hgss-modele-530520900b064feaa30f",
+        "position": {
+          "x": 6.5,
+          "y": 0.0,
+          "z": 12.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-4",
+        "modelId": "hgss-modele-77b3434485eaa8df05a9",
+        "position": {
+          "x": 9.5,
+          "y": 0.0,
+          "z": 12.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-5",
+        "modelId": "hgss-modele-77b3434485eaa8df05a9",
+        "position": {
+          "x": 7.5,
+          "y": 0.0,
+          "z": 12.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-6",
+        "modelId": "hgss-modele-535740bf20a859dc2120",
+        "position": {
+          "x": 3.0,
+          "y": -0.0625,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-7",
+        "modelId": "hgss-modele-77b3434485eaa8df05a9",
+        "position": {
+          "x": 4.5625,
+          "y": 0.0,
+          "z": 8.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-8",
+        "modelId": "hgss-modele-530520900b064feaa30f",
+        "position": {
+          "x": 4.5625,
+          "y": 0.0,
+          "z": 9.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-9",
+        "modelId": "hgss-modele-77b3434485eaa8df05a9",
+        "position": {
+          "x": 3.5,
+          "y": 0.0,
+          "z": 7.375
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-10",
+        "modelId": "hgss-modele-530520900b064feaa30f",
+        "position": {
+          "x": 2.5,
+          "y": 0.0,
+          "z": 7.375
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-14",
+        "modelId": "hgss-modele-023206d2026c0429743c",
+        "position": {
+          "x": 13.5,
+          "y": 0.0,
+          "z": 10.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-15",
+        "modelId": "hgss-modele-46a3b05027db6feccd9f",
+        "position": {
+          "x": 9.5,
+          "y": 0.0,
+          "z": 2.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-16",
+        "modelId": "hgss-modele-29396b0b15730f34c7a6",
+        "position": {
+          "x": 15.0,
+          "y": 0.0,
+          "z": 10.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-17",
+        "modelId": "hgss-modele-77b3434485eaa8df05a9",
+        "position": {
+          "x": 5.5,
+          "y": 0.0,
+          "z": 12.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-18",
+        "modelId": "hgss-modele-77b3434485eaa8df05a9",
+        "position": {
+          "x": 11.5,
+          "y": 0.0,
+          "z": 12.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "hgss-centre-b1-objet-19",
+        "modelId": "hgss-modele-46a3b05027db6feccd9f",
+        "position": {
+          "x": 5.5,
+          "y": 0.0,
+          "z": 2.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_adc277b909932de0b39a8eb6b4c6be12",
+        "modelId": "hgss-centre-b1-mur-nord-raccord-ouest",
+        "position": {
+          "x": 1.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_0b706ea376fd587b66a7ff60ddf8496a",
+        "modelId": "hgss-centre-b1-mur-nord-profil-1",
+        "position": {
+          "x": 2.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_3ea148d1b36bb5301feb7410fe0e4f61",
+        "modelId": "hgss-centre-b1-mur-nord-profil-0",
+        "position": {
+          "x": 3.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_df7c6b7a1b0d288853151185c3fe1904",
+        "modelId": "hgss-centre-b1-mur-nord-porte-0",
+        "position": {
+          "x": 4.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_0905601090a6dc90c743d2e3852afcaf",
+        "modelId": "hgss-centre-b1-mur-nord-porte-1",
+        "position": {
+          "x": 5.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_615ec46504ed61272316780b29ff638c",
+        "modelId": "hgss-centre-b1-mur-nord-porte-2",
+        "position": {
+          "x": 6.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_2d94a57eb3bde1cc8b2c91a9adea124c",
+        "modelId": "hgss-centre-b1-mur-nord-profil-0",
+        "position": {
+          "x": 7.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_f3f2723dff47d5e9eac2c350df9a21c4",
+        "modelId": "hgss-centre-b1-mur-nord-porte-0",
+        "position": {
+          "x": 8.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_1fa178f1e94f217915fd88357b38054d",
+        "modelId": "hgss-centre-b1-mur-nord-porte-1",
+        "position": {
+          "x": 9.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_f6ddd36f60bcfa31731f387464890a24",
+        "modelId": "hgss-centre-b1-mur-nord-porte-2",
+        "position": {
+          "x": 10.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_5aaf3aec158bb0431dc4cfd94fbe2a7d",
+        "modelId": "hgss-centre-b1-mur-nord-profil-0",
+        "position": {
+          "x": 11.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_1b912f64cbe4327127d1538cf5c0ca14",
+        "modelId": "hgss-centre-b1-mur-nord-profil-1",
+        "position": {
+          "x": 12.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_30de1e7181e56b72f85b2aa8ef40f5ca",
+        "modelId": "hgss-centre-b1-mur-nord-profil-0",
+        "position": {
+          "x": 13.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_11578ab2e7982ac9768f2efef5f6f4cb",
+        "modelId": "hgss-centre-b1-mur-nord-profil-1",
+        "position": {
+          "x": 14.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_4b798b6be220f512269986ff00f4b7f5",
+        "modelId": "hgss-centre-b1-mur-nord-raccord-est",
+        "position": {
+          "x": 15.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_ce60fc2f8c1fe4b02ff3c1be3dd99d04",
+        "modelId": "hgss-centre-b1-mur-ouest-embout-source",
+        "position": {
+          "x": 1.5,
+          "y": 0.0,
+          "z": 11.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_94d7557ec74998a6c4ec41857cf081b7",
+        "modelId": "hgss-centre-b1-mur-ouest-profil-1",
+        "position": {
+          "x": 1.5,
+          "y": 0.0,
+          "z": 10.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_70f4952f667282a22632686e03ec5b01",
+        "modelId": "hgss-centre-b1-mur-ouest-profil-0",
+        "position": {
+          "x": 1.5,
+          "y": 0.0,
+          "z": 9.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_c9e7c890e82db3436b7461f9abe60d6b",
+        "modelId": "hgss-centre-b1-mur-ouest-profil-1",
+        "position": {
+          "x": 1.5,
+          "y": 0.0,
+          "z": 8.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_8c2275529d1b456c38a3618150fc99b3",
+        "modelId": "hgss-centre-b1-mur-ouest-profil-0",
+        "position": {
+          "x": 1.5,
+          "y": 0.0,
+          "z": 7.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_ff4b9185e4731fa7202daa506d0b3187",
+        "modelId": "hgss-centre-b1-mur-ouest-profil-1",
+        "position": {
+          "x": 1.5,
+          "y": 0.0,
+          "z": 6.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_5c6ba33efd6bce4c1d92ed5742972d56",
+        "modelId": "hgss-centre-b1-mur-ouest-profil-0",
+        "position": {
+          "x": 1.5,
+          "y": 0.0,
+          "z": 5.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_111c7b09ebeb02822dcb6e30c0dbc284",
+        "modelId": "hgss-centre-b1-mur-ouest-profil-1",
+        "position": {
+          "x": 1.5,
+          "y": 0.0,
+          "z": 4.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_ebfe6a8f5050bbec1b1cdde3fd550db4",
+        "modelId": "hgss-centre-b1-mur-est-profil-0",
+        "position": {
+          "x": 16.5,
+          "y": 0.0,
+          "z": 4.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_1177863ba42485ea6c4f2de6f20f9cf2",
+        "modelId": "hgss-centre-b1-mur-est-profil-1",
+        "position": {
+          "x": 16.5,
+          "y": 0.0,
+          "z": 5.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_8ec53c8dae8fd1fe89960ea1dd916719",
+        "modelId": "hgss-centre-b1-mur-est-profil-0",
+        "position": {
+          "x": 16.5,
+          "y": 0.0,
+          "z": 6.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_0f1475edb5c28c366650aebb58b55843",
+        "modelId": "hgss-centre-b1-mur-est-profil-1",
+        "position": {
+          "x": 16.5,
+          "y": 0.0,
+          "z": 7.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_54dd790257cb6430058d4b519a10c22a",
+        "modelId": "hgss-centre-b1-mur-est-profil-0",
+        "position": {
+          "x": 16.5,
+          "y": 0.0,
+          "z": 8.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_e780505ac647df7d782d224af2b6b7a2",
+        "modelId": "hgss-centre-b1-mur-est-profil-1",
+        "position": {
+          "x": 16.5,
+          "y": 1.0,
+          "z": 9.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_ad8237b28f265e307e6eae04de4fa09c",
+        "modelId": "hgss-centre-b1-mur-est-profil-0",
+        "position": {
+          "x": 16.5,
+          "y": 1.0,
+          "z": 10.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "border3d_53a34a2c9f1cf9477c0c23ac50e3fa4b",
+        "modelId": "hgss-centre-b1-mur-est-embout-source",
+        "position": {
+          "x": 16.5,
+          "y": 1.0,
+          "z": 11.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      }
+    ],
+    "camera": {
+      "mode": "fixed",
+      "projection": "orthographic",
+      "pitchDegrees": 49.910888671875,
+      "yawDegrees": 0.0,
+      "fieldOfViewDegrees": 7.042236328125,
+      "distance": 97.72111511230469,
+      "orthographicHeight": 12.026066389786878
+    },
+    "navigation": {
+      "spawn": {
+        "x": 14.5,
+        "z": 10.5
+      },
+      "allowDiagonalMovement": false,
+      "ramps": [],
+      "blockedAreas": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "width": 32.0,
+          "depth": 2.0
+        },
+        {
+          "x": 0.0,
+          "z": 2.0,
+          "width": 5.0,
+          "depth": 1.0
+        },
+        {
+          "x": 6.0,
+          "z": 2.0,
+          "width": 3.0,
+          "depth": 1.0
+        },
+        {
+          "x": 10.0,
+          "z": 2.0,
+          "width": 22.0,
+          "depth": 1.0
+        },
+        {
+          "x": 0.0,
+          "z": 3.0,
+          "width": 3.0,
+          "depth": 1.0
+        },
+        {
+          "x": 6.0,
+          "z": 3.0,
+          "width": 1.0,
+          "depth": 3.0
+        },
+        {
+          "x": 11.0,
+          "z": 3.0,
+          "width": 1.0,
+          "depth": 3.0
+        },
+        {
+          "x": 15.0,
+          "z": 3.0,
+          "width": 17.0,
+          "depth": 3.0
+        },
+        {
+          "x": 0.0,
+          "z": 4.0,
+          "width": 1.0,
+          "depth": 28.0
+        },
+        {
+          "x": 2.0,
+          "z": 4.0,
+          "width": 1.0,
+          "depth": 2.0
+        },
+        {
+          "x": 3.0,
+          "z": 5.0,
+          "width": 3.0,
+          "depth": 1.0
+        },
+        {
+          "x": 7.0,
+          "z": 5.0,
+          "width": 4.0,
+          "depth": 1.0
+        },
+        {
+          "x": 12.0,
+          "z": 5.0,
+          "width": 3.0,
+          "depth": 1.0
+        },
+        {
+          "x": 16.0,
+          "z": 6.0,
+          "width": 16.0,
+          "depth": 26.0
+        },
+        {
+          "x": 2.0,
+          "z": 8.0,
+          "width": 2.0,
+          "depth": 2.0
+        },
+        {
+          "x": 14.0,
+          "z": 9.0,
+          "width": 2.0,
+          "depth": 1.0
+        },
+        {
+          "x": 15.0,
+          "z": 10.0,
+          "width": 1.0,
+          "depth": 22.0
+        },
+        {
+          "x": 4.0,
+          "z": 11.0,
+          "width": 1.0,
+          "depth": 21.0
+        },
+        {
+          "x": 12.0,
+          "z": 11.0,
+          "width": 1.0,
+          "depth": 21.0
+        },
+        {
+          "x": 14.0,
+          "z": 11.0,
+          "width": 1.0,
+          "depth": 1.0
+        },
+        {
+          "x": 1.0,
+          "z": 12.0,
+          "width": 1.0,
+          "depth": 20.0
+        },
+        {
+          "x": 2.0,
+          "z": 13.0,
+          "width": 2.0,
+          "depth": 19.0
+        },
+        {
+          "x": 5.0,
+          "z": 13.0,
+          "width": 7.0,
+          "depth": 19.0
+        },
+        {
+          "x": 13.0,
+          "z": 13.0,
+          "width": 2.0,
+          "depth": 19.0
+        }
+      ]
+    }
+  },
+  "tilesetId": "",
+  "layers": [
+    {
+      "id": "murs",
+      "name": "Murs natifs",
+      "isVisible": true,
+      "opacity": 1.0,
+      "content": {
+        "formatVersion": 4,
+        "features": [
+          {
+            "id": "mur-nord",
+            "name": "mur-nord",
+            "blueprintId": "hgss-centre-b1-mur-nord-baies-v2",
+            "seed": "0",
+            "geometry": {
+              "kind": "stroke",
+              "strokes": [
+                {
+                  "id": "mur",
+                  "points": [
+                    {
+                      "x": 1,
+                      "y": 3
+                    },
+                    {
+                      "x": 2,
+                      "y": 3
+                    },
+                    {
+                      "x": 3,
+                      "y": 3
+                    },
+                    {
+                      "x": 4,
+                      "y": 3
+                    },
+                    {
+                      "x": 5,
+                      "y": 3
+                    },
+                    {
+                      "x": 6,
+                      "y": 3
+                    },
+                    {
+                      "x": 7,
+                      "y": 3
+                    },
+                    {
+                      "x": 8,
+                      "y": 3
+                    },
+                    {
+                      "x": 9,
+                      "y": 3
+                    },
+                    {
+                      "x": 10,
+                      "y": 3
+                    },
+                    {
+                      "x": 11,
+                      "y": 3
+                    },
+                    {
+                      "x": 12,
+                      "y": 3
+                    },
+                    {
+                      "x": 13,
+                      "y": 3
+                    },
+                    {
+                      "x": 14,
+                      "y": 3
+                    },
+                    {
+                      "x": 15,
+                      "y": 3
+                    }
+                  ],
+                  "closed": false
+                }
+              ]
+            },
+            "overrides": [
+              {
+                "slotKey": "border3d-slot:be742133f52abd335e7b7ca4efd8c44c1f22b52380b78bda647614a8a38308f1",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-raccord-ouest-lineCap-0"
+              },
+              {
+                "slotKey": "border3d-slot:d422e76fa542f2102e7adc37f2b837ca05415c2a7017b29181baaa43540dd95e",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-raccord-est-lineCap-0"
+              },
+              {
+                "slotKey": "border3d-slot:53f8c3ee28221af6a6fa25da0f32ac81143b03ece5480c2ee8cbf7bfd80bb41e",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-porte-0-lineStraight-1"
+              },
+              {
+                "slotKey": "border3d-slot:8245233715cf758870c2175467b37c502fbd217eb0b864527ce12233218fd4cc",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-porte-1-lineStraight-0"
+              },
+              {
+                "slotKey": "border3d-slot:893431b1bcd97cbf8edd7cb8a3283e8de0cacb012e45154a8fc0425ddf53412f",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-porte-2-lineStraight-1"
+              },
+              {
+                "slotKey": "border3d-slot:43cec63f02ab412a16bcf3abc9bd173d91c2d0896730b5e04d6e700d5be36fa9",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-porte-0-lineStraight-1"
+              },
+              {
+                "slotKey": "border3d-slot:6732d344ee3895a64d5b44b20237e069131968e6169bb13686c58214f0ac33d9",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-porte-1-lineStraight-0"
+              },
+              {
+                "slotKey": "border3d-slot:d6c492f4acd3a88ddb55a0da6db9a4236e11614bf95c954c5a45bde9e9de589d",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-porte-2-lineStraight-1"
+              }
+            ],
+            "keepOutRegions": [],
+            "materialization": {
+              "receipt": {
+                "resolverVersion": 4,
+                "blueprintRevision": 1,
+                "components": {
+                  "blueprint": "sha256:98508ac56892f8a33a67170fffbae87a8e33768b28966dda67b02978f09e5427",
+                  "geometryAndSeed": "sha256:b9254c98b21502b0c1f54d39aba402f0a3c7c6ff2a81c5f3b67216d71a0f0407",
+                  "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
+                  "overrides": "sha256:ee1e683873fe5ad6e90e6bcdb322ddbf48bfe98453048797c2eb9a43a8c385c5",
+                  "keepOutRegions": "sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+                  "mapContext": "sha256:c5c239314b312ab9e1089fbca8c8507917e84b8ba242672d9b069b6c56ca2475",
+                  "visualSnapshots": "sha256:f29278fbb8aa923b0cd51bafb9319d74d6b520fe5c0785bca3e36b3ae2e53ab4"
+                },
+                "inputFingerprint": "sha256:a10e2f6237f994656f2601857b5fd13d025aa3e1ae360d92991390b217d70dc3",
+                "outputFingerprint": "sha256:a208106bb332d54da20e2b56a24ef9c1ce20fe6d86e3893bca3c66130246bc82"
+              },
+              "targetsSpatialScene": true,
+              "spatialPlacements": [
+                {
+                  "slotKey": "border3d-slot:be742133f52abd335e7b7ca4efd8c44c1f22b52380b78bda647614a8a38308f1",
+                  "primitiveId": "zz-raccord-ouest-lineCap-0",
+                  "instanceId": "border3d_adc277b909932de0b39a8eb6b4c6be12"
+                },
+                {
+                  "slotKey": "border3d-slot:a79d5829c4ea19b8e28cbd07f8bcac4f9082cf524ade522bed6289a11b04f7a1",
+                  "primitiveId": "lineStraight-1",
+                  "instanceId": "border3d_0b706ea376fd587b66a7ff60ddf8496a"
+                },
+                {
+                  "slotKey": "border3d-slot:ff598a31c8e249bdd1bc33dfdb0efb5ba9a2142950ff50d5ba2ec96d00162981",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_3ea148d1b36bb5301feb7410fe0e4f61"
+                },
+                {
+                  "slotKey": "border3d-slot:53f8c3ee28221af6a6fa25da0f32ac81143b03ece5480c2ee8cbf7bfd80bb41e",
+                  "primitiveId": "zz-porte-0-lineStraight-1",
+                  "instanceId": "border3d_df7c6b7a1b0d288853151185c3fe1904"
+                },
+                {
+                  "slotKey": "border3d-slot:8245233715cf758870c2175467b37c502fbd217eb0b864527ce12233218fd4cc",
+                  "primitiveId": "zz-porte-1-lineStraight-0",
+                  "instanceId": "border3d_0905601090a6dc90c743d2e3852afcaf"
+                },
+                {
+                  "slotKey": "border3d-slot:893431b1bcd97cbf8edd7cb8a3283e8de0cacb012e45154a8fc0425ddf53412f",
+                  "primitiveId": "zz-porte-2-lineStraight-1",
+                  "instanceId": "border3d_615ec46504ed61272316780b29ff638c"
+                },
+                {
+                  "slotKey": "border3d-slot:4672cb87a772e789c84d4777352833d7f0f82c3624ca8b14c60602287c4ed796",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_2d94a57eb3bde1cc8b2c91a9adea124c"
+                },
+                {
+                  "slotKey": "border3d-slot:43cec63f02ab412a16bcf3abc9bd173d91c2d0896730b5e04d6e700d5be36fa9",
+                  "primitiveId": "zz-porte-0-lineStraight-1",
+                  "instanceId": "border3d_f3f2723dff47d5e9eac2c350df9a21c4"
+                },
+                {
+                  "slotKey": "border3d-slot:6732d344ee3895a64d5b44b20237e069131968e6169bb13686c58214f0ac33d9",
+                  "primitiveId": "zz-porte-1-lineStraight-0",
+                  "instanceId": "border3d_1fa178f1e94f217915fd88357b38054d"
+                },
+                {
+                  "slotKey": "border3d-slot:d6c492f4acd3a88ddb55a0da6db9a4236e11614bf95c954c5a45bde9e9de589d",
+                  "primitiveId": "zz-porte-2-lineStraight-1",
+                  "instanceId": "border3d_f6ddd36f60bcfa31731f387464890a24"
+                },
+                {
+                  "slotKey": "border3d-slot:0a1230ba281050f6677cee0ce26067da8f59b3e196c7ed8f7f9c294641281da3",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_5aaf3aec158bb0431dc4cfd94fbe2a7d"
+                },
+                {
+                  "slotKey": "border3d-slot:ea58bc725311958904fb457c96e3855ba13172ed7e1707f52b83081f239c2eba",
+                  "primitiveId": "lineStraight-1",
+                  "instanceId": "border3d_1b912f64cbe4327127d1538cf5c0ca14"
+                },
+                {
+                  "slotKey": "border3d-slot:35f845a5b7a6f51eb7716c5aea77c195a7481831ef896d26bf5fe4f627ce4765",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_30de1e7181e56b72f85b2aa8ef40f5ca"
+                },
+                {
+                  "slotKey": "border3d-slot:a5db52f719f844a95e67ae901e2cd5583b416483000e8826c28e84426d5cab35",
+                  "primitiveId": "lineStraight-1",
+                  "instanceId": "border3d_11578ab2e7982ac9768f2efef5f6f4cb"
+                },
+                {
+                  "slotKey": "border3d-slot:d422e76fa542f2102e7adc37f2b837ca05415c2a7017b29181baaa43540dd95e",
+                  "primitiveId": "zz-raccord-est-lineCap-0",
+                  "instanceId": "border3d_4b798b6be220f512269986ff00f4b7f5"
+                }
+              ]
+            }
+          },
+          {
+            "id": "mur-ouest",
+            "name": "mur-ouest",
+            "blueprintId": "hgss-centre-b1-mur-ouest-embouts-v2",
+            "seed": "0",
+            "geometry": {
+              "kind": "stroke",
+              "strokes": [
+                {
+                  "id": "mur",
+                  "points": [
+                    {
+                      "x": 1,
+                      "y": 11
+                    },
+                    {
+                      "x": 1,
+                      "y": 10
+                    },
+                    {
+                      "x": 1,
+                      "y": 9
+                    },
+                    {
+                      "x": 1,
+                      "y": 8
+                    },
+                    {
+                      "x": 1,
+                      "y": 7
+                    },
+                    {
+                      "x": 1,
+                      "y": 6
+                    },
+                    {
+                      "x": 1,
+                      "y": 5
+                    },
+                    {
+                      "x": 1,
+                      "y": 4
+                    }
+                  ],
+                  "closed": false
+                }
+              ]
+            },
+            "overrides": [
+              {
+                "slotKey": "border3d-slot:332433f617b1e6ff1cad2be87cb1e114985037f8b50f4fc9a750e66c0718af32",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-embout-source-lineCap-0"
+              }
+            ],
+            "keepOutRegions": [],
+            "materialization": {
+              "receipt": {
+                "resolverVersion": 4,
+                "blueprintRevision": 1,
+                "components": {
+                  "blueprint": "sha256:9539df0541b9401a60f8a76ea66e55d8719010903256cbbc0e74f1a073d0a711",
+                  "geometryAndSeed": "sha256:40cbbf2cf4ed76784d32fc1c455a9d3928cf85cc4c81ffd7c0f18bc2a67ce941",
+                  "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
+                  "overrides": "sha256:80d69d654715df2e9360de8690bd57686c95f9e1b0384a5d2025f32479dd1f9c",
+                  "keepOutRegions": "sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+                  "mapContext": "sha256:c5c239314b312ab9e1089fbca8c8507917e84b8ba242672d9b069b6c56ca2475",
+                  "visualSnapshots": "sha256:2d0084270b752f9b2118931e5707868f4410b3cafdd1de76da0f85ef5921f0ff"
+                },
+                "inputFingerprint": "sha256:fb9f0bdeea3e1e1ef4dabd43465e05f197cc24278368a4d1b572ceebded8561d",
+                "outputFingerprint": "sha256:059db02f7c668f632044adbe69a5d61b05d7b3b688515a7a0dd01e13a66b7f14"
+              },
+              "targetsSpatialScene": true,
+              "spatialPlacements": [
+                {
+                  "slotKey": "border3d-slot:332433f617b1e6ff1cad2be87cb1e114985037f8b50f4fc9a750e66c0718af32",
+                  "primitiveId": "zz-embout-source-lineCap-0",
+                  "instanceId": "border3d_ce60fc2f8c1fe4b02ff3c1be3dd99d04"
+                },
+                {
+                  "slotKey": "border3d-slot:79bf5887c942d4ed4071c9d1cad721f71c3640a93e3629cfdf1e8a815b71dcea",
+                  "primitiveId": "lineStraight-1",
+                  "instanceId": "border3d_94d7557ec74998a6c4ec41857cf081b7"
+                },
+                {
+                  "slotKey": "border3d-slot:82d4f0f89a5b57def69000746f1186e8a7550f78f005767dbef65ff13de5e355",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_70f4952f667282a22632686e03ec5b01"
+                },
+                {
+                  "slotKey": "border3d-slot:876d564f9deb5189732d64b8b564097e2d6c1f2276f31644b90bf9a2050dc1ec",
+                  "primitiveId": "lineStraight-1",
+                  "instanceId": "border3d_c9e7c890e82db3436b7461f9abe60d6b"
+                },
+                {
+                  "slotKey": "border3d-slot:01faa6848b54f74fcfaa02fb6d1bbd89d4e5058534289d6122b6375a903b551a",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_8c2275529d1b456c38a3618150fc99b3"
+                },
+                {
+                  "slotKey": "border3d-slot:febb0c87952ab1e0b414e77a172d3737b6e8f9e71370269a5ddbcff7b19c8751",
+                  "primitiveId": "lineStraight-1",
+                  "instanceId": "border3d_ff4b9185e4731fa7202daa506d0b3187"
+                },
+                {
+                  "slotKey": "border3d-slot:be90f1d57076905b074ef543575c77e351b9e2b7a22366320d27c275a28945d0",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_5c6ba33efd6bce4c1d92ed5742972d56"
+                },
+                {
+                  "slotKey": "border3d-slot:0091fac63f3c51739bc3ad5e74e31f7b3646533094544e6e8b851c6d96419b64",
+                  "primitiveId": "lineCap-1",
+                  "instanceId": "border3d_111c7b09ebeb02822dcb6e30c0dbc284"
+                }
+              ]
+            }
+          },
+          {
+            "id": "mur-est",
+            "name": "mur-est",
+            "blueprintId": "hgss-centre-b1-mur-est-embouts-v2",
+            "seed": "0",
+            "geometry": {
+              "kind": "stroke",
+              "strokes": [
+                {
+                  "id": "mur",
+                  "points": [
+                    {
+                      "x": 16,
+                      "y": 4
+                    },
+                    {
+                      "x": 16,
+                      "y": 5
+                    },
+                    {
+                      "x": 16,
+                      "y": 6
+                    },
+                    {
+                      "x": 16,
+                      "y": 7
+                    },
+                    {
+                      "x": 16,
+                      "y": 8
+                    },
+                    {
+                      "x": 16,
+                      "y": 9
+                    },
+                    {
+                      "x": 16,
+                      "y": 10
+                    },
+                    {
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
+                  "closed": false
+                }
+              ]
+            },
+            "overrides": [
+              {
+                "slotKey": "border3d-slot:3a3bdbe5f5e20b0b53db4af2cdfa782f5513874b30773a3449b06ec8e400fedc",
+                "variationSalt": "0",
+                "suppressed": false,
+                "locked": false,
+                "replacementPrimitiveId": "zz-embout-source-lineCap-1"
+              }
+            ],
+            "keepOutRegions": [],
+            "materialization": {
+              "receipt": {
+                "resolverVersion": 4,
+                "blueprintRevision": 1,
+                "components": {
+                  "blueprint": "sha256:95cc6f5ae2080ecbc2250efd3f8058d65c8e250667ac3235f924ac8d7224b63b",
+                  "geometryAndSeed": "sha256:bd7226f5777d5e61161f854931a655561010b9aca05e49fb2cbf8dabdbca5edb",
+                  "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
+                  "overrides": "sha256:1e39a469126a0f80a4b65f556a90f445e176c5354c7972d7cf9be63f5c4a9698",
+                  "keepOutRegions": "sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+                  "mapContext": "sha256:c5c239314b312ab9e1089fbca8c8507917e84b8ba242672d9b069b6c56ca2475",
+                  "visualSnapshots": "sha256:dff73009e5654aee4ea9c5b34f19a4bea84ff67c550e07240eb3caf2faef4e02"
+                },
+                "inputFingerprint": "sha256:fbf101979eee3f7cedb26f8916f4a27db6e391a429d0bf9c4898d17fdabfb771",
+                "outputFingerprint": "sha256:396badf6c76ef6a2e5e6d1f98e68ade076af7ffbee064736bf9f6a13be3347e7"
+              },
+              "targetsSpatialScene": true,
+              "spatialPlacements": [
+                {
+                  "slotKey": "border3d-slot:bf10121baa524a144ac31bb53d57981dda6b4fa113ccb2cc05c0b8c2e8938a1b",
+                  "primitiveId": "lineCap-0",
+                  "instanceId": "border3d_ebfe6a8f5050bbec1b1cdde3fd550db4"
+                },
+                {
+                  "slotKey": "border3d-slot:a694fe7fb2939621692670248e003ad26ea4d948ab5fe044f50da494f744cf09",
+                  "primitiveId": "lineStraight-1",
+                  "instanceId": "border3d_1177863ba42485ea6c4f2de6f20f9cf2"
+                },
+                {
+                  "slotKey": "border3d-slot:e073a96071e606720d168849c62ab68be26805b741dd422f448fa2f00b6f6f66",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_8ec53c8dae8fd1fe89960ea1dd916719"
+                },
+                {
+                  "slotKey": "border3d-slot:d4d64ef27061b2e3492839e71d08f225755e451c94c8943f70b995c7f2f4c18f",
+                  "primitiveId": "lineStraight-1",
+                  "instanceId": "border3d_0f1475edb5c28c366650aebb58b55843"
+                },
+                {
+                  "slotKey": "border3d-slot:07560858213782703dd401ee0954b17c4d14dd74784ac2a2c10f2f1a641f3ff4",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_54dd790257cb6430058d4b519a10c22a"
+                },
+                {
+                  "slotKey": "border3d-slot:d476db5f6751d577eb49e64da74657b9ab162d9d693cd63f89844f1db5298b9d",
+                  "primitiveId": "lineStraight-1",
+                  "instanceId": "border3d_e780505ac647df7d782d224af2b6b7a2"
+                },
+                {
+                  "slotKey": "border3d-slot:f4c07c8cf912e3b0c645862dce259f0ada640b434f152245bcc36e6a6732c656",
+                  "primitiveId": "lineStraight-0",
+                  "instanceId": "border3d_ad8237b28f265e307e6eae04de4fa09c"
+                },
+                {
+                  "slotKey": "border3d-slot:3a3bdbe5f5e20b0b53db4af2cdfa782f5513874b30773a3449b06ec8e400fedc",
+                  "primitiveId": "zz-embout-source-lineCap-1",
+                  "instanceId": "border3d_53a34a2c9f1cf9477c0c23ac50e3fa4b"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "properties": {},
+      "runtimeType": "border"
+    },
+    {
+      "id": "sols",
+      "name": "Carrelage natif",
+      "isVisible": true,
+      "opacity": 1.0,
+      "presetId": "hgss-centre-b1-carrelage-preset",
+      "usage": "terrain",
+      "materialPalette": [
+        "",
+        "hgss-centre-b1-carrelage-neutre"
+      ],
+      "field": {
+        "semanticCells": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "kind": "cell"
+      },
+      "patternStrokes": [
+        {
+          "id": "carrelage-1-2",
+          "patternId": "hgss-centre-b1-motif-a-86c1bd4388b6",
+          "cells": [
+            {
+              "x": 1,
+              "y": 2
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-2-2",
+          "patternId": "hgss-centre-b1-motif-b-768ba71886d5",
+          "cells": [
+            {
+              "x": 2,
+              "y": 2
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-3-2",
+          "patternId": "hgss-centre-b1-motif-a-c16871a1fb3e",
+          "cells": [
+            {
+              "x": 3,
+              "y": 2
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-4-2",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 4,
+              "y": 2
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-5-2",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 5,
+              "y": 2
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-6-2",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 6,
+              "y": 2
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-7-2",
+          "patternId": "hgss-centre-b1-motif-a-c16871a1fb3e",
+          "cells": [
+            {
+              "x": 7,
+              "y": 2
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-8-2",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 8,
+              "y": 2
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-9-2",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 9,
+              "y": 2
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-10-2",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 10,
+              "y": 2
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-11-2",
+          "patternId": "hgss-centre-b1-motif-a-c16871a1fb3e",
+          "cells": [
+            {
+              "x": 11,
+              "y": 2
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-12-2",
+          "patternId": "hgss-centre-b1-motif-b-768ba71886d5",
+          "cells": [
+            {
+              "x": 12,
+              "y": 2
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-13-2",
+          "patternId": "hgss-centre-b1-motif-a-c16871a1fb3e",
+          "cells": [
+            {
+              "x": 13,
+              "y": 2
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-14-2",
+          "patternId": "hgss-centre-b1-motif-b-768ba71886d5",
+          "cells": [
+            {
+              "x": 14,
+              "y": 2
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-15-2",
+          "patternId": "hgss-centre-b1-motif-a-efe0ac83f438",
+          "cells": [
+            {
+              "x": 15,
+              "y": 2
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -2
+        },
+        {
+          "id": "carrelage-1-3",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 1,
+              "y": 3
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-2-3",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 2,
+              "y": 3
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-3-3",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 3,
+              "y": 3
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-4-3",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 4,
+              "y": 3
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-5-3",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 5,
+              "y": 3
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-6-3",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 6,
+              "y": 3
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-7-3",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 7,
+              "y": 3
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-8-3",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 8,
+              "y": 3
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-9-3",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 9,
+              "y": 3
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-10-3",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 10,
+              "y": 3
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-11-3",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 11,
+              "y": 3
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-12-3",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 12,
+              "y": 3
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-13-3",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 13,
+              "y": 3
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-14-3",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 14,
+              "y": 3
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-15-3",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 15,
+              "y": 3
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -3
+        },
+        {
+          "id": "carrelage-1-4",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 1,
+              "y": 4
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-2-4",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 2,
+              "y": 4
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-3-4",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 3,
+              "y": 4
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-4-4",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 4,
+              "y": 4
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-5-4",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 5,
+              "y": 4
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-6-4",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 6,
+              "y": 4
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-7-4",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 7,
+              "y": 4
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-8-4",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 8,
+              "y": 4
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-9-4",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 9,
+              "y": 4
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-10-4",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 10,
+              "y": 4
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-11-4",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 11,
+              "y": 4
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-12-4",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 12,
+              "y": 4
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-13-4",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 13,
+              "y": 4
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-14-4",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 14,
+              "y": 4
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-15-4",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 15,
+              "y": 4
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -4
+        },
+        {
+          "id": "carrelage-1-5",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 1,
+              "y": 5
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-2-5",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 2,
+              "y": 5
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-3-5",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 3,
+              "y": 5
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-4-5",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 4,
+              "y": 5
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-5-5",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 5,
+              "y": 5
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-6-5",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 6,
+              "y": 5
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-7-5",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 7,
+              "y": 5
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-8-5",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 8,
+              "y": 5
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-9-5",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 9,
+              "y": 5
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-10-5",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 10,
+              "y": 5
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-11-5",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 11,
+              "y": 5
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-12-5",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 12,
+              "y": 5
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-13-5",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 13,
+              "y": 5
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-14-5",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 14,
+              "y": 5
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-15-5",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 15,
+              "y": 5
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -5
+        },
+        {
+          "id": "carrelage-1-6",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 1,
+              "y": 6
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-2-6",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 2,
+              "y": 6
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-3-6",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 3,
+              "y": 6
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-4-6",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 4,
+              "y": 6
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-5-6",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 5,
+              "y": 6
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-6-6",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 6,
+              "y": 6
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-7-6",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 7,
+              "y": 6
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-8-6",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 8,
+              "y": 6
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-9-6",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 9,
+              "y": 6
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-10-6",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 10,
+              "y": 6
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-11-6",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 11,
+              "y": 6
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-12-6",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 12,
+              "y": 6
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-13-6",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 13,
+              "y": 6
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-14-6",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 14,
+              "y": 6
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-15-6",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 15,
+              "y": 6
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -6
+        },
+        {
+          "id": "carrelage-1-7",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 1,
+              "y": 7
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-2-7",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 2,
+              "y": 7
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-3-7",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 3,
+              "y": 7
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-4-7",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 4,
+              "y": 7
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-5-7",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 5,
+              "y": 7
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-6-7",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 6,
+              "y": 7
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-7-7",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 7,
+              "y": 7
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-8-7",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 8,
+              "y": 7
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-9-7",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 9,
+              "y": 7
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-10-7",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 10,
+              "y": 7
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-11-7",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 11,
+              "y": 7
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-12-7",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 12,
+              "y": 7
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-13-7",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 13,
+              "y": 7
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-14-7",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 14,
+              "y": 7
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-15-7",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 15,
+              "y": 7
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -7
+        },
+        {
+          "id": "carrelage-1-8",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 1,
+              "y": 8
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-2-8",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 2,
+              "y": 8
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-3-8",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 3,
+              "y": 8
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-4-8",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 4,
+              "y": 8
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-5-8",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 5,
+              "y": 8
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-6-8",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 6,
+              "y": 8
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-7-8",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 7,
+              "y": 8
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-8-8",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 8,
+              "y": 8
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-9-8",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 9,
+              "y": 8
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-10-8",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 10,
+              "y": 8
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-11-8",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 11,
+              "y": 8
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-12-8",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 12,
+              "y": 8
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-13-8",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 13,
+              "y": 8
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-14-8",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 14,
+              "y": 8
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-15-8",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 15,
+              "y": 8
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -8
+        },
+        {
+          "id": "carrelage-1-9",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 1,
+              "y": 9
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-2-9",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 2,
+              "y": 9
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-3-9",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 3,
+              "y": 9
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-4-9",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 4,
+              "y": 9
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-5-9",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 5,
+              "y": 9
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-6-9",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 6,
+              "y": 9
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-7-9",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 7,
+              "y": 9
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-8-9",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 8,
+              "y": 9
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-9-9",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 9,
+              "y": 9
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-10-9",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 10,
+              "y": 9
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-11-9",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 11,
+              "y": 9
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-12-9",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 12,
+              "y": 9
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-13-9",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 13,
+              "y": 9
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-14-9",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 14,
+              "y": 9
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-15-9",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 15,
+              "y": 9
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -9
+        },
+        {
+          "id": "carrelage-1-10",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 1,
+              "y": 10
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-2-10",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 2,
+              "y": 10
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-3-10",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 3,
+              "y": 10
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-4-10",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 4,
+              "y": 10
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-5-10",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 5,
+              "y": 10
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-6-10",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 6,
+              "y": 10
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-7-10",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 7,
+              "y": 10
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-8-10",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 8,
+              "y": 10
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-9-10",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 9,
+              "y": 10
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-10-10",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 10,
+              "y": 10
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-11-10",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 11,
+              "y": 10
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-12-10",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 12,
+              "y": 10
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-13-10",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 13,
+              "y": 10
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-14-10",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 14,
+              "y": 10
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-15-10",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 15,
+              "y": 10
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -10
+        },
+        {
+          "id": "carrelage-1-11",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 1,
+              "y": 11
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-2-11",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 2,
+              "y": 11
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-3-11",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 3,
+              "y": 11
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-4-11",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 4,
+              "y": 11
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-5-11",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 5,
+              "y": 11
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-6-11",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 6,
+              "y": 11
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-7-11",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 7,
+              "y": 11
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-8-11",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 8,
+              "y": 11
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-9-11",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 9,
+              "y": 11
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-10-11",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 10,
+              "y": 11
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-11-11",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 11,
+              "y": 11
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-12-11",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 12,
+              "y": 11
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-13-11",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 13,
+              "y": 11
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-14-11",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 14,
+              "y": 11
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-15-11",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 15,
+              "y": 11
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -11
+        },
+        {
+          "id": "carrelage-1-12",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 1,
+              "y": 12
+            }
+          ],
+          "phaseX": -1,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-2-12",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 2,
+              "y": 12
+            }
+          ],
+          "phaseX": -2,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-3-12",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 3,
+              "y": 12
+            }
+          ],
+          "phaseX": -3,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-4-12",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 4,
+              "y": 12
+            }
+          ],
+          "phaseX": -4,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-5-12",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 5,
+              "y": 12
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-6-12",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 6,
+              "y": 12
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-7-12",
+          "patternId": "hgss-centre-b1-motif-a-445c237461db",
+          "cells": [
+            {
+              "x": 7,
+              "y": 12
+            }
+          ],
+          "phaseX": -7,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-8-12",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 8,
+              "y": 12
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-9-12",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 9,
+              "y": 12
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-10-12",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 10,
+              "y": 12
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-11-12",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 11,
+              "y": 12
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-12-12",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 12,
+              "y": 12
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-13-12",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 13,
+              "y": 12
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-14-12",
+          "patternId": "hgss-centre-b1-motif-b-e1bc9db8d91d",
+          "cells": [
+            {
+              "x": 14,
+              "y": 12
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-15-12",
+          "patternId": "hgss-centre-b1-motif-a-85171fd5e146",
+          "cells": [
+            {
+              "x": 15,
+              "y": 12
+            }
+          ],
+          "phaseX": -15,
+          "phaseY": -12
+        },
+        {
+          "id": "carrelage-8-13",
+          "patternId": "hgss-centre-b1-motif-a-0170f238d7a3",
+          "cells": [
+            {
+              "x": 8,
+              "y": 13
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -13
+        },
+        {
+          "id": "carrelage-9-13",
+          "patternId": "hgss-centre-b1-motif-b-1e6443eaa6c6",
+          "cells": [
+            {
+              "x": 9,
+              "y": 13
+            }
+          ],
+          "phaseX": -9,
+          "phaseY": -13
+        },
+        {
+          "id": "carrelage-10-13",
+          "patternId": "hgss-centre-b1-motif-a-547e644bed3e",
+          "cells": [
+            {
+              "x": 10,
+              "y": 13
+            }
+          ],
+          "phaseX": -10,
+          "phaseY": -13
+        },
+        {
+          "id": "carrelage-11-13",
+          "patternId": "hgss-centre-b1-motif-b-abdcf6681e3b",
+          "cells": [
+            {
+              "x": 11,
+              "y": 13
+            }
+          ],
+          "phaseX": -11,
+          "phaseY": -13
+        },
+        {
+          "id": "carrelage-12-13",
+          "patternId": "hgss-centre-b1-motif-a-dbb6cbf5e1b1",
+          "cells": [
+            {
+              "x": 12,
+              "y": 13
+            }
+          ],
+          "phaseX": -12,
+          "phaseY": -13
+        },
+        {
+          "id": "carrelage-13-13",
+          "patternId": "hgss-centre-b1-motif-b-bb86694f47a6",
+          "cells": [
+            {
+              "x": 13,
+              "y": 13
+            }
+          ],
+          "phaseX": -13,
+          "phaseY": -13
+        },
+        {
+          "id": "carrelage-14-13",
+          "patternId": "hgss-centre-b1-motif-a-687c7e65af5f",
+          "cells": [
+            {
+              "x": 14,
+              "y": 13
+            }
+          ],
+          "phaseX": -14,
+          "phaseY": -13
+        }
+      ],
+      "layerSeed": 0,
+      "animationActivation": "always",
+      "properties": {},
+      "runtimeType": "smart_tile"
+    }
+  ],
+  "placedElements": [],
+  "movingPlatforms": [],
+  "movingProps": [],
+  "entities": [
+    {
+      "id": "centre-b1-pnj-0",
+      "name": "Hôtesse",
+      "kind": "npc",
+      "pos": {
+        "x": 4,
+        "y": 4
+      },
+      "size": {
+        "width": 1,
+        "height": 1
+      },
+      "npc": {
+        "displayName": "Hôtesse",
+        "dialogue": {
+          "dialogueId": "hgss-centre-b1-salutation-0",
+          "scriptPathRelative": "",
+          "startNode": "Start"
+        },
+        "facing": "south",
+        "visualElementId": "",
+        "trainerId": null,
+        "lineOfSightRange": 0,
+        "counterInteractionSides": [
+          "south"
+        ],
+        "defeatDialogueRef": null,
+        "characterId": "hgss-centre-b1-hotesse-286",
+        "movement": {
+          "mode": "scriptedOnly",
+          "waypoints": [],
+          "routeSteps": [],
+          "suspendWhenInstanceBoolean": null,
+          "loop": true,
+          "pauseDurationMs": 0,
+          "pauseDurationsMs": [],
+          "stepDurationMs": 200
+        },
+        "visibilityRule": null,
+        "conditionalDialogues": []
+      },
+      "sign": null,
+      "item": null,
+      "spawn": null,
+      "counterInteractionSides": [],
+      "interactionMode": "front",
+      "editorVisual": null,
+      "blocksMovement": true,
+      "properties": {}
+    },
+    {
+      "id": "centre-b1-pnj-1",
+      "name": "Réceptionniste",
+      "kind": "npc",
+      "pos": {
+        "x": 8,
+        "y": 4
+      },
+      "size": {
+        "width": 1,
+        "height": 1
+      },
+      "npc": {
+        "displayName": "Réceptionniste",
+        "dialogue": {
+          "dialogueId": "hgss-centre-b1-salutation-1",
+          "scriptPathRelative": "",
+          "startNode": "Start"
+        },
+        "facing": "south",
+        "visualElementId": "",
+        "trainerId": null,
+        "lineOfSightRange": 0,
+        "counterInteractionSides": [
+          "south"
+        ],
+        "defeatDialogueRef": null,
+        "characterId": "hgss-receptionniste-centre",
+        "movement": {
+          "mode": "scriptedOnly",
+          "waypoints": [],
+          "routeSteps": [],
+          "suspendWhenInstanceBoolean": null,
+          "loop": true,
+          "pauseDurationMs": 0,
+          "pauseDurationsMs": [],
+          "stepDurationMs": 200
+        },
+        "visibilityRule": null,
+        "conditionalDialogues": []
+      },
+      "sign": null,
+      "item": null,
+      "spawn": null,
+      "counterInteractionSides": [],
+      "interactionMode": "front",
+      "editorVisual": null,
+      "blocksMovement": true,
+      "properties": {}
+    },
+    {
+      "id": "centre-b1-pnj-2",
+      "name": "Réceptionniste",
+      "kind": "npc",
+      "pos": {
+        "x": 12,
+        "y": 4
+      },
+      "size": {
+        "width": 1,
+        "height": 1
+      },
+      "npc": {
+        "displayName": "Réceptionniste",
+        "dialogue": {
+          "dialogueId": "hgss-centre-b1-salutation-2",
+          "scriptPathRelative": "",
+          "startNode": "Start"
+        },
+        "facing": "south",
+        "visualElementId": "",
+        "trainerId": null,
+        "lineOfSightRange": 0,
+        "counterInteractionSides": [
+          "south"
+        ],
+        "defeatDialogueRef": null,
+        "characterId": "hgss-receptionniste-centre",
+        "movement": {
+          "mode": "scriptedOnly",
+          "waypoints": [],
+          "routeSteps": [],
+          "suspendWhenInstanceBoolean": null,
+          "loop": true,
+          "pauseDurationMs": 0,
+          "pauseDurationsMs": [],
+          "stepDurationMs": 200
+        },
+        "visibilityRule": null,
+        "conditionalDialogues": []
+      },
+      "sign": null,
+      "item": null,
+      "spawn": null,
+      "counterInteractionSides": [],
+      "interactionMode": "front",
+      "editorVisual": null,
+      "blocksMovement": true,
+      "properties": {}
+    }
+  ],
+  "connections": [],
+  "warps": [
+    {
+      "id": "solo-arrivee",
+      "pos": {
+        "x": 14,
+        "y": 10
+      },
+      "targetMapId": "route32-centre-pokemon-sous-sol",
+      "targetPos": {
+        "x": 14,
+        "y": 10
+      },
+      "triggerMode": "scene_only",
+      "allowedApproachFacings": [],
+      "triggerPadding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "transition": {
+        "type": "fade",
+        "durationSeconds": 0.2
+      }
+    }
+  ],
+  "triggers": [
+    {
+      "id": "solo-escalator-montee",
+      "name": "Escalator — passage solo",
+      "type": "event",
+      "area": {
+        "pos": {
+          "x": 14,
+          "y": 10
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        }
+      },
+      "properties": {}
+    }
+  ],
+  "gameplayZones": [],
+  "mapMetadata": {
+    "displayName": "",
+    "mapType": "route",
+    "musicPath": "assets/audio/johto/services/centre-pokemon-orchestral.wav",
+    "musicVolume": 0.8,
+    "battleMusicPath": null,
+    "weather": "none",
+    "isIndoor": true,
+    "allowBicycle": false,
+    "allowEscapeRope": true,
+    "escapeRopeDungeonId": null,
+    "defaultSpawnId": null,
+    "tags": []
+  },
+  "properties": {},
+  "events": []
+}

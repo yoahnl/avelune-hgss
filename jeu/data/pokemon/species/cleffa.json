@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "cute_charm",
+    "secondary": "magic_guard"
+  },
+  "baseStats": {
+    "atk": 25,
+    "bst": 218,
+    "def": 28,
+    "hp": 50,
+    "spa": 45,
+    "spd": 55,
+    "spe": 15
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "cleffa",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "cleffa",
+  "names": {
+    "fr": "Melo"
+  },
+  "nationalDex": 173,
+  "progression": {
+    "baseExp": 37,
+    "baseFriendship": 140,
+    "catchRate": 150,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "cleffa",
+    "learnset": "cleffa",
+    "media": "cleffa"
+  },
+  "schemaVersion": 1,
+  "slug": "cleffa",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

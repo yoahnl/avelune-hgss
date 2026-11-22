@@ -1,0 +1,28 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 2,
+  "speciesId": "zubat",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backAnimated": "assets/pokemon/gen5-fallback/zubat/back-animated.gif",
+      "backFemaleAnimated": "assets/pokemon/gen5-fallback/zubat/back-female-animated.gif",
+      "backShinyAnimated": "assets/pokemon/gen5-fallback/zubat/back-shiny-animated.gif",
+      "backShinyFemaleAnimated": "assets/pokemon/gen5-fallback/zubat/back-shiny-female-animated.gif",
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/zubat/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/zubat/back.png",
+      "cry": "assets/pokemon/battle-cries/7600952ecb0f2dac224c8977fff91c182cacd2194b25ddf90b577bf3b5c9acd9.wav",
+      "frontAnimated": "assets/pokemon/gen5-fallback/zubat/front-animated.gif",
+      "frontFemaleAnimated": "assets/pokemon/gen5-fallback/zubat/front-female-animated.gif",
+      "frontShinyAnimated": "assets/pokemon/gen5-fallback/zubat/front-shiny-animated.gif",
+      "frontShinyFemaleAnimated": "assets/pokemon/gen5-fallback/zubat/front-shiny-female-animated.gif",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/zubat/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/zubat/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/zubat/icon.png",
+      "overworld": "assets/pokemon/overworld/zubat/base/e8f06a38fe4656567b1d27e0713d893eccb9407b41f7f639a5dc915a308e6341.png",
+      "overworldShiny": "assets/pokemon/overworld/zubat/base/3fbf721f45c05e9610a3193284d87f1b4a247b4ef88d80e70e90582af413341e.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/zubat/icon.png",
+      "portrait": null
+    }
+  }
+}

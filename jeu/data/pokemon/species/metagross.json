@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "clear_body",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 135,
+    "bst": 600,
+    "def": 130,
+    "hp": 80,
+    "spa": 95,
+    "spd": 90,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "metagross",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "metagross",
+  "names": {
+    "fr": "Metalosse"
+  },
+  "nationalDex": 376,
+  "progression": {
+    "baseExp": 210,
+    "baseFriendship": 35,
+    "catchRate": 3,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "metagross",
+    "learnset": "metagross",
+    "media": "metagross"
+  },
+  "schemaVersion": 1,
+  "slug": "metagross",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "steel",
+      "psychic"
+    ]
+  }
+}

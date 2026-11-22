@@ -1,0 +1,66 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "toxic_spikes",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "withdraw",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "supersonic",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "aurora_beam",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "protect",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 28,
+      "moveId": "spikes",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 40,
+      "moveId": "spike_cannon",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "withdraw",
+    "supersonic",
+    "aurora_beam",
+    "protect"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "cloyster",
+  "startingMoves": [
+    "withdraw",
+    "supersonic",
+    "aurora_beam",
+    "protect"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

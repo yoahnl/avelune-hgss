@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "mawile",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/mawile/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/mawile/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/2dcf1d0bbdd0e871ad01d0c9b221b0ad633873f7c6a6dae6b6074515efe95ba5.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/mawile/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/mawile/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/mawile/icon.png",
+      "overworld": "assets/pokemon/hgss-api/mawile/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/mawile/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/mawile/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "wood_hammer",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "tackle",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "withdraw",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "absorb",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "razor_leaf",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 5,
+      "moveId": "withdraw",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 9,
+      "moveId": "absorb",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 13,
+      "moveId": "razor_leaf",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 17,
+      "moveId": "curse",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 22,
+      "moveId": "bite",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 27,
+      "moveId": "mega_drain",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 32,
+      "moveId": "earthquake",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 33,
+      "moveId": "leech_seed",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 39,
+      "moveId": "synthesis",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 45,
+      "moveId": "crunch",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 51,
+      "moveId": "giga_drain",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 57,
+      "moveId": "leaf_storm",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "tackle",
+    "withdraw",
+    "absorb",
+    "razor_leaf"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "torterra",
+  "startingMoves": [
+    "tackle",
+    "withdraw",
+    "absorb",
+    "razor_leaf"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

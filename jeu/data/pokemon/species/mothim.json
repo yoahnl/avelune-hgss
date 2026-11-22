@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swarm",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 94,
+    "bst": 424,
+    "def": 50,
+    "hp": 70,
+    "spa": 94,
+    "spd": 50,
+    "spe": 66
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.0,
+      "male": 1.0
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "mothim",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "mothim",
+  "names": {
+    "fr": "Papilord"
+  },
+  "nationalDex": 414,
+  "progression": {
+    "baseExp": 159,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "mothim",
+    "learnset": "mothim",
+    "media": "mothim"
+  },
+  "schemaVersion": 1,
+  "slug": "mothim",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "flying"
+    ]
+  }
+}

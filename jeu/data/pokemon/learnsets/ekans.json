@@ -1,0 +1,114 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [
+    {
+      "moveId": "strength",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "wrap",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "leer",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 4,
+      "moveId": "poison_sting",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 9,
+      "moveId": "bite",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 12,
+      "moveId": "glare",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 17,
+      "moveId": "screech",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 20,
+      "moveId": "acid",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 25,
+      "moveId": "stockpile",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 25,
+      "moveId": "swallow",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 25,
+      "moveId": "spit_up",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 28,
+      "moveId": "mud_bomb",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 33,
+      "moveId": "gastro_acid",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 36,
+      "moveId": "haze",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 41,
+      "moveId": "gunk_shot",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "wrap",
+    "leer"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "ekans",
+  "startingMoves": [
+    "wrap",
+    "leer"
+  ],
+  "tm": [
+    {
+      "moveId": "rain_dance",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "transfer": [],
+  "tutor": []
+}

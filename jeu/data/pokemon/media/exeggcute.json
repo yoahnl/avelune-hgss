@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "exeggcute",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/exeggcute/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/exeggcute/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/7084899815e2d0c34029fab834e9460ca6f2589c79800d72929dcfc83eff2d9e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/exeggcute/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/exeggcute/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/exeggcute/icon.png",
+      "overworld": "assets/pokemon/hgss-api/exeggcute/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/exeggcute/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/exeggcute/icon.png",
+      "portrait": null
+    }
+  }
+}

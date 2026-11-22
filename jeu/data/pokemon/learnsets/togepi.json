@@ -1,0 +1,107 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "growl",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "charm",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 6,
+      "moveId": "metronome",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 10,
+      "moveId": "sweet_kiss",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 15,
+      "moveId": "yawn",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 19,
+      "moveId": "encore",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 24,
+      "moveId": "follow_me",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 28,
+      "moveId": "wish",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 33,
+      "moveId": "ancient_power",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 37,
+      "moveId": "safeguard",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 42,
+      "moveId": "baton_pass",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 46,
+      "moveId": "double_edge",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 51,
+      "moveId": "last_resort",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "growl",
+    "charm"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "togepi",
+  "startingMoves": [
+    "growl",
+    "charm"
+  ],
+  "tm": [
+    {
+      "moveId": "flash",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "moveId": "rain_dance",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "transfer": [],
+  "tutor": []
+}

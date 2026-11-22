@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "trace",
+    "secondary": "download"
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 395,
+    "def": 70,
+    "hp": 65,
+    "spa": 85,
+    "spd": 75,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "porygon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "porygon",
+  "names": {
+    "fr": "Porygon"
+  },
+  "nationalDex": 137,
+  "progression": {
+    "baseExp": 130,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "porygon",
+    "learnset": "porygon",
+    "media": "porygon"
+  },
+  "schemaVersion": 1,
+  "slug": "porygon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

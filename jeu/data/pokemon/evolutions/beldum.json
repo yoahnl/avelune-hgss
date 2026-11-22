@@ -1,0 +1,16 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "level_up",
+      "minFriendship": null,
+      "minLevel": 20,
+      "requiredMoveId": null,
+      "targetSpeciesId": "metang"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "beldum"
+}

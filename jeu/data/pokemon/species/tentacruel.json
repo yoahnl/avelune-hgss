@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "clear_body",
+    "secondary": "liquid_ooze"
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 515,
+    "def": 65,
+    "hp": 80,
+    "spa": 80,
+    "spd": 120,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "tentacruel",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "tentacruel",
+  "names": {
+    "fr": "Tentacruel"
+  },
+  "nationalDex": 73,
+  "progression": {
+    "baseExp": 205,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "tentacruel",
+    "learnset": "tentacruel",
+    "media": "tentacruel"
+  },
+  "schemaVersion": 1,
+  "slug": "tentacruel",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "poison"
+    ]
+  }
+}

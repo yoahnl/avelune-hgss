@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "pressure",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 525,
+    "def": 135,
+    "hp": 45,
+    "spa": 65,
+    "spd": 135,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "dusknoir",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "dusknoir",
+  "names": {
+    "fr": "Noctunoir"
+  },
+  "nationalDex": 477,
+  "progression": {
+    "baseExp": 210,
+    "baseFriendship": 35,
+    "catchRate": 45,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "dusknoir",
+    "learnset": "dusknoir",
+    "media": "dusknoir"
+  },
+  "schemaVersion": 1,
+  "slug": "dusknoir",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ghost"
+    ]
+  }
+}

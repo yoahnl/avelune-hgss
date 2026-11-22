@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "marowak",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/marowak/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/marowak/back.png",
+      "cry": "assets/pokemon/battle-cries/41403fd68d15f3ab725c35aa964fab22ec54744ef6dd8a45658a13d9821a20d1.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/marowak/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/marowak/front.png",
+      "icon": "assets/pokemon/johto/revisites/marowak/icon.png",
+      "overworld": "assets/pokemon/overworld/marowak/base/c8a7011abc26fc8d39f36a423f01e96eb526998c0a0331384863e31900338cf7.png",
+      "overworldShiny": "assets/pokemon/overworld/marowak/base/c7f2fdee910434bf1e580f8294fe75eec132a6080c48b3cc6b2a48ad22e6cbc4.png",
+      "party": "assets/pokemon/johto/revisites/marowak/icon.png",
+      "portrait": null
+    }
+  }
+}

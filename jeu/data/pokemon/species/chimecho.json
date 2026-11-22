@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 425,
+    "def": 70,
+    "hp": 65,
+    "spa": 95,
+    "spd": 80,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "chimecho",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "chimecho",
+  "names": {
+    "fr": "Eoko"
+  },
+  "nationalDex": 358,
+  "progression": {
+    "baseExp": 147,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "chimecho",
+    "learnset": "chimecho",
+    "media": "chimecho"
+  },
+  "schemaVersion": 1,
+  "slug": "chimecho",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic"
+    ]
+  }
+}

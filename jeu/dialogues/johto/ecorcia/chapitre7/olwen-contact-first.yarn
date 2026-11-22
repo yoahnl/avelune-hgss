@@ -1,0 +1,12 @@
+title: Start
+---
+Olwen: Au fait, je suis un Montagnard. Je vais donc sur les chemins et dans
+Olwen: les grottes.
+Olwen: Mais presque jamais dans les villes. Toi par contre, tu dois y aller souvent.
+Olwen: Si on échange nos numéros, on pourra se donner
+Olwen: plein de tuyaux, hein?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

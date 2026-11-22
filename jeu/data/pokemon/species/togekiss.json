@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "hustle",
+    "secondary": "serene_grace"
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 545,
+    "def": 95,
+    "hp": 85,
+    "spa": 120,
+    "spd": 115,
+    "spe": 80
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying",
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "togekiss",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "togekiss",
+  "names": {
+    "fr": "Togekiss"
+  },
+  "nationalDex": 468,
+  "progression": {
+    "baseExp": 220,
+    "baseFriendship": 70,
+    "catchRate": 30,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "togekiss",
+    "learnset": "togekiss",
+    "media": "togekiss"
+  },
+  "schemaVersion": 1,
+  "slug": "togekiss",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

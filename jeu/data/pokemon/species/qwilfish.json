@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "poison_point",
+    "secondary": "swift_swim"
+  },
+  "baseStats": {
+    "atk": 95,
+    "bst": 430,
+    "def": 75,
+    "hp": 65,
+    "spa": 55,
+    "spd": 55,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_2"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "qwilfish",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "qwilfish",
+  "names": {
+    "fr": "Qwilfish"
+  },
+  "nationalDex": 211,
+  "progression": {
+    "baseExp": 100,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "qwilfish",
+    "learnset": "qwilfish",
+    "media": "qwilfish"
+  },
+  "schemaVersion": 1,
+  "slug": "qwilfish",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "poison"
+    ]
+  }
+}

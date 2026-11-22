@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "hariyama",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/hariyama/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/hariyama/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d51cf711300219dc3fbb874071e5fc32599659dc304f886c21ee0a9d13defdd5.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/hariyama/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/hariyama/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/hariyama/icon.png",
+      "overworld": "assets/pokemon/hgss-api/hariyama/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/hariyama/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/hariyama/icon.png",
+      "portrait": null
+    }
+  }
+}

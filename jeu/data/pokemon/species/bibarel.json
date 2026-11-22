@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "simple",
+    "secondary": "unaware"
+  },
+  "baseStats": {
+    "atk": 85,
+    "bst": 410,
+    "def": 60,
+    "hp": 79,
+    "spa": 55,
+    "spd": 60,
+    "spe": 71
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "bibarel",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "bibarel",
+  "names": {
+    "fr": "Castorno"
+  },
+  "nationalDex": 400,
+  "progression": {
+    "baseExp": 116,
+    "baseFriendship": 70,
+    "catchRate": 127,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "bibarel",
+    "learnset": "bibarel",
+    "media": "bibarel"
+  },
+  "schemaVersion": 1,
+  "slug": "bibarel",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "water"
+    ]
+  }
+}

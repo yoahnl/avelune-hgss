@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "darkrai",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/darkrai/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/darkrai/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/68b9c6509d1de374f31e799f4656659a2a79808f466370f4f4c0a1440000a351.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/darkrai/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/darkrai/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/darkrai/icon.png",
+      "overworld": "assets/pokemon/hgss-api/darkrai/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/darkrai/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/darkrai/icon.png",
+      "portrait": null
+    }
+  }
+}

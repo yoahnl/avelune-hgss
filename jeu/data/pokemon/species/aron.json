@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sturdy",
+    "secondary": "rock_head"
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 330,
+    "def": 100,
+    "hp": 50,
+    "spa": 40,
+    "spd": 40,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 35
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "aron",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "aron",
+  "names": {
+    "fr": "Galekid"
+  },
+  "nationalDex": 304,
+  "progression": {
+    "baseExp": 96,
+    "baseFriendship": 35,
+    "catchRate": 180,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "aron",
+    "learnset": "aron",
+    "media": "aron"
+  },
+  "schemaVersion": 1,
+  "slug": "aron",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "steel",
+      "rock"
+    ]
+  }
+}

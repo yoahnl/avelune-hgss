@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "static",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 63,
+    "bst": 360,
+    "def": 37,
+    "hp": 45,
+    "spa": 65,
+    "spd": 55,
+    "spe": 95
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.25,
+      "male": 0.75
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "elekid",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "elekid",
+  "names": {
+    "fr": "Elekid"
+  },
+  "nationalDex": 239,
+  "progression": {
+    "baseExp": 106,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "elekid",
+    "learnset": "elekid",
+    "media": "elekid"
+  },
+  "schemaVersion": 1,
+  "slug": "elekid",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "electric"
+    ]
+  }
+}

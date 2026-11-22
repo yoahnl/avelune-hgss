@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "shroomish",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/shroomish/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/shroomish/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/7bb9572b74deadade2263e64d955d436948e58374c81d5371370c0169873c472.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/shroomish/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/shroomish/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/shroomish/icon.png",
+      "overworld": "assets/pokemon/hgss-api/shroomish/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/shroomish/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/shroomish/icon.png",
+      "portrait": null
+    }
+  }
+}

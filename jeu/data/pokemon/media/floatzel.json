@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "floatzel",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/floatzel/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/floatzel/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/21698a90912ff282a97c248b6351b31210a882da3b368db063dd48ae0d526730.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/floatzel/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/floatzel/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/floatzel/icon.png",
+      "overworld": "assets/pokemon/hgss-api/floatzel/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/floatzel/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/floatzel/icon.png",
+      "portrait": null
+    }
+  }
+}

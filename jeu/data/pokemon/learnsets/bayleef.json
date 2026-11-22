@@ -1,0 +1,134 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [
+    {
+      "moveId": "cut",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "moveId": "strength",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "tackle",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "growl",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "razor_leaf",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "poison_powder",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 6,
+      "moveId": "razor_leaf",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 9,
+      "moveId": "poison_powder",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 12,
+      "moveId": "synthesis",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 18,
+      "moveId": "reflect",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 22,
+      "moveId": "magical_leaf",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 26,
+      "moveId": "natural_gift",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 32,
+      "moveId": "sweet_scent",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 36,
+      "moveId": "light_screen",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 40,
+      "moveId": "body_slam",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 46,
+      "moveId": "safeguard",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 50,
+      "moveId": "aromatherapy",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 54,
+      "moveId": "solar_beam",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "tackle",
+    "growl",
+    "razor_leaf",
+    "poison_powder"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "bayleef",
+  "startingMoves": [
+    "tackle",
+    "growl",
+    "razor_leaf",
+    "poison_powder"
+  ],
+  "tm": [
+    {
+      "moveId": "bullet_seed",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "transfer": [],
+  "tutor": []
+}

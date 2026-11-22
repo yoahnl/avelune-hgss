@@ -1,0 +1,38 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "sweet_scent",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "gust",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 13,
+      "moveId": "bug_bite",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "sweet_scent",
+    "gust"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "combee",
+  "startingMoves": [
+    "sweet_scent",
+    "gust"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

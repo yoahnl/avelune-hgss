@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "goldeen",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/goldeen/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/goldeen/back.png",
+      "cry": "assets/pokemon/battle-cries/cba21f53cfbde7bbd38581c49c92ee5063a502bb165522efd4c8f1f81fd22737.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/goldeen/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/goldeen/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/goldeen/icon.png",
+      "overworld": "assets/pokemon/overworld/goldeen/base/85e49c36c60992f44c33e129365af27a3140fd1df01f127974fbf8ec87730d88.png",
+      "overworldShiny": "assets/pokemon/overworld/goldeen/base/01289e428f196c5764c1a2796f99e0bdcb9c301167eb0d9b7ce0a614464382df.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/goldeen/icon.png",
+      "portrait": null
+    }
+  }
+}

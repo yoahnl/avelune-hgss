@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "shed_skin",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 84,
+    "bst": 420,
+    "def": 65,
+    "hp": 61,
+    "spa": 70,
+    "spd": 70,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "dragonair",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "dragonair",
+  "names": {
+    "fr": "Draco"
+  },
+  "nationalDex": 148,
+  "progression": {
+    "baseExp": 144,
+    "baseFriendship": 35,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "dragonair",
+    "learnset": "dragonair",
+    "media": "dragonair"
+  },
+  "schemaVersion": 1,
+  "slug": "dragonair",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dragon"
+    ]
+  }
+}

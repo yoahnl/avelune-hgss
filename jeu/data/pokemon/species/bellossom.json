@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "chlorophyll",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 480,
+    "def": 85,
+    "hp": 75,
+    "spa": 90,
+    "spd": 100,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "bellossom",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "bellossom",
+  "names": {
+    "fr": "Joliflor"
+  },
+  "nationalDex": 182,
+  "progression": {
+    "baseExp": 184,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "bellossom",
+    "learnset": "bellossom",
+    "media": "bellossom"
+  },
+  "schemaVersion": 1,
+  "slug": "bellossom",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass"
+    ]
+  }
+}

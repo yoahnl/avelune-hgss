@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "togekiss",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/togekiss/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/togekiss/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/380e027991fdf38b1c934bf47d818a9d2527061bd4e1bfae171e3a7d27c51d26.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/togekiss/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/togekiss/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/togekiss/icon.png",
+      "overworld": "assets/pokemon/hgss-api/togekiss/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/togekiss/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/togekiss/icon.png",
+      "portrait": null
+    }
+  }
+}

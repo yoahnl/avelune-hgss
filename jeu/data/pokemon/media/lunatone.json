@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "lunatone",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/lunatone/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/lunatone/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/2a4d5a2296f80a3ce94c578fbe0ed031621218c804fa2c599486747a2440869f.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/lunatone/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/lunatone/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/lunatone/icon.png",
+      "overworld": "assets/pokemon/hgss-api/lunatone/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/lunatone/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/lunatone/icon.png",
+      "portrait": null
+    }
+  }
+}

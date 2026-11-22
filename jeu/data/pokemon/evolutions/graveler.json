@@ -1,0 +1,17 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "trade",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "golem",
+      "tradeRequirements": {}
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "graveler"
+}

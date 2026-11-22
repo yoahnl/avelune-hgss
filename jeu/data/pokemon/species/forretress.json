@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sturdy",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 465,
+    "def": 140,
+    "hp": 75,
+    "spa": 60,
+    "spd": 60,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "forretress",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "forretress",
+  "names": {
+    "fr": "Foretress"
+  },
+  "nationalDex": 205,
+  "progression": {
+    "baseExp": 118,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "forretress",
+    "learnset": "forretress",
+    "media": "forretress"
+  },
+  "schemaVersion": 1,
+  "slug": "forretress",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "steel"
+    ]
+  }
+}

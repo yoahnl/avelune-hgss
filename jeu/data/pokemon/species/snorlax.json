@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "immunity",
+    "secondary": "thick_fat"
+  },
+  "baseStats": {
+    "atk": 110,
+    "bst": 540,
+    "def": 65,
+    "hp": 160,
+    "spa": 65,
+    "spd": 110,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "snorlax",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "snorlax",
+  "names": {
+    "fr": "Ronflex"
+  },
+  "nationalDex": 143,
+  "progression": {
+    "baseExp": 154,
+    "baseFriendship": 70,
+    "catchRate": 25,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "snorlax",
+    "learnset": "snorlax",
+    "media": "snorlax"
+  },
+  "schemaVersion": 1,
+  "slug": "snorlax",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

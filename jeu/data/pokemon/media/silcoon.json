@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "silcoon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/silcoon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/silcoon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ff75eca191e6c96f85e121a53786a9a25b1467df30f5233a9ee63a385a55b8eb.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/silcoon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/silcoon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/silcoon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/silcoon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/silcoon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/silcoon/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "gengar",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/gengar/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/gengar/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/340b9cb1c9cab0a614ef65620845f31d2b99433bdcf0524d08086322c8cda14c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/gengar/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/gengar/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/gengar/icon.png",
+      "overworld": "assets/pokemon/hgss-api/gengar/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/gengar/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/gengar/icon.png",
+      "portrait": null
+    }
+  }
+}

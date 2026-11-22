@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "magikarp",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/magikarp/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/magikarp/back.png",
+      "cry": "assets/pokemon/battle-cries/494f3d646df36b9b273bdec03640f7c7c7a5466beff47093016b4bce405a4496.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/magikarp/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/magikarp/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/magikarp/icon.png",
+      "overworld": "assets/pokemon/overworld/magikarp/base/62310657a3bfbb8a3a613c4445731ea4bf0ae084eea85a79a7878e9e4bc2790a.png",
+      "overworldShiny": "assets/pokemon/overworld/magikarp/base/4fb2c29c8984c44ab9f4265881b5f3d11a41a29781a584a4c90289f39e7252e9.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/magikarp/icon.png",
+      "portrait": null
+    }
+  }
+}

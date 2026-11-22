@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "sentret",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/route-29/sentret/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-29/sentret/back.png",
+      "cry": "assets/audio/pokemon/sentret/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/route-29/sentret/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-29/sentret/front.png",
+      "icon": "assets/pokemon/johto/route-29/sentret/icon.png",
+      "overworld": "assets/pokemon/overworld/sentret/base/d7644b452c5405e70f8d2c0d9c3f0d92ab68f871cf087a02607de32431783d26.png",
+      "party": "assets/pokemon/johto/route-29/sentret/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/sentret/base/bf3caf373135a43e41f3137dd2c49ee78cc0567e7127a7615afb609f01caba2c.png"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "camerupt",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/camerupt/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/camerupt/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b869f61b9adac6c72a6a0071d09ba3cee55d41e8568a21d6ac3fe9647290f1a0.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/camerupt/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/camerupt/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/camerupt/icon.png",
+      "overworld": "assets/pokemon/hgss-api/camerupt/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/camerupt/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/camerupt/icon.png",
+      "portrait": null
+    }
+  }
+}

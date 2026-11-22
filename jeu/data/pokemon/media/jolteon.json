@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "jolteon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/jolteon/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/jolteon/back.png",
+      "cry": "assets/pokemon/battle-cries/33e743a34cd5b72650c8cae8717ad60e75163d64a1a41f9707f854e5cdb597a7.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/jolteon/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/jolteon/front.png",
+      "icon": "assets/pokemon/johto/revisites/jolteon/icon.png",
+      "overworld": "assets/pokemon/overworld/jolteon/base/da0a272282230ab4e75c27767dca9d602168a8f2fc3ecbf5a28c518bfe389d20.png",
+      "overworldShiny": "assets/pokemon/overworld/jolteon/base/377d8ff656c9d993ef4a6290b9ffb1047b2c1df5de8b83c6c0f7a536a4edb761.png",
+      "party": "assets/pokemon/johto/revisites/jolteon/icon.png",
+      "portrait": null
+    }
+  }
+}

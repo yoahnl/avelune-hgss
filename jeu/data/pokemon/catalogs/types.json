@@ -1,0 +1,89 @@
+{
+  "catalog": "types",
+  "entries": [
+    {
+      "id": "normal",
+      "name": "Normal"
+    },
+    {
+      "id": "grass",
+      "name": "Plante"
+    },
+    {
+      "id": "fire",
+      "name": "Feu"
+    },
+    {
+      "id": "water",
+      "name": "Eau"
+    },
+    {
+      "id": "flying",
+      "name": "flying"
+    },
+    {
+      "id": "ground",
+      "name": "ground"
+    },
+    {
+      "id": "dark",
+      "name": "dark"
+    },
+    {
+      "id": "poison",
+      "name": "poison"
+    },
+    {
+      "id": "psychic",
+      "name": "psychic"
+    },
+    {
+      "id": "rock",
+      "name": "rock"
+    },
+    {
+      "id": "dragon",
+      "name": "dragon"
+    },
+    {
+      "id": "fighting",
+      "name": "fighting"
+    },
+    {
+      "id": "ice",
+      "name": "ice"
+    },
+    {
+      "id": "bug",
+      "name": "bug"
+    },
+    {
+      "id": "ghost",
+      "name": "ghost"
+    },
+    {
+      "id": "unknown",
+      "name": "unknown"
+    },
+    {
+      "id": "steel",
+      "name": "steel"
+    },
+    {
+      "id": "electric",
+      "name": "electric"
+    }
+  ],
+  "kind": "pokemon_catalog",
+  "meta": {
+    "description": "HeartGold — données nécessaires à Bourg Geon et Route 29.",
+    "notes": [
+      "Learnsets natifs complets des huit espèces du périmètre ; méthodes de combat du moteur générique."
+    ],
+    "sourcePriority": [
+      "heartgold-fr-rom",
+      "pret-pokeheartgold"
+    ]
+  },
+  "schemaVersion": 1
+}

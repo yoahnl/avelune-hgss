@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "mew",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/mew/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/mew/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/07132672e7efbef31d822e692ddf2e39171a7538484090f992cda6dc1a4e7a75.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/mew/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/mew/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/mew/icon.png",
+      "overworld": "assets/pokemon/hgss-api/mew/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/mew/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/mew/icon.png",
+      "portrait": null
+    }
+  }
+}

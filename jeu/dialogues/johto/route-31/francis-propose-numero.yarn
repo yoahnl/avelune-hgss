@@ -1,0 +1,11 @@
+title: Start
+---
+T’es terrible! Je t’aime!
+Je cherche des Pokémon ici tous les jours.
+Je trouve aussi des Baies dans les herbes.
+Si tu veux, je peux t’en donner. Tu me donnes ton numéro?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

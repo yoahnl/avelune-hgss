@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "flygon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/flygon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/flygon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6a946e65f206e65f433d7aa20fa0d91c8c0f8c4d7cdbc6be8cd82cd6dbbf7094.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/flygon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/flygon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/flygon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/flygon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/flygon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/flygon/icon.png",
+      "portrait": null
+    }
+  }
+}

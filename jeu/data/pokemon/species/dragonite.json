@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "inner_focus",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 134,
+    "bst": 600,
+    "def": 95,
+    "hp": 91,
+    "spa": 100,
+    "spd": 100,
+    "spe": 80
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "dragonite",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "dragonite",
+  "names": {
+    "fr": "Dracolosse"
+  },
+  "nationalDex": 149,
+  "progression": {
+    "baseExp": 218,
+    "baseFriendship": 35,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "dragonite",
+    "learnset": "dragonite",
+    "media": "dragonite"
+  },
+  "schemaVersion": 1,
+  "slug": "dragonite",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dragon",
+      "flying"
+    ]
+  }
+}

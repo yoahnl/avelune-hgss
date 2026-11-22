@@ -1,0 +1,16 @@
+{
+  "catalog": "habitats",
+  "entries": [],
+  "kind": "pokemon_catalog",
+  "meta": {
+    "description": "Bourg Geon — données strictement nécessaires aux trois starters au niveau 5.",
+    "notes": [
+      "Périmètre borné au niveau 5 ; progressions et évolutions futures à compléter avant la route 29."
+    ],
+    "sourcePriority": [
+      "heartgold-fr-rom",
+      "pret-pokeheartgold"
+    ]
+  },
+  "schemaVersion": 1
+}

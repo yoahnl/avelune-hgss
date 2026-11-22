@@ -1,0 +1,24 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "hidden_power",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "hidden_power"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "unown-f",
+  "startingMoves": [
+    "hidden_power"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

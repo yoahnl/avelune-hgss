@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "overgrow",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 68,
+    "bst": 318,
+    "def": 64,
+    "hp": 55,
+    "spa": 45,
+    "spd": 55,
+    "spe": 31
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "turtwig",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "turtwig",
+  "names": {
+    "fr": "Tortipouss"
+  },
+  "nationalDex": 387,
+  "progression": {
+    "baseExp": 64,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "turtwig",
+    "learnset": "turtwig",
+    "media": "turtwig"
+  },
+  "schemaVersion": 1,
+  "slug": "turtwig",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass"
+    ]
+  }
+}

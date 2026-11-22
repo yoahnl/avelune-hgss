@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "dialga",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/dialga/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/dialga/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/52eccd43c31b73067d92ca39212e81d2df00f1b46dbd1d5b3e0186ab9f8e5a47.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/dialga/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/dialga/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/dialga/icon.png",
+      "overworld": "assets/pokemon/hgss-api/dialga/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/dialga/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/dialga/icon.png",
+      "portrait": null
+    }
+  }
+}

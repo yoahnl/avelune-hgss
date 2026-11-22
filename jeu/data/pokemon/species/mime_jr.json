@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "soundproof",
+    "secondary": "filter"
+  },
+  "baseStats": {
+    "atk": 25,
+    "bst": 310,
+    "def": 45,
+    "hp": 20,
+    "spa": 70,
+    "spd": 90,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "mime_jr",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "mime_jr",
+  "names": {
+    "fr": "Mime jr."
+  },
+  "nationalDex": 439,
+  "progression": {
+    "baseExp": 78,
+    "baseFriendship": 70,
+    "catchRate": 145,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "mime_jr",
+    "learnset": "mime_jr",
+    "media": "mime_jr"
+  },
+  "schemaVersion": 1,
+  "slug": "mime_jr",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic"
+    ]
+  }
+}

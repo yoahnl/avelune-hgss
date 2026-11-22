@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "igglybuff",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/igglybuff/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/igglybuff/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/793218d5995da5cb79d5d367649967d22fda14ec94aad5fe080baae057c8099b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/igglybuff/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/igglybuff/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/igglybuff/icon.png",
+      "overworld": "assets/pokemon/hgss-api/igglybuff/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/igglybuff/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/igglybuff/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "wobbuffet",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/wobbuffet/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/wobbuffet/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/42a444bc8889b1ebbb6379912311f966fcd0f637a3e246317e4031591a91a404.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/wobbuffet/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/wobbuffet/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/wobbuffet/icon.png",
+      "overworld": "assets/pokemon/hgss-api/wobbuffet/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/wobbuffet/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/wobbuffet/icon.png",
+      "portrait": null
+    }
+  }
+}

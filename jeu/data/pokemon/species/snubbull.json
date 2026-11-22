@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "intimidate",
+    "secondary": "run_away"
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 300,
+    "def": 50,
+    "hp": 60,
+    "spa": 40,
+    "spd": 40,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "snubbull",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "snubbull",
+  "names": {
+    "fr": "Snubbull"
+  },
+  "nationalDex": 209,
+  "progression": {
+    "baseExp": 63,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "snubbull",
+    "learnset": "snubbull",
+    "media": "snubbull"
+  },
+  "schemaVersion": 1,
+  "slug": "snubbull",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

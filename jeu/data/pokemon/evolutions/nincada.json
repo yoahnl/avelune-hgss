@@ -1,0 +1,29 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {
+        "fr": "Condition native HeartGold : EVO_LEVEL_NINJASK ; paramètre 20."
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "ninjask"
+    },
+    {
+      "conditionText": {
+        "fr": "Condition native HeartGold : EVO_LEVEL_SHEDINJA ; paramètre 20."
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "shedinja"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "nincada"
+}

@@ -1,0 +1,18 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {
+        "fr": "Condition native HeartGold : EVO_ITEM_DAY ; paramètre 110."
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "chansey"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "happiny"
+}

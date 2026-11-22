@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "gible",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/gible/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/gible/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/048f963d0279d53b4d36a71125a2686e3e1b4a5a722b04e216cef019fe9f4b6e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/gible/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/gible/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/gible/icon.png",
+      "overworld": "assets/pokemon/hgss-api/gible/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/gible/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/gible/icon.png",
+      "portrait": null
+    }
+  }
+}

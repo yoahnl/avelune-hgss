@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "cute_charm",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 45,
+    "bst": 270,
+    "def": 20,
+    "hp": 115,
+    "spa": 45,
+    "spd": 25,
+    "spe": 20
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "jigglypuff",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "jigglypuff",
+  "names": {
+    "fr": "Rondoudou"
+  },
+  "nationalDex": 39,
+  "progression": {
+    "baseExp": 76,
+    "baseFriendship": 70,
+    "catchRate": 170,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "jigglypuff",
+    "learnset": "jigglypuff",
+    "media": "jigglypuff"
+  },
+  "schemaVersion": 1,
+  "slug": "jigglypuff",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "catalog": "growth_rates",
+  "entries": [
+    {
+      "id": "medium_slow",
+      "name": "Parabolique"
+    },
+    {
+      "id": "medium_fast",
+      "name": "medium_fast"
+    },
+    {
+      "id": "fast",
+      "name": "fast"
+    },
+    {
+      "id": "slow",
+      "name": "slow"
+    },
+    {
+      "id": "fluctuating",
+      "name": "fluctuating"
+    },
+    {
+      "id": "erratic",
+      "name": "erratic"
+    }
+  ],
+  "kind": "pokemon_catalog",
+  "meta": {
+    "description": "HeartGold — données nécessaires à Bourg Geon et Route 29.",
+    "notes": [
+      "Learnsets natifs complets des huit espèces du périmètre ; méthodes de combat du moteur générique."
+    ],
+    "sourcePriority": [
+      "heartgold-fr-rom",
+      "pret-pokeheartgold"
+    ]
+  },
+  "schemaVersion": 1
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "kingdra",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/kingdra/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/kingdra/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/dd858d1aedbaadb7cf79659e45cd7286e2a2eab87428ccdc5b509965121a9151.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/kingdra/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/kingdra/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/kingdra/icon.png",
+      "overworld": "assets/pokemon/hgss-api/kingdra/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/kingdra/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/kingdra/icon.png",
+      "portrait": null
+    }
+  }
+}

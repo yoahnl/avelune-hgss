@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swift_swim",
+    "secondary": "water_absorb"
+  },
+  "baseStats": {
+    "atk": 40,
+    "bst": 465,
+    "def": 70,
+    "hp": 65,
+    "spa": 80,
+    "spd": 140,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "mantine",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "mantine",
+  "names": {
+    "fr": "Demanta"
+  },
+  "nationalDex": 226,
+  "progression": {
+    "baseExp": 168,
+    "baseFriendship": 70,
+    "catchRate": 25,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "mantine",
+    "learnset": "mantine",
+    "media": "mantine"
+  },
+  "schemaVersion": 1,
+  "slug": "mantine",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "flying"
+    ]
+  }
+}

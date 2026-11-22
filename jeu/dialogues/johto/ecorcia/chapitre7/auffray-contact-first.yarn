@@ -1,0 +1,10 @@
+title: Start
+---
+Auffray: Les jeunes ne pêchent plus, ou bien?
+Auffray: Je vais t’apprendre à aimer la pêche! Alors, ça te dirait qu’on
+Auffray: échange nos numéros?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

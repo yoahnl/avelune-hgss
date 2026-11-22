@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "poochyena",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/poochyena/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/poochyena/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/5fc6766ae8613f086e48217d6fc5c57ce1054562b80a36c226e057d086856339.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/poochyena/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/poochyena/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/poochyena/icon.png",
+      "overworld": "assets/pokemon/hgss-api/poochyena/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/poochyena/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/poochyena/icon.png",
+      "portrait": null
+    }
+  }
+}

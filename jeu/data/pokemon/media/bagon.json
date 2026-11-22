@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "bagon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/bagon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/bagon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/109d10fce12c2066324ccc21b80486346d55dd9fdb9287a8690a3a6233e21e12.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/bagon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/bagon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/bagon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/bagon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/bagon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/bagon/icon.png",
+      "portrait": null
+    }
+  }
+}

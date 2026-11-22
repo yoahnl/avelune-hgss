@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "minus",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 40,
+    "bst": 405,
+    "def": 50,
+    "hp": 60,
+    "spa": 75,
+    "spd": 85,
+    "spe": 95
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "minun",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "minun",
+  "names": {
+    "fr": "Negapi"
+  },
+  "nationalDex": 312,
+  "progression": {
+    "baseExp": 120,
+    "baseFriendship": 70,
+    "catchRate": 200,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "minun",
+    "learnset": "minun",
+    "media": "minun"
+  },
+  "schemaVersion": 1,
+  "slug": "minun",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "electric"
+    ]
+  }
+}

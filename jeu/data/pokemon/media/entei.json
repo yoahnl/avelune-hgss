@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "entei",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/entei/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/entei/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/aa624dee3e18563d5493d682dcebd0e66711a77c7edd2178a675a3a21d2dc0d6.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/entei/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/entei/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/entei/icon.png",
+      "overworld": "assets/pokemon/hgss-api/entei/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/entei/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/entei/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "armaldo",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/armaldo/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/armaldo/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/be0b31f24b5ebf1a4b27ccc224357845eb1f3c882498c498b985fda1e1e83aa2.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/armaldo/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/armaldo/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/armaldo/icon.png",
+      "overworld": "assets/pokemon/hgss-api/armaldo/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/armaldo/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/armaldo/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "roserade",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/roserade/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/roserade/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/e5fac9027e0301d762cedb87f12267dee59f5122a57550f94e5f60bd7a19187f.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/roserade/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/roserade/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/roserade/icon.png",
+      "overworld": "assets/pokemon/hgss-api/roserade/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/roserade/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/roserade/icon.png",
+      "portrait": null
+    }
+  }
+}

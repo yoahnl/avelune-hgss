@@ -1,0 +1,136 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [
+    {
+      "moveId": "cut",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "moveId": "surf",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "moveId": "strength",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "scratch",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "leer",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "water_gun",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 6,
+      "moveId": "water_gun",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 8,
+      "moveId": "rage",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 13,
+      "moveId": "bite",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 15,
+      "moveId": "scary_face",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 21,
+      "moveId": "ice_fang",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 24,
+      "moveId": "flail",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 30,
+      "moveId": "crunch",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 33,
+      "moveId": "slash",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 39,
+      "moveId": "screech",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 42,
+      "moveId": "thrash",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 48,
+      "moveId": "aqua_tail",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 51,
+      "moveId": "superpower",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 57,
+      "moveId": "hydro_pump",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "scratch",
+    "leer",
+    "water_gun"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "croconaw",
+  "startingMoves": [
+    "scratch",
+    "leer",
+    "water_gun"
+  ],
+  "tm": [
+    {
+      "moveId": "rain_dance",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "transfer": [],
+  "tutor": []
+}

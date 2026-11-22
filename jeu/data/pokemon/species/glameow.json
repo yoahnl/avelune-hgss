@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "limber",
+    "secondary": "own_tempo"
+  },
+  "baseStats": {
+    "atk": 55,
+    "bst": 310,
+    "def": 42,
+    "hp": 49,
+    "spa": 42,
+    "spd": 37,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "glameow",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "glameow",
+  "names": {
+    "fr": "Chaglam"
+  },
+  "nationalDex": 431,
+  "progression": {
+    "baseExp": 71,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "glameow",
+    "learnset": "glameow",
+    "media": "glameow"
+  },
+  "schemaVersion": 1,
+  "slug": "glameow",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

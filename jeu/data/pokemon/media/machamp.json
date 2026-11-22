@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "machamp",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/machamp/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/machamp/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6d65090975ef8ec58446f2dea07a73e78bfb07704c8b281fbe3fc076dade0942.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/machamp/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/machamp/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/machamp/icon.png",
+      "overworld": "assets/pokemon/hgss-api/machamp/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/machamp/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/machamp/icon.png",
+      "portrait": null
+    }
+  }
+}

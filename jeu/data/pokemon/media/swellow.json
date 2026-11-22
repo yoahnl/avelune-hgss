@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "swellow",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/swellow/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/swellow/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/2eebfe37c1345a4aa918b5db25b00ef8771fa65d9a8a40a20ac746dbe6b408eb.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/swellow/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/swellow/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/swellow/icon.png",
+      "overworld": "assets/pokemon/hgss-api/swellow/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/swellow/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/swellow/icon.png",
+      "portrait": null
+    }
+  }
+}

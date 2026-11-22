@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "glameow",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/glameow/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/glameow/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/5da1886d09ab11ebd76845086c1a2220424eaf2ef40947f238732b4114ffc605.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/glameow/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/glameow/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/glameow/icon.png",
+      "overworld": "assets/pokemon/hgss-api/glameow/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/glameow/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/glameow/icon.png",
+      "portrait": null
+    }
+  }
+}

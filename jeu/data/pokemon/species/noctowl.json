@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "insomnia",
+    "secondary": "keen_eye"
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 442,
+    "def": 50,
+    "hp": 100,
+    "spa": 76,
+    "spd": 96,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "noctowl",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "noctowl",
+  "names": {
+    "fr": "Noarfang"
+  },
+  "nationalDex": 164,
+  "progression": {
+    "baseExp": 162,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "noctowl",
+    "learnset": "noctowl",
+    "media": "noctowl"
+  },
+  "schemaVersion": 1,
+  "slug": "noctowl",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

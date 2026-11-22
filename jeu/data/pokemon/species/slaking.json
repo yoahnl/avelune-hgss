@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "truant",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 160,
+    "bst": 670,
+    "def": 100,
+    "hp": 150,
+    "spa": 95,
+    "spd": 65,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "slaking",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "slaking",
+  "names": {
+    "fr": "Monaflemit"
+  },
+  "nationalDex": 289,
+  "progression": {
+    "baseExp": 210,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "slaking",
+    "learnset": "slaking",
+    "media": "slaking"
+  },
+  "schemaVersion": 1,
+  "slug": "slaking",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {
+        "fr": "Condition native HeartGold : EVO_CORONET ; paramètre 0."
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "probopass"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "nosepass"
+}

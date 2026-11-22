@@ -1,0 +1,42 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "protect",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 10,
+      "moveId": "tackle",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 15,
+      "moveId": "bug_bite",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 20,
+      "moveId": "hidden_power",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "protect"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "burmy",
+  "startingMoves": [
+    "protect"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

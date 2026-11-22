@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "rock_head",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 75,
+    "bst": 300,
+    "def": 60,
+    "hp": 45,
+    "spa": 40,
+    "spd": 30,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "bagon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "bagon",
+  "names": {
+    "fr": "Draby"
+  },
+  "nationalDex": 371,
+  "progression": {
+    "baseExp": 89,
+    "baseFriendship": 35,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "bagon",
+    "learnset": "bagon",
+    "media": "bagon"
+  },
+  "schemaVersion": 1,
+  "slug": "bagon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dragon"
+    ]
+  }
+}

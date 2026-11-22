@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "wonder_guard",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 236,
+    "def": 45,
+    "hp": 1,
+    "spa": 30,
+    "spd": 30,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "shedinja",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "shedinja",
+  "names": {
+    "fr": "Munja"
+  },
+  "nationalDex": 292,
+  "progression": {
+    "baseExp": 95,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "shedinja",
+    "learnset": "shedinja",
+    "media": "shedinja"
+  },
+  "schemaVersion": 1,
+  "slug": "shedinja",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "ghost"
+    ]
+  }
+}

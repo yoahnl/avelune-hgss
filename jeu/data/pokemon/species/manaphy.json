@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "hydration",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 600,
+    "def": 100,
+    "hp": 100,
+    "spa": 100,
+    "spd": 100,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "fairy"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": true,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "manaphy",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "manaphy",
+  "names": {
+    "fr": "Manaphy"
+  },
+  "nationalDex": 490,
+  "progression": {
+    "baseExp": 215,
+    "baseFriendship": 70,
+    "catchRate": 3,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "manaphy",
+    "learnset": "manaphy",
+    "media": "manaphy"
+  },
+  "schemaVersion": 1,
+  "slug": "manaphy",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

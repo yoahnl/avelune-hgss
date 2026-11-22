@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "synchronize",
+    "secondary": "trace"
+  },
+  "baseStats": {
+    "atk": 25,
+    "bst": 198,
+    "def": 25,
+    "hp": 28,
+    "spa": 45,
+    "spd": 35,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "ralts",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "ralts",
+  "names": {
+    "fr": "Tarsal"
+  },
+  "nationalDex": 280,
+  "progression": {
+    "baseExp": 70,
+    "baseFriendship": 35,
+    "catchRate": 235,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "ralts",
+    "learnset": "ralts",
+    "media": "ralts"
+  },
+  "schemaVersion": 1,
+  "slug": "ralts",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic"
+    ]
+  }
+}

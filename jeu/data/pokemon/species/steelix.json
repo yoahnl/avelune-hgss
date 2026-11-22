@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "rock_head",
+    "secondary": "sturdy"
+  },
+  "baseStats": {
+    "atk": 85,
+    "bst": 510,
+    "def": 200,
+    "hp": 75,
+    "spa": 55,
+    "spd": 65,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "steelix",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "steelix",
+  "names": {
+    "fr": "Steelix"
+  },
+  "nationalDex": 208,
+  "progression": {
+    "baseExp": 196,
+    "baseFriendship": 70,
+    "catchRate": 25,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "steelix",
+    "learnset": "steelix",
+    "media": "steelix"
+  },
+  "schemaVersion": 1,
+  "slug": "steelix",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "steel",
+      "ground"
+    ]
+  }
+}

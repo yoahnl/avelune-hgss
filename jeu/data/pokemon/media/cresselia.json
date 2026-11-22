@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "cresselia",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/cresselia/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/cresselia/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d4457a86e50c48f0aebaa4aba98ab6d3023d0e129c40a60fa3ff8c8a81168b5c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/cresselia/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/cresselia/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/cresselia/icon.png",
+      "overworld": "assets/pokemon/hgss-api/cresselia/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/cresselia/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/cresselia/icon.png",
+      "portrait": null
+    }
+  }
+}

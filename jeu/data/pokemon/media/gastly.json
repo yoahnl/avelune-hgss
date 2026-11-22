@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "gastly",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/mauville/gastly/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/mauville/gastly/back.png",
+      "cry": "assets/pokemon/battle-cries/12f7f9a98ca6e794b5f5117f31a73e590e7d000cef87dd11d2c7eaec78e35e31.wav",
+      "frontShinyStatic": "assets/pokemon/johto/mauville/gastly/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/mauville/gastly/front.png",
+      "icon": "assets/pokemon/johto/mauville/gastly/icon.png",
+      "overworld": "assets/pokemon/overworld/gastly/base/caa2a2519c54be8dca948bbc3b47847e6bbc68a78f21c550dda4a6ecc9f52f61.png",
+      "overworldShiny": "assets/pokemon/overworld/gastly/base/fda24d0d835ac3277182b032cfaa4e75a6061c3edff8bba5cb1f254cef93a0be.png",
+      "party": "assets/pokemon/johto/mauville/gastly/icon.png",
+      "portrait": null
+    }
+  }
+}

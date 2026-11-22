@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "cute_charm",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 30,
+    "bst": 210,
+    "def": 15,
+    "hp": 90,
+    "spa": 40,
+    "spd": 20,
+    "spe": 15
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "igglybuff",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "igglybuff",
+  "names": {
+    "fr": "Toudoudou"
+  },
+  "nationalDex": 174,
+  "progression": {
+    "baseExp": 39,
+    "baseFriendship": 70,
+    "catchRate": 170,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "igglybuff",
+    "learnset": "igglybuff",
+    "media": "igglybuff"
+  },
+  "schemaVersion": 1,
+  "slug": "igglybuff",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

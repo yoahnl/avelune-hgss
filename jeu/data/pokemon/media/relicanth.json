@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "relicanth",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/relicanth/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/relicanth/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/7d4f5fe7cf8bd739ff3b404184f3103c18613653eeef1152c2afab8b00e8ccbe.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/relicanth/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/relicanth/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/relicanth/icon.png",
+      "overworld": "assets/pokemon/hgss-api/relicanth/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/relicanth/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/relicanth/icon.png",
+      "portrait": null
+    }
+  }
+}

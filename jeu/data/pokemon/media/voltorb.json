@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "voltorb",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/voltorb/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/voltorb/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/87ec264f35835adf13a3a8c58a051c586aff59a15a57d55734c121406a32eb22.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/voltorb/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/voltorb/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/voltorb/icon.png",
+      "overworld": "assets/pokemon/hgss-api/voltorb/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/voltorb/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/voltorb/icon.png",
+      "portrait": null
+    }
+  }
+}

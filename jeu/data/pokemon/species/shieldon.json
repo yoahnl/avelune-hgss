@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sturdy",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 42,
+    "bst": 350,
+    "def": 118,
+    "hp": 30,
+    "spa": 42,
+    "spd": 88,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 30
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "shieldon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "shieldon",
+  "names": {
+    "fr": "Dinoclier"
+  },
+  "nationalDex": 410,
+  "progression": {
+    "baseExp": 99,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "shieldon",
+    "learnset": "shieldon",
+    "media": "shieldon"
+  },
+  "schemaVersion": 1,
+  "slug": "shieldon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock",
+      "steel"
+    ]
+  }
+}

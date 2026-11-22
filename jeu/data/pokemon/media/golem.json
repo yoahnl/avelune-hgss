@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "golem",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/golem/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/golem/back.png",
+      "cry": "assets/pokemon/battle-cries/f543e3997a4a80f57ec7eeea726720e43798ceca203c45e42434d7a8dc894c4e.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/golem/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/golem/front.png",
+      "icon": "assets/pokemon/johto/revisites/golem/icon.png",
+      "overworld": "assets/pokemon/overworld/golem/base/f26bee04f69ff71296fc46452daff14b7ba9e41a33575c287a430a8de7146528.png",
+      "overworldShiny": "assets/pokemon/overworld/golem/base/425c6a3a936b39c7c080677b836824475f1000308f98f2627cd225c431ec5417.png",
+      "party": "assets/pokemon/johto/revisites/golem/icon.png",
+      "portrait": null
+    }
+  }
+}

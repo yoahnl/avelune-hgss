@@ -1,0 +1,78 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "run_away",
+    "secondary": "guts"
+  },
+  "baseStats": {
+    "atk": 56,
+    "bst": 253,
+    "def": 35,
+    "hp": 30,
+    "spa": 25,
+    "spd": 35,
+    "spe": 72
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 3.5
+  },
+  "forms": {
+    "baseFormId": "rattata",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "rattata",
+  "names": {
+    "fr": "Rattata"
+  },
+  "nationalDex": 19,
+  "progression": {
+    "baseExp": 57,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "rattata",
+    "learnset": "rattata",
+    "media": "rattata"
+  },
+  "schemaVersion": 1,
+  "slug": "rattata",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:route29-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

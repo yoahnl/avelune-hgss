@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swift_swim",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 65,
+    "bst": 330,
+    "def": 35,
+    "hp": 55,
+    "spa": 60,
+    "spd": 30,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "buizel",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "buizel",
+  "names": {
+    "fr": "Mustebouee"
+  },
+  "nationalDex": 418,
+  "progression": {
+    "baseExp": 75,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "buizel",
+    "learnset": "buizel",
+    "media": "buizel"
+  },
+  "schemaVersion": 1,
+  "slug": "buizel",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

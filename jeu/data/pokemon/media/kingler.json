@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "kingler",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/kingler/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/kingler/back.png",
+      "cry": "assets/pokemon/battle-cries/36e11f42835de1b909b6010681b767d897ea4de0dbf317f49fdc05041c8b7fce.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/kingler/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/kingler/front.png",
+      "icon": "assets/pokemon/johto/revisites/kingler/icon.png",
+      "overworld": "assets/pokemon/overworld/kingler/base/a5c2d88c0e7dcd5dc44c3d8904abef8d1180b2e579387de9320009d919c90d01.png",
+      "overworldShiny": "assets/pokemon/overworld/kingler/base/493b5456839bb8bbdd8dfe46daf465dc9348f3c2e0b550f2e70d56984157c054.png",
+      "party": "assets/pokemon/johto/revisites/kingler/icon.png",
+      "portrait": null
+    }
+  }
+}

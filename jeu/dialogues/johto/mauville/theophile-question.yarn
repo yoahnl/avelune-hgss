@@ -1,0 +1,8 @@
+title: Start
+---
+Théophile: Hé, tu es un! Dresseur, non? Tu as battu le Champion! d’Arène?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

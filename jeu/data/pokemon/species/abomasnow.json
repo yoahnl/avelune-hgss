@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "snow_warning",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 92,
+    "bst": 494,
+    "def": 75,
+    "hp": 90,
+    "spa": 92,
+    "spd": 85,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "abomasnow",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "abomasnow",
+  "names": {
+    "fr": "Blizzaroi"
+  },
+  "nationalDex": 460,
+  "progression": {
+    "baseExp": 214,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "abomasnow",
+    "learnset": "abomasnow",
+    "media": "abomasnow"
+  },
+  "schemaVersion": 1,
+  "slug": "abomasnow",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "ice"
+    ]
+  }
+}

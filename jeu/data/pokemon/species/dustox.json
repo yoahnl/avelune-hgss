@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "shield_dust",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 385,
+    "def": 70,
+    "hp": 60,
+    "spa": 50,
+    "spd": 90,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "dustox",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "dustox",
+  "names": {
+    "fr": "Papinox"
+  },
+  "nationalDex": 269,
+  "progression": {
+    "baseExp": 161,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "dustox",
+    "learnset": "dustox",
+    "media": "dustox"
+  },
+  "schemaVersion": 1,
+  "slug": "dustox",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "poison"
+    ]
+  }
+}

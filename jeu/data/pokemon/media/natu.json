@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "natu",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/natu/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/natu/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6f976ceb3ea7295bd5b0e992b2ee0950bdcad976e33fd7516e6778403c5f1cdb.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/natu/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/natu/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/natu/icon.png",
+      "overworld": "assets/pokemon/hgss-api/natu/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/natu/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/natu/icon.png",
+      "portrait": null
+    }
+  }
+}

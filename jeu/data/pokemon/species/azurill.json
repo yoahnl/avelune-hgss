@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "thick_fat",
+    "secondary": "huge_power"
+  },
+  "baseStats": {
+    "atk": 20,
+    "bst": 190,
+    "def": 40,
+    "hp": 50,
+    "spa": 20,
+    "spd": 40,
+    "spe": 20
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "azurill",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "azurill",
+  "names": {
+    "fr": "Azurill"
+  },
+  "nationalDex": 298,
+  "progression": {
+    "baseExp": 33,
+    "baseFriendship": 70,
+    "catchRate": 150,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "azurill",
+    "learnset": "azurill",
+    "media": "azurill"
+  },
+  "schemaVersion": 1,
+  "slug": "azurill",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

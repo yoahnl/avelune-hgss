@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "aftermath",
+    "secondary": "unburden"
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 348,
+    "def": 34,
+    "hp": 90,
+    "spa": 60,
+    "spd": 44,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 30
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "drifloon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "drifloon",
+  "names": {
+    "fr": "Baudrive"
+  },
+  "nationalDex": 425,
+  "progression": {
+    "baseExp": 127,
+    "baseFriendship": 70,
+    "catchRate": 125,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "drifloon",
+    "learnset": "drifloon",
+    "media": "drifloon"
+  },
+  "schemaVersion": 1,
+  "slug": "drifloon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ghost",
+      "flying"
+    ]
+  }
+}

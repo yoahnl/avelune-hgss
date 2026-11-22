@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "skuntank",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/skuntank/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/skuntank/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ac15b92e1bddcd7c4773455cb3a139519affbe2571e0d24a246dbaa70a4be985.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/skuntank/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/skuntank/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/skuntank/icon.png",
+      "overworld": "assets/pokemon/hgss-api/skuntank/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/skuntank/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/skuntank/icon.png",
+      "portrait": null
+    }
+  }
+}

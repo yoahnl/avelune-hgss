@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "chlorophyll",
+    "secondary": "solar_power"
+  },
+  "baseStats": {
+    "atk": 75,
+    "bst": 425,
+    "def": 55,
+    "hp": 75,
+    "spa": 105,
+    "spd": 85,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "sunflora",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "sunflora",
+  "names": {
+    "fr": "Heliatronc"
+  },
+  "nationalDex": 192,
+  "progression": {
+    "baseExp": 146,
+    "baseFriendship": 70,
+    "catchRate": 120,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "sunflora",
+    "learnset": "sunflora",
+    "media": "sunflora"
+  },
+  "schemaVersion": 1,
+  "slug": "sunflora",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass"
+    ]
+  }
+}

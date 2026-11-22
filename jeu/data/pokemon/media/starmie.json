@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "starmie",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/starmie/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/starmie/back.png",
+      "cry": "assets/pokemon/battle-cries/bc7236a4e10e4ffb4b9e6efc95b8d8fae25a05047c2bc1ff89159d3dcfffb70a.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/starmie/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/starmie/front.png",
+      "icon": "assets/pokemon/johto/revisites/starmie/icon.png",
+      "overworld": "assets/pokemon/overworld/starmie/base/049a320d35477d131c88156e967d8ae39df84ca9048c6874abdd8d203d4f8255.png",
+      "overworldShiny": "assets/pokemon/overworld/starmie/base/62e4ce1d2710c0ab679e573de1b301846552b9821364f009c5f986209eaf1169.png",
+      "party": "assets/pokemon/johto/revisites/starmie/icon.png",
+      "portrait": null
+    }
+  }
+}

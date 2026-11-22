@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "seadra",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/seadra/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/seadra/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/3068b0d87dd8c8652c2a8d6e6308531c0fc31f864a6571277e5460982f2dadc7.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/seadra/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/seadra/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/seadra/icon.png",
+      "overworld": "assets/pokemon/hgss-api/seadra/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/seadra/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/seadra/icon.png",
+      "portrait": null
+    }
+  }
+}

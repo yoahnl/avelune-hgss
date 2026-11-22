@@ -1,0 +1,11 @@
+title: Start
+---
+Cahier: Certaines capacités peuvent embrouiller l’esprit d’un Pokémon.
+Cahier: Une fois confus, le Pokémon peut s’attaquer lui-même.
+Cahier: Fuir le combat annule tout effet de confusion.
+Cahier: Voulez-vous lire la suite?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

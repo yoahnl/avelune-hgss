@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "intimidate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 75,
+    "bst": 340,
+    "def": 50,
+    "hp": 55,
+    "spa": 40,
+    "spd": 40,
+    "spe": 80
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "staravia",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "staravia",
+  "names": {
+    "fr": "Etourvol"
+  },
+  "nationalDex": 397,
+  "progression": {
+    "baseExp": 113,
+    "baseFriendship": 70,
+    "catchRate": 120,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "staravia",
+    "learnset": "staravia",
+    "media": "staravia"
+  },
+  "schemaVersion": 1,
+  "slug": "staravia",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

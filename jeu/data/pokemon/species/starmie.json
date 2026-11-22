@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "illuminate",
+    "secondary": "natural_cure"
+  },
+  "baseStats": {
+    "atk": 75,
+    "bst": 520,
+    "def": 85,
+    "hp": 60,
+    "spa": 100,
+    "spd": 85,
+    "spe": 115
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.0,
+      "male": 0.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "starmie",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "starmie",
+  "names": {
+    "fr": "Staross"
+  },
+  "nationalDex": 121,
+  "progression": {
+    "baseExp": 207,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "starmie",
+    "learnset": "starmie",
+    "media": "starmie"
+  },
+  "schemaVersion": 1,
+  "slug": "starmie",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "psychic"
+    ]
+  }
+}

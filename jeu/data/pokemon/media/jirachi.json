@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "jirachi",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/jirachi/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/jirachi/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/597a9a75328ad54a9e4390509a47fa064af4c899faac4623c43e2f026b43d952.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/jirachi/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/jirachi/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/jirachi/icon.png",
+      "overworld": "assets/pokemon/hgss-api/jirachi/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/jirachi/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/jirachi/icon.png",
+      "portrait": null
+    }
+  }
+}

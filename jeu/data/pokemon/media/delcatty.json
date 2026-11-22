@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "delcatty",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/delcatty/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/delcatty/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/f9bf7b264f5b70cc684e38447fed8643367b60ef2aba01f57b1eb3d9abf283cf.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/delcatty/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/delcatty/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/delcatty/icon.png",
+      "overworld": "assets/pokemon/hgss-api/delcatty/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/delcatty/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/delcatty/icon.png",
+      "portrait": null
+    }
+  }
+}

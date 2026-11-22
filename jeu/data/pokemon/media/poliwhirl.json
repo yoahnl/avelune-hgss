@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "poliwhirl",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/poliwhirl/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/poliwhirl/back.png",
+      "cry": "assets/pokemon/battle-cries/d164bb358102b6587efce8b0cba90ddb1ab4c3abfa2157e90eefdaa135c89e5c.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/poliwhirl/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/poliwhirl/front.png",
+      "icon": "assets/pokemon/johto/revisites/poliwhirl/icon.png",
+      "overworld": "assets/pokemon/overworld/poliwhirl/base/4f621df0eaf920152edf564a5beeb403bd05dd8a0f5fa94d39706feb2571c14e.png",
+      "overworldShiny": "assets/pokemon/overworld/poliwhirl/base/f6addb2313b8704144612ebe9206eb215ef5f12abfa1ed7c92eb4936e0e68049.png",
+      "party": "assets/pokemon/johto/revisites/poliwhirl/icon.png",
+      "portrait": null
+    }
+  }
+}

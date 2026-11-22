@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "onix",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/mauville/onix/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/mauville/onix/back.png",
+      "cry": "assets/pokemon/battle-cries/e1c8e864aaf6695ab2d69463911147545c338557e7bb7d19738ba411419a0604.wav",
+      "frontShinyStatic": "assets/pokemon/johto/mauville/onix/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/mauville/onix/front.png",
+      "icon": "assets/pokemon/johto/mauville/onix/icon.png",
+      "overworld": "assets/pokemon/overworld/onix/base/dedcb9037a534c211832e934a562326bbc89fc0207e363b10a47dec7d85c69de.png",
+      "overworldShiny": "assets/pokemon/overworld/onix/base/959631a707f51622832eac80d9327d9f7e9bbed87f562c87a282e0ab6848e24e.png",
+      "party": "assets/pokemon/johto/mauville/onix/icon.png",
+      "portrait": null
+    }
+  }
+}

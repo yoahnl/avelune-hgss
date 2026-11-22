@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "sableye",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/sableye/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/sableye/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/73db0916de23db73ad9907383014d344cc3e08a5ba694cf87ebecb39cec692e2.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/sableye/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/sableye/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/sableye/icon.png",
+      "overworld": "assets/pokemon/hgss-api/sableye/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/sableye/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/sableye/icon.png",
+      "portrait": null
+    }
+  }
+}

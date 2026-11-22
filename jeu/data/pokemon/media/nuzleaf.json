@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "nuzleaf",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/nuzleaf/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/nuzleaf/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/87cb8ce564894eb198ac258888e4357bd47a58973356a55026146faaf23ab359.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/nuzleaf/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/nuzleaf/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/nuzleaf/icon.png",
+      "overworld": "assets/pokemon/hgss-api/nuzleaf/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/nuzleaf/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/nuzleaf/icon.png",
+      "portrait": null
+    }
+  }
+}

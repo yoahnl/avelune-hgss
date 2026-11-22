@@ -1,0 +1,5043 @@
+{
+  "id": "maison-ami-rdc",
+  "name": "Maison de Célesta / Luth — rez-de-chaussée",
+  "size": {
+    "width": 19,
+    "height": 14
+  },
+  "version": "v9",
+  "spatialScene": {
+    "schemaVersion": 2,
+    "width": 19,
+    "depth": 14,
+    "heightLevels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "terrainSurfaces": {
+      "schemaVersion": 1,
+      "surfaces": [
+        {
+          "id": "source-navigation-plateau",
+          "x": 0.0,
+          "z": 0.0,
+          "height": 0.0,
+          "gradientX": 0.0,
+          "gradientZ": 0.0,
+          "footprints": [
+            [
+              {
+                "x": 0.0,
+                "z": 0.0
+              },
+              {
+                "x": 19.0,
+                "z": 0.0
+              },
+              {
+                "x": 19.0,
+                "z": 14.0
+              },
+              {
+                "x": 0.0,
+                "z": 14.0
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "levelHeight": 1.0,
+    "generateCliffs": false,
+    "instances": [
+      {
+        "id": "terrain-63-0005",
+        "modelId": "rp_f03c46a71a13b552_982e4e9f99212a6f031ccc3d",
+        "position": {
+          "x": 9.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0007",
+        "modelId": "rp_f03c46a71a13b552_4498f04604db678bedbf2e52",
+        "position": {
+          "x": 9.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0008",
+        "modelId": "rp_f03c46a71a13b552_b20440b1de554df3f1e2b6f3",
+        "position": {
+          "x": 9.0,
+          "y": -0.1220703125,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0009",
+        "modelId": "rp_f03c46a71a13b552_52dd6508b69e8c5d79ef823d",
+        "position": {
+          "x": 9.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0022",
+        "modelId": "rp_f03c46a71a13b552_9e067b9a6a7e7d08cc298e11",
+        "position": {
+          "x": 8.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0024",
+        "modelId": "rp_f03c46a71a13b552_e7e4c47e54953088475fe84e",
+        "position": {
+          "x": 8.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0025",
+        "modelId": "rp_f03c46a71a13b552_b2973f7ee7f662c2054e1278",
+        "position": {
+          "x": 8.0,
+          "y": -0.12255859375,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0026",
+        "modelId": "rp_f03c46a71a13b552_82107929e4297e0ac8240b72",
+        "position": {
+          "x": 8.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0038",
+        "modelId": "rp_f03c46a71a13b552_ea29bc7a62d66e5d61c118d7",
+        "position": {
+          "x": 7.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0040",
+        "modelId": "rp_f03c46a71a13b552_0ad645cb452489f697491287",
+        "position": {
+          "x": 7.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0041",
+        "modelId": "rp_f03c46a71a13b552_4607c9462ccdfff1f20cd6de",
+        "position": {
+          "x": 7.0,
+          "y": -0.123046875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0042",
+        "modelId": "rp_f03c46a71a13b552_ae3bfcd52032711c6e890781",
+        "position": {
+          "x": 7.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0052",
+        "modelId": "rp_f03c46a71a13b552_fce9b0005dbf325be57ba411",
+        "position": {
+          "x": 6.0,
+          "y": 0.03125,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0055",
+        "modelId": "rp_f03c46a71a13b552_bf1f6ebdce5a072134dbaf6a",
+        "position": {
+          "x": 6.0,
+          "y": 0.03125,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0058",
+        "modelId": "rp_f03c46a71a13b552_66745580bf6ba57f93851fdf",
+        "position": {
+          "x": 6.0,
+          "y": 0.03125,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0059",
+        "modelId": "rp_f03c46a71a13b552_47f692ade92ac6759b3d26b3",
+        "position": {
+          "x": 6.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0061",
+        "modelId": "rp_f03c46a71a13b552_160f65e585c5bcca9757f37a",
+        "position": {
+          "x": 6.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0062",
+        "modelId": "rp_f03c46a71a13b552_0a792f9e770caca8556cf7e3",
+        "position": {
+          "x": 6.0,
+          "y": -0.12353515625,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0063",
+        "modelId": "rp_f03c46a71a13b552_bf8f6a69a2e79f48ec6bb58d",
+        "position": {
+          "x": 6.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0072",
+        "modelId": "rp_f03c46a71a13b552_773663482bbebbb0f9b8fceb",
+        "position": {
+          "x": 5.0,
+          "y": 0.03125,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0074",
+        "modelId": "rp_f03c46a71a13b552_15f7c766832f7a34bd984ea8",
+        "position": {
+          "x": 5.0,
+          "y": 0.0625,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0075",
+        "modelId": "rp_f03c46a71a13b552_7a35356247f561ece5b3692f",
+        "position": {
+          "x": 5.0,
+          "y": 0.0625,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0076",
+        "modelId": "rp_f03c46a71a13b552_a9f1ccc351db1e393c4d482e",
+        "position": {
+          "x": 5.0,
+          "y": 0.03125,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0078",
+        "modelId": "rp_f03c46a71a13b552_97d4de1a98f8fd821a71c171",
+        "position": {
+          "x": 5.0,
+          "y": 0.0625,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0079",
+        "modelId": "rp_f03c46a71a13b552_5f67ea641fda2ac6bb09bed1",
+        "position": {
+          "x": 5.0,
+          "y": 0.5625,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0080",
+        "modelId": "rp_f03c46a71a13b552_abdf025ac9bce27239e50014",
+        "position": {
+          "x": 5.0,
+          "y": 0.03125,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0081",
+        "modelId": "rp_f03c46a71a13b552_937a20a9299b849e5521413c",
+        "position": {
+          "x": 5.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0083",
+        "modelId": "rp_f03c46a71a13b552_b80eaf49e27c7137e5c96a73",
+        "position": {
+          "x": 5.0,
+          "y": 0.0625,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0084",
+        "modelId": "rp_f03c46a71a13b552_6b45f721d450735fce8611d9",
+        "position": {
+          "x": 5.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0085",
+        "modelId": "rp_f03c46a71a13b552_50611a6ebd8f6bde4a8362aa",
+        "position": {
+          "x": 5.0,
+          "y": -0.1240234375,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0086",
+        "modelId": "rp_f03c46a71a13b552_3bcb65eb2eb79b48f8ca49fa",
+        "position": {
+          "x": 5.0,
+          "y": 0.0625,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0087",
+        "modelId": "rp_f03c46a71a13b552_7f97e82704783dc21106a771",
+        "position": {
+          "x": 5.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0095",
+        "modelId": "rp_f03c46a71a13b552_b254d14ca2106ce1ac2949ef",
+        "position": {
+          "x": 4.0,
+          "y": 0.25,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0096",
+        "modelId": "rp_f03c46a71a13b552_b500fa8c67f43d144f766bce",
+        "position": {
+          "x": 4.0,
+          "y": -0.125,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0098",
+        "modelId": "rp_f03c46a71a13b552_702fc7a7aa325e74ee75d51a",
+        "position": {
+          "x": 4.0,
+          "y": 0.25,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0099",
+        "modelId": "rp_f03c46a71a13b552_a456f3cb73222de5b3de3879",
+        "position": {
+          "x": 4.0,
+          "y": -0.125,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0100",
+        "modelId": "rp_f03c46a71a13b552_40cfcd6aad1a122d57126b1f",
+        "position": {
+          "x": 4.0,
+          "y": 0.03125,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0102",
+        "modelId": "rp_f03c46a71a13b552_001cc633c7680cde4f8a65ea",
+        "position": {
+          "x": 4.0,
+          "y": 0.7625,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0103",
+        "modelId": "rp_f03c46a71a13b552_8b520983b2f2c3fe96056fa0",
+        "position": {
+          "x": 4.0,
+          "y": 0.25,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0104",
+        "modelId": "rp_f03c46a71a13b552_0eca05057f0db11e919d6cd1",
+        "position": {
+          "x": 4.0,
+          "y": -0.125,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0105",
+        "modelId": "rp_f03c46a71a13b552_57d0885e8989c6906bf69a25",
+        "position": {
+          "x": 4.0,
+          "y": 0.0625,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0106",
+        "modelId": "rp_f03c46a71a13b552_450b4addd79427194b8ffdd5",
+        "position": {
+          "x": 4.0,
+          "y": 0.03125,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0108",
+        "modelId": "rp_f03c46a71a13b552_480659ff5c1fb5e3d61cc65f",
+        "position": {
+          "x": 4.0,
+          "y": 0.7625,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0109",
+        "modelId": "rp_f03c46a71a13b552_ed42cf8a8de66f293df87721",
+        "position": {
+          "x": 4.0,
+          "y": 0.25,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0110",
+        "modelId": "rp_f03c46a71a13b552_67be77578e31427173c8dfa4",
+        "position": {
+          "x": 4.0,
+          "y": -0.125,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0111",
+        "modelId": "rp_f03c46a71a13b552_a59d1c7cf2416bbe014daf65",
+        "position": {
+          "x": 4.0,
+          "y": 1.3185483870967742,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0112",
+        "modelId": "rp_f03c46a71a13b552_fcff74e41ea447bc81a58a8b",
+        "position": {
+          "x": 4.0,
+          "y": 0.03125,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0113",
+        "modelId": "rp_f03c46a71a13b552_469cfeced6553716fa14b512",
+        "position": {
+          "x": 4.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0115",
+        "modelId": "rp_f03c46a71a13b552_6961ad5d3d42215277615323",
+        "position": {
+          "x": 4.0,
+          "y": 0.7625,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0116",
+        "modelId": "rp_f03c46a71a13b552_c288941153bd8bffd2027e6b",
+        "position": {
+          "x": 4.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0117",
+        "modelId": "rp_f03c46a71a13b552_a3a9943ff4b03137ba325f04",
+        "position": {
+          "x": 4.0,
+          "y": -0.125,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0118",
+        "modelId": "rp_f03c46a71a13b552_93dd8a96c1e401c252b6f875",
+        "position": {
+          "x": 4.0,
+          "y": 0.7625,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0119",
+        "modelId": "rp_f03c46a71a13b552_629fa00becd5ddac67331eb7",
+        "position": {
+          "x": 4.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0121",
+        "modelId": "rp_f03c46a71a13b552_d53616a73e261a9b223afa84",
+        "position": {
+          "x": 4.0,
+          "y": 0.25,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0122",
+        "modelId": "rp_f03c46a71a13b552_90d702e8aaaa20ee73991445",
+        "position": {
+          "x": 4.0,
+          "y": -0.125,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0124",
+        "modelId": "rp_f03c46a71a13b552_08231b9606071838b2fe0dfb",
+        "position": {
+          "x": 4.0,
+          "y": 0.25,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0125",
+        "modelId": "rp_f03c46a71a13b552_8dd6e6498d5809de7451f537",
+        "position": {
+          "x": 4.0,
+          "y": -0.125,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0127",
+        "modelId": "rp_f03c46a71a13b552_38636cf11ce066f5f34f60f5",
+        "position": {
+          "x": 4.0,
+          "y": 0.25,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0128",
+        "modelId": "rp_f03c46a71a13b552_65be81e7a3ca640d0d73ed3b",
+        "position": {
+          "x": 4.0,
+          "y": -0.125,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0130",
+        "modelId": "rp_f03c46a71a13b552_8473bc785a3ab20abbbc2758",
+        "position": {
+          "x": 4.0,
+          "y": 0.25,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0131",
+        "modelId": "rp_f03c46a71a13b552_b37b64b6e5cacd7cd5cb6411",
+        "position": {
+          "x": 4.0,
+          "y": -0.125,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0132",
+        "modelId": "rp_f03c46a71a13b552_de1e3fcb2f70904955b9c222",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0133",
+        "modelId": "rp_f03c46a71a13b552_5fac58b5753fe39566159533",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0134",
+        "modelId": "rp_f03c46a71a13b552_a2ea4abf0121b89bb6dbafbc",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0135",
+        "modelId": "rp_f03c46a71a13b552_c475b0a11bbda77559ee9ef3",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0136",
+        "modelId": "rp_f03c46a71a13b552_bda9c2c075f67acc2f4162aa",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0137",
+        "modelId": "rp_f03c46a71a13b552_b24e718e3a11fa254581138c",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0138",
+        "modelId": "rp_f03c46a71a13b552_2b3118be588592a96ddb989e",
+        "position": {
+          "x": 3.0,
+          "y": -0.125,
+          "z": 13.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0139",
+        "modelId": "rp_f03c46a71a13b552_c3909df6ef56e649eca3a4b3",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 12.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0140",
+        "modelId": "rp_f03c46a71a13b552_4e3adac6b34ad1aebe7b2509",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 11.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0141",
+        "modelId": "rp_f03c46a71a13b552_d9dbed5232f5ee740ebbbc9d",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0142",
+        "modelId": "rp_f03c46a71a13b552_d83a60df29322865de8d6f59",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0143",
+        "modelId": "rp_f03c46a71a13b552_b8dd2e69fbb94ce348345025",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0144",
+        "modelId": "rp_f03c46a71a13b552_2fda1fdd3425deb4c61f8159",
+        "position": {
+          "x": 3.0,
+          "y": 2.875,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0145",
+        "modelId": "rp_f03c46a71a13b552_30486f74df727cc8d1629f16",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0146",
+        "modelId": "rp_f03c46a71a13b552_e7c058fdf2d4b1a1177c5634",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0147",
+        "modelId": "rp_f03c46a71a13b552_51d33affb59e31673c12ab6f",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0148",
+        "modelId": "rp_f03c46a71a13b552_97430f5d7ae753ff07d5d9fb",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0149",
+        "modelId": "rp_f03c46a71a13b552_073e416ba378b2961f80945e",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0150",
+        "modelId": "rp_f03c46a71a13b552_0ff10825807dc38522eb53c0",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0151",
+        "modelId": "rp_f03c46a71a13b552_1b3f1dc894dd314697f48c31",
+        "position": {
+          "x": 2.0,
+          "y": -0.125,
+          "z": 13.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0152",
+        "modelId": "rp_f03c46a71a13b552_d507ecda91fa811d179d38cb",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 12.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0153",
+        "modelId": "rp_f03c46a71a13b552_98f28b055b94c18e381ab90b",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 11.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0154",
+        "modelId": "rp_f03c46a71a13b552_8d369359c424f5cd5edb9a4c",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0155",
+        "modelId": "rp_f03c46a71a13b552_9fb9f2f644f2ec94916309fa",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0156",
+        "modelId": "rp_f03c46a71a13b552_a8f216f57dc6e24a879ceac0",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0157",
+        "modelId": "rp_f03c46a71a13b552_15b5852bf91de85b83e1cbf0",
+        "position": {
+          "x": 2.0,
+          "y": 2.875,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0158",
+        "modelId": "rp_f03c46a71a13b552_6440ff8973eb09991794798c",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0159",
+        "modelId": "rp_f03c46a71a13b552_585da1b1fb829a3a26de6f2c",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0160",
+        "modelId": "rp_f03c46a71a13b552_7ad34a476f9ed56d1fb9b773",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0161",
+        "modelId": "rp_f03c46a71a13b552_5f9ba45a64e101d4c3253eda",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0162",
+        "modelId": "rp_f03c46a71a13b552_fae93808251722633a42c493",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0163",
+        "modelId": "rp_f03c46a71a13b552_2509f86f512a867f73816b4f",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0164",
+        "modelId": "rp_f03c46a71a13b552_6b7edcbc1383a5f8786004ed",
+        "position": {
+          "x": 1.0,
+          "y": -0.125,
+          "z": 13.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0165",
+        "modelId": "rp_f03c46a71a13b552_a133f3a5866397bba8ab65b6",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 12.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0166",
+        "modelId": "rp_f03c46a71a13b552_f55cf3116423037d089ed5e8",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 11.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0167",
+        "modelId": "rp_f03c46a71a13b552_eb0901d71a38c880bdc396d3",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0168",
+        "modelId": "rp_f03c46a71a13b552_8ffd13f18445d35fafa4cc2c",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0169",
+        "modelId": "rp_f03c46a71a13b552_3b92b045ee53dbf2168c17b8",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0170",
+        "modelId": "rp_f03c46a71a13b552_d68720be799f2dc8a319f7ed",
+        "position": {
+          "x": 1.0,
+          "y": 2.875,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0171",
+        "modelId": "rp_f03c46a71a13b552_9dcf99a98723610c8efdca9c",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0172",
+        "modelId": "rp_f03c46a71a13b552_2698c710f17741716d14c09e",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0173",
+        "modelId": "rp_f03c46a71a13b552_40d3bacd16b6f30515cb99ff",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0174",
+        "modelId": "rp_f03c46a71a13b552_b6f504dca6b142b71524ff7e",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0175",
+        "modelId": "rp_f03c46a71a13b552_657c29216882452666c360bb",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0176",
+        "modelId": "rp_f03c46a71a13b552_50ac7d3f9e8b1d4c1a34b003",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0177",
+        "modelId": "rp_f03c46a71a13b552_5218aee315183b80f924719e",
+        "position": {
+          "x": 17.0,
+          "y": -0.125,
+          "z": 13.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0178",
+        "modelId": "rp_f03c46a71a13b552_3d5ae042cbe791df588c8948",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 12.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0179",
+        "modelId": "rp_f03c46a71a13b552_cd2da8aebe9ac2d6e2651280",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 11.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0180",
+        "modelId": "rp_f03c46a71a13b552_cad75f57ad552da7188f59b7",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0181",
+        "modelId": "rp_f03c46a71a13b552_2c5a16367c3a1e1cb713abbb",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0182",
+        "modelId": "rp_f03c46a71a13b552_763476105ff071a3243cef88",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0183",
+        "modelId": "rp_f03c46a71a13b552_531d9da2a22b6e05322bc35b",
+        "position": {
+          "x": 17.0,
+          "y": 2.875,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0184",
+        "modelId": "rp_f03c46a71a13b552_ac85c78e48f0b4e5161fbda8",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0185",
+        "modelId": "rp_f03c46a71a13b552_ec5d18109173f1953a703f82",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0186",
+        "modelId": "rp_f03c46a71a13b552_48928d03430441948b184f2e",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0187",
+        "modelId": "rp_f03c46a71a13b552_de8076dcf9b0bc586ac5f1af",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0188",
+        "modelId": "rp_f03c46a71a13b552_15af546b1606f5ed3ee797be",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0189",
+        "modelId": "rp_f03c46a71a13b552_e931c0f1d862fd85f025633b",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0190",
+        "modelId": "rp_f03c46a71a13b552_bd0d47290e48b7184cadaab0",
+        "position": {
+          "x": 16.0,
+          "y": -0.125,
+          "z": 13.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0191",
+        "modelId": "rp_f03c46a71a13b552_e139d5943d59aa62b247bd64",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 12.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0192",
+        "modelId": "rp_f03c46a71a13b552_41292b711614f29884ee2d8c",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 11.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0193",
+        "modelId": "rp_f03c46a71a13b552_a239f57a5bf3fdf653826943",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0194",
+        "modelId": "rp_f03c46a71a13b552_6ea1c026ed232ade881c6808",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0195",
+        "modelId": "rp_f03c46a71a13b552_640ef353dfb256faf41a51e5",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0196",
+        "modelId": "rp_f03c46a71a13b552_d52bb1d3941da56278032895",
+        "position": {
+          "x": 16.0,
+          "y": 2.875,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0197",
+        "modelId": "rp_f03c46a71a13b552_b2a4b2ffaf36e9d84c832416",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0198",
+        "modelId": "rp_f03c46a71a13b552_359a19950aee5d8363ee3b20",
+        "position": {
+          "x": 15.0,
+          "y": 0.25,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0199",
+        "modelId": "rp_f03c46a71a13b552_cf959927483359fab7e216cd",
+        "position": {
+          "x": 15.0,
+          "y": -0.119140625,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0200",
+        "modelId": "rp_f03c46a71a13b552_643e31ef22f3fcc8f10378a9",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0201",
+        "modelId": "rp_f03c46a71a13b552_e4e4de4ffa94c1371193c045",
+        "position": {
+          "x": 15.0,
+          "y": 0.25,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0202",
+        "modelId": "rp_f03c46a71a13b552_5bf125c3b36c18f6d5e6279d",
+        "position": {
+          "x": 15.0,
+          "y": -0.119140625,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0203",
+        "modelId": "rp_f03c46a71a13b552_0a08f4e62e9f7c16c0eff8a2",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0204",
+        "modelId": "rp_f03c46a71a13b552_21b320b63d1e9d4e306eb9ea",
+        "position": {
+          "x": 15.0,
+          "y": 0.25,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0205",
+        "modelId": "rp_f03c46a71a13b552_72553819d49caa6fd1eb1543",
+        "position": {
+          "x": 15.0,
+          "y": -0.119140625,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0206",
+        "modelId": "rp_f03c46a71a13b552_700ccdb9cfa757deec120bd1",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0207",
+        "modelId": "rp_f03c46a71a13b552_25a157dca9d642c57b11fb0a",
+        "position": {
+          "x": 15.0,
+          "y": 0.25,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0208",
+        "modelId": "rp_f03c46a71a13b552_433e08dc5f5bfcce0b1bcbc2",
+        "position": {
+          "x": 15.0,
+          "y": -0.119140625,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0209",
+        "modelId": "rp_f03c46a71a13b552_b6650b690c53e3bf2aa8b16c",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0210",
+        "modelId": "rp_f03c46a71a13b552_95749ecfea04000942017655",
+        "position": {
+          "x": 15.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0211",
+        "modelId": "rp_f03c46a71a13b552_7dd09d0421365c349e216459",
+        "position": {
+          "x": 15.0,
+          "y": -0.119140625,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0212",
+        "modelId": "rp_f03c46a71a13b552_221d3e1e1a1d36cf34d53265",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0213",
+        "modelId": "rp_f03c46a71a13b552_803279b70004233ceb1989f4",
+        "position": {
+          "x": 15.0,
+          "y": -0.125,
+          "z": 13.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0214",
+        "modelId": "rp_f03c46a71a13b552_27765d867b0e4202ac92fc5a",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 12.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0215",
+        "modelId": "rp_f03c46a71a13b552_318e432bc8f611f69608ed31",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 11.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0216",
+        "modelId": "rp_f03c46a71a13b552_e3b1fb572d95eb50948c5569",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0217",
+        "modelId": "rp_f03c46a71a13b552_5974ef31bf5a23d2e04567d2",
+        "position": {
+          "x": 15.0,
+          "y": 0.25,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0218",
+        "modelId": "rp_f03c46a71a13b552_69a6eed159a11db6e486751f",
+        "position": {
+          "x": 15.0,
+          "y": -0.119140625,
+          "z": 10.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0219",
+        "modelId": "rp_f03c46a71a13b552_2adaa67c5068a72c3dfa7ffd",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0220",
+        "modelId": "rp_f03c46a71a13b552_95231d57c0c63ff2d5946fcc",
+        "position": {
+          "x": 15.0,
+          "y": 0.25,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0221",
+        "modelId": "rp_f03c46a71a13b552_c75b77955712b42e0d73e343",
+        "position": {
+          "x": 15.0,
+          "y": -0.119140625,
+          "z": 9.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0222",
+        "modelId": "rp_f03c46a71a13b552_12858fc8bced7d961f4baeaa",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0223",
+        "modelId": "rp_f03c46a71a13b552_18bc0a618be819f6aaef2ef3",
+        "position": {
+          "x": 15.0,
+          "y": 0.25,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0224",
+        "modelId": "rp_f03c46a71a13b552_d0c14c5a1d56cb8abe4f7815",
+        "position": {
+          "x": 15.0,
+          "y": -0.119140625,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0225",
+        "modelId": "rp_f03c46a71a13b552_e411d8e5538bd9b2be6067db",
+        "position": {
+          "x": 15.0,
+          "y": 2.875,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0226",
+        "modelId": "rp_f03c46a71a13b552_25c26f8fb9b5fc48174bb522",
+        "position": {
+          "x": 15.0,
+          "y": 0.25,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0227",
+        "modelId": "rp_f03c46a71a13b552_cf4245d9c8ee3d446ed19b4a",
+        "position": {
+          "x": 15.0,
+          "y": -0.119140625,
+          "z": 7.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0229",
+        "modelId": "rp_f03c46a71a13b552_5ec9297d86aee2f8eac1a8d6",
+        "position": {
+          "x": 14.0,
+          "y": 0.6875,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0230",
+        "modelId": "rp_f03c46a71a13b552_b67bdc7ca0ec4263e8d5eda1",
+        "position": {
+          "x": 14.0,
+          "y": 0.875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0232",
+        "modelId": "rp_f03c46a71a13b552_792c93c14e76b72d0ca2a2c5",
+        "position": {
+          "x": 14.0,
+          "y": 0.0,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0233",
+        "modelId": "rp_f03c46a71a13b552_3047915f3bf11ccf278d5667",
+        "position": {
+          "x": 14.0,
+          "y": 0.875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0236",
+        "modelId": "rp_f03c46a71a13b552_19028ee7045e116746927125",
+        "position": {
+          "x": 14.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0238",
+        "modelId": "rp_f03c46a71a13b552_d4e95c3a84b7873448c29f13",
+        "position": {
+          "x": 14.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0239",
+        "modelId": "rp_f03c46a71a13b552_fe71c6ffad42409060a2f389",
+        "position": {
+          "x": 14.0,
+          "y": -0.11962890625,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0240",
+        "modelId": "rp_f03c46a71a13b552_626dd6fce3f37e1eca2f9a98",
+        "position": {
+          "x": 14.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0250",
+        "modelId": "rp_f03c46a71a13b552_227a7c530ae967be2096d7e8",
+        "position": {
+          "x": 13.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0252",
+        "modelId": "rp_f03c46a71a13b552_ed2a465283a4fdcf141e171d",
+        "position": {
+          "x": 13.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0253",
+        "modelId": "rp_f03c46a71a13b552_5fed82b9532fc297a0e4a105",
+        "position": {
+          "x": 13.0,
+          "y": -0.1201171875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0254",
+        "modelId": "rp_f03c46a71a13b552_f1895d06438c680959df1b14",
+        "position": {
+          "x": 13.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0265",
+        "modelId": "rp_f03c46a71a13b552_e9936bdaa04ec69c61cb19d8",
+        "position": {
+          "x": 12.0,
+          "y": 0.6875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0268",
+        "modelId": "rp_f03c46a71a13b552_c33dca9028159a5d55712656",
+        "position": {
+          "x": 12.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0270",
+        "modelId": "rp_f03c46a71a13b552_e841deeb7482724ac1098684",
+        "position": {
+          "x": 12.0,
+          "y": 1.1875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0271",
+        "modelId": "rp_f03c46a71a13b552_fa3d7035ce121f3e7e7fbb7e",
+        "position": {
+          "x": 12.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0272",
+        "modelId": "rp_f03c46a71a13b552_9fa064f4a3d086a8905a591d",
+        "position": {
+          "x": 12.0,
+          "y": -0.12060546875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0273",
+        "modelId": "rp_f03c46a71a13b552_fa5f01041bdecb8914961c31",
+        "position": {
+          "x": 12.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0283",
+        "modelId": "rp_f03c46a71a13b552_cb1329bc19b61b549de0cff1",
+        "position": {
+          "x": 11.0,
+          "y": 0.6875,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0284",
+        "modelId": "rp_f03c46a71a13b552_9de6c7bf99ddd8304ca1acf1",
+        "position": {
+          "x": 11.0,
+          "y": 0.875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0285",
+        "modelId": "rp_f03c46a71a13b552_0b7889a3b5b1cbe51165cc1b",
+        "position": {
+          "x": 11.0,
+          "y": 1.0,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0287",
+        "modelId": "rp_f03c46a71a13b552_edc8fa43f9b80fea191a2c32",
+        "position": {
+          "x": 11.0,
+          "y": 0.0,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0288",
+        "modelId": "rp_f03c46a71a13b552_c5668f31ff44f6acc7d90b97",
+        "position": {
+          "x": 11.0,
+          "y": 0.875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0290",
+        "modelId": "rp_f03c46a71a13b552_0b544e9f0ac7ccfa4aa7f240",
+        "position": {
+          "x": 11.0,
+          "y": 0.6875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0292",
+        "modelId": "rp_f03c46a71a13b552_3a4f585c24c79f9570448c21",
+        "position": {
+          "x": 11.0,
+          "y": 0.6875,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0293",
+        "modelId": "rp_f03c46a71a13b552_9cebfd6a23c2bd791d60248e",
+        "position": {
+          "x": 11.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0295",
+        "modelId": "rp_f03c46a71a13b552_27f6afd4f6a24aeb62fe5e30",
+        "position": {
+          "x": 11.0,
+          "y": 1.1875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0296",
+        "modelId": "rp_f03c46a71a13b552_d228eac9266227e07a6fd9ee",
+        "position": {
+          "x": 11.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0297",
+        "modelId": "rp_f03c46a71a13b552_c8af39913c2025b8606d2f95",
+        "position": {
+          "x": 11.0,
+          "y": -0.12109375,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0298",
+        "modelId": "rp_f03c46a71a13b552_fd8ad5c44b9b9275859477ce",
+        "position": {
+          "x": 11.0,
+          "y": 0.6875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0299",
+        "modelId": "rp_f03c46a71a13b552_1b3634f8e10efbc432ce9227",
+        "position": {
+          "x": 11.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0309",
+        "modelId": "rp_f03c46a71a13b552_ab5d1bcd4935b9c6b9fd8fc0",
+        "position": {
+          "x": 10.0,
+          "y": 0.6875,
+          "z": 6.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0310",
+        "modelId": "rp_f03c46a71a13b552_c58bd51d26abe09c92acadf5",
+        "position": {
+          "x": 10.0,
+          "y": 0.875,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0311",
+        "modelId": "rp_f03c46a71a13b552_67d3cd237e8d239a5dc78b58",
+        "position": {
+          "x": 10.0,
+          "y": 1.0,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0313",
+        "modelId": "rp_f03c46a71a13b552_bb61c53986669fbf5f272b4f",
+        "position": {
+          "x": 10.0,
+          "y": 0.0,
+          "z": 5.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0314",
+        "modelId": "rp_f03c46a71a13b552_d7b5527a7ccaebe5db9cba99",
+        "position": {
+          "x": 10.0,
+          "y": 0.875,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0316",
+        "modelId": "rp_f03c46a71a13b552_dfe5fca16ec251917e2ee1b8",
+        "position": {
+          "x": 10.0,
+          "y": 0.0,
+          "z": 4.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0317",
+        "modelId": "rp_f03c46a71a13b552_1c5151048c3f8317d7e3b9d7",
+        "position": {
+          "x": 10.0,
+          "y": 0.875,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0319",
+        "modelId": "rp_f03c46a71a13b552_a6d8cf4c1bc337aadd7292b7",
+        "position": {
+          "x": 10.0,
+          "y": 0.0,
+          "z": 3.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0320",
+        "modelId": "rp_f03c46a71a13b552_5ca727d4489bc8f9f593f922",
+        "position": {
+          "x": 10.0,
+          "y": 0.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0321",
+        "modelId": "rp_f03c46a71a13b552_c5c523c9b03afe1b65fedd07",
+        "position": {
+          "x": 10.0,
+          "y": 2.875,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0323",
+        "modelId": "rp_f03c46a71a13b552_1805c182cccea3ba7bf42e8e",
+        "position": {
+          "x": 10.0,
+          "y": 0.25,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0324",
+        "modelId": "rp_f03c46a71a13b552_d9ed6c16a6ca90fdf3130144",
+        "position": {
+          "x": 10.0,
+          "y": -0.12158203125,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0325",
+        "modelId": "rp_f03c46a71a13b552_053199d93ba07359322d459b",
+        "position": {
+          "x": 10.0,
+          "y": 0.0,
+          "z": 2.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "terrain-63-0326",
+        "modelId": "rp_f03c46a71a13b552_775d5657ab69055de9804569",
+        "position": {
+          "x": 10.0,
+          "y": 2.875,
+          "z": 1.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-000",
+        "modelId": "rp_f03c46a71a13b552_392dc6597186816449cf3536",
+        "position": {
+          "x": 11.0,
+          "y": 0.0,
+          "z": 8.0
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-001",
+        "modelId": "rp_f03c46a71a13b552_7e832928907d8bb253512938",
+        "position": {
+          "x": 12.5,
+          "y": 0.0,
+          "z": 7.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-002",
+        "modelId": "rp_f03c46a71a13b552_7e832928907d8bb253512938",
+        "position": {
+          "x": 12.5,
+          "y": 0.0,
+          "z": 8.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-003",
+        "modelId": "rp_f03c46a71a13b552_7e832928907d8bb253512938",
+        "position": {
+          "x": 9.5,
+          "y": 0.0,
+          "z": 8.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-004",
+        "modelId": "rp_f03c46a71a13b552_7e832928907d8bb253512938",
+        "position": {
+          "x": 9.5,
+          "y": 0.0,
+          "z": 7.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-005",
+        "modelId": "rp_f03c46a71a13b552_10a45648ba24f78f538d01d6",
+        "position": {
+          "x": 14.5,
+          "y": 0.0,
+          "z": 10.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-006",
+        "modelId": "rp_f03c46a71a13b552_10a45648ba24f78f538d01d6",
+        "position": {
+          "x": 4.5,
+          "y": 0.0,
+          "z": 10.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-007",
+        "modelId": "rp_f03c46a71a13b552_8beffbe62421c01d2e186174",
+        "position": {
+          "x": 14.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-008",
+        "modelId": "rp_f03c46a71a13b552_4d3e31f7f8324da889d68e56",
+        "position": {
+          "x": 13.5,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-009",
+        "modelId": "rp_f03c46a71a13b552_ed95a7a7338d78ca5526b761",
+        "position": {
+          "x": 12.0,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      },
+      {
+        "id": "object-63-010",
+        "modelId": "rp_f03c46a71a13b552_242ef2182c743dfdc426bbae",
+        "position": {
+          "x": 9.0,
+          "y": 0.0,
+          "z": 3.5
+        },
+        "rotationDegrees": 0.0,
+        "scale": 1.0,
+        "animationIndex": null,
+        "animationLoop": true,
+        "animationSpeed": 1.0,
+        "blocksMovement": false
+      }
+    ],
+    "camera": {
+      "mode": "fixed",
+      "projection": "orthographic",
+      "pitchDegrees": 49.910888671875,
+      "yawDegrees": 0.0,
+      "fieldOfViewDegrees": 7.042236328125,
+      "distance": 97.72111511230469,
+      "orthographicHeight": 12.026066389786878
+    },
+    "navigation": {
+      "spawn": {
+        "x": 6.5,
+        "z": 9.5
+      },
+      "allowDiagonalMovement": false,
+      "ramps": [],
+      "blockedAreas": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "width": 19.0,
+          "depth": 3.0
+        },
+        {
+          "x": 0.0,
+          "z": 3.0,
+          "width": 6.0,
+          "depth": 2.0
+        },
+        {
+          "x": 8.0,
+          "z": 3.0,
+          "width": 11.0,
+          "depth": 1.0
+        },
+        {
+          "x": 10.0,
+          "z": 4.0,
+          "width": 1.0,
+          "depth": 1.0
+        },
+        {
+          "x": 15.0,
+          "z": 4.0,
+          "width": 4.0,
+          "depth": 1.0
+        },
+        {
+          "x": 0.0,
+          "z": 5.0,
+          "width": 4.0,
+          "depth": 4.0
+        },
+        {
+          "x": 10.0,
+          "z": 5.0,
+          "width": 2.0,
+          "depth": 1.0
+        },
+        {
+          "x": 14.0,
+          "z": 5.0,
+          "width": 5.0,
+          "depth": 1.0
+        },
+        {
+          "x": 15.0,
+          "z": 6.0,
+          "width": 4.0,
+          "depth": 3.0
+        },
+        {
+          "x": 10.0,
+          "z": 7.0,
+          "width": 2.0,
+          "depth": 2.0
+        },
+        {
+          "x": 0.0,
+          "z": 9.0,
+          "width": 5.0,
+          "depth": 2.0
+        },
+        {
+          "x": 14.0,
+          "z": 9.0,
+          "width": 5.0,
+          "depth": 2.0
+        },
+        {
+          "x": 0.0,
+          "z": 11.0,
+          "width": 19.0,
+          "depth": 3.0
+        }
+      ]
+    }
+  },
+  "tilesetId": "",
+  "layers": [
+    {
+      "id": "hgss-tapis-escalier",
+      "name": "Tapis rouge de l’escalier",
+      "isVisible": true,
+      "opacity": 1.0,
+      "presetId": "hgss_ground_support_path",
+      "usage": "path",
+      "materialPalette": [
+        "",
+        "rp_76d6491ff242da9a_59179122246f33a627d0ae09"
+      ],
+      "field": {
+        "semanticCells": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "kind": "cell"
+      },
+      "patternStrokes": [
+        {
+          "id": "source-hgss_ground_maison_rdc_tapis_escalier",
+          "patternId": "hgss_ground_maison_rdc_tapis_escalier",
+          "cells": [
+            {
+              "x": 6,
+              "y": 2
+            },
+            {
+              "x": 6,
+              "y": 3
+            },
+            {
+              "x": 6,
+              "y": 4
+            }
+          ],
+          "phaseX": -6,
+          "phaseY": -2
+        }
+      ],
+      "layerSeed": 0,
+      "animationActivation": "always",
+      "properties": {},
+      "runtimeType": "smart_tile"
+    },
+    {
+      "id": "hgss-tapis-entree",
+      "name": "Tapis rouge de l’entrée",
+      "isVisible": true,
+      "opacity": 1.0,
+      "presetId": "hgss_ground_support_path",
+      "usage": "path",
+      "materialPalette": [
+        "",
+        "rp_76d6491ff242da9a_59179122246f33a627d0ae09"
+      ],
+      "field": {
+        "semanticCells": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "kind": "cell"
+      },
+      "patternStrokes": [
+        {
+          "id": "source-hgss_ground_maison_rdc_tapis_entree",
+          "patternId": "hgss_ground_maison_rdc_tapis_entree",
+          "cells": [
+            {
+              "x": 5,
+              "y": 10
+            },
+            {
+              "x": 6,
+              "y": 10
+            },
+            {
+              "x": 7,
+              "y": 10
+            },
+            {
+              "x": 5,
+              "y": 11
+            },
+            {
+              "x": 6,
+              "y": 11
+            },
+            {
+              "x": 7,
+              "y": 11
+            }
+          ],
+          "phaseX": -5,
+          "phaseY": -10
+        }
+      ],
+      "layerSeed": 0,
+      "animationActivation": "always",
+      "properties": {},
+      "runtimeType": "smart_tile"
+    },
+    {
+      "id": "hgss-tapis-bleu",
+      "name": "Tapis bleu à carreaux",
+      "isVisible": true,
+      "opacity": 1.0,
+      "presetId": "hgss_ground_support_path",
+      "usage": "path",
+      "materialPalette": [
+        "",
+        "rp_76d6491ff242da9a_59179122246f33a627d0ae09"
+      ],
+      "field": {
+        "semanticCells": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "kind": "cell"
+      },
+      "patternStrokes": [
+        {
+          "id": "source-hgss_ground_maison_rdc_tapis_bleu",
+          "patternId": "hgss_ground_maison_rdc_tapis_bleu",
+          "cells": [
+            {
+              "x": 8,
+              "y": 6
+            },
+            {
+              "x": 9,
+              "y": 6
+            },
+            {
+              "x": 10,
+              "y": 6
+            },
+            {
+              "x": 11,
+              "y": 6
+            },
+            {
+              "x": 12,
+              "y": 6
+            },
+            {
+              "x": 13,
+              "y": 6
+            },
+            {
+              "x": 8,
+              "y": 7
+            },
+            {
+              "x": 9,
+              "y": 7
+            },
+            {
+              "x": 10,
+              "y": 7
+            },
+            {
+              "x": 11,
+              "y": 7
+            },
+            {
+              "x": 12,
+              "y": 7
+            },
+            {
+              "x": 13,
+              "y": 7
+            },
+            {
+              "x": 8,
+              "y": 8
+            },
+            {
+              "x": 9,
+              "y": 8
+            },
+            {
+              "x": 10,
+              "y": 8
+            },
+            {
+              "x": 11,
+              "y": 8
+            },
+            {
+              "x": 12,
+              "y": 8
+            },
+            {
+              "x": 13,
+              "y": 8
+            },
+            {
+              "x": 8,
+              "y": 9
+            },
+            {
+              "x": 9,
+              "y": 9
+            },
+            {
+              "x": 10,
+              "y": 9
+            },
+            {
+              "x": 11,
+              "y": 9
+            },
+            {
+              "x": 12,
+              "y": 9
+            },
+            {
+              "x": 13,
+              "y": 9
+            }
+          ],
+          "phaseX": -8,
+          "phaseY": -6
+        }
+      ],
+      "layerSeed": 0,
+      "animationActivation": "always",
+      "properties": {},
+      "runtimeType": "smart_tile"
+    },
+    {
+      "id": "hgss-parquet",
+      "name": "Parquet",
+      "isVisible": true,
+      "opacity": 1.0,
+      "presetId": "rp_76d6491ff242da9a_6e396d41b23ad137e0c3f183",
+      "usage": "terrain",
+      "materialPalette": [
+        "",
+        "rp_76d6491ff242da9a_51aa2e15bc40131405bdb1e4"
+      ],
+      "field": {
+        "semanticCells": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "kind": "cell"
+      },
+      "patternStrokes": [],
+      "layerSeed": 0,
+      "animationActivation": "always",
+      "properties": {},
+      "runtimeType": "smart_tile"
+    }
+  ],
+  "placedElements": [],
+  "movingPlatforms": [],
+  "movingProps": [],
+  "entities": [
+    {
+      "id": "bg-parent-ami",
+      "name": "Parent de Célesta/Luth",
+      "kind": "npc",
+      "pos": {
+        "x": 9,
+        "y": 7
+      },
+      "size": {
+        "width": 1,
+        "height": 1
+      },
+      "npc": {
+        "displayName": "Parent de Célesta/Luth",
+        "dialogue": null,
+        "facing": "south",
+        "visualElementId": "",
+        "trainerId": null,
+        "lineOfSightRange": 0,
+        "counterInteractionSides": [],
+        "defeatDialogueRef": null,
+        "characterId": "hgss-parent-ami",
+        "movement": {
+          "mode": "scriptedOnly",
+          "waypoints": [],
+          "routeSteps": [],
+          "suspendWhenInstanceBoolean": null,
+          "loop": true,
+          "pauseDurationMs": 0,
+          "pauseDurationsMs": [],
+          "stepDurationMs": 200
+        },
+        "visibilityRule": null,
+        "conditionalDialogues": []
+      },
+      "sign": null,
+      "item": null,
+      "spawn": null,
+      "counterInteractionSides": [],
+      "interactionMode": "front",
+      "editorVisual": null,
+      "blocksMovement": true,
+      "properties": {}
+    }
+  ],
+  "connections": [],
+  "warps": [
+    {
+      "id": "rom-warp-0",
+      "pos": {
+        "x": 6,
+        "y": 10
+      },
+      "targetMapId": "first-map",
+      "targetPos": {
+        "x": 20,
+        "y": 25
+      },
+      "triggerMode": "on_enter",
+      "allowedApproachFacings": [],
+      "triggerPadding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "transition": {
+        "type": "hgss",
+        "durationSeconds": 0.2
+      }
+    },
+    {
+      "id": "rom-warp-1",
+      "pos": {
+        "x": 6,
+        "y": 3
+      },
+      "targetMapId": "maison-ami-etage",
+      "targetPos": {
+        "x": 4,
+        "y": 4
+      },
+      "triggerMode": "on_enter",
+      "allowedApproachFacings": [],
+      "triggerPadding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "transition": {
+        "type": "fade",
+        "durationSeconds": 0.2
+      }
+    }
+  ],
+  "triggers": [],
+  "gameplayZones": [],
+  "mapMetadata": {
+    "displayName": "",
+    "mapType": "route",
+    "musicPath": "assets/audio/johto/bourg-geon/exploration-orchestrale.wav",
+    "musicVolume": 0.8,
+    "battleMusicPath": null,
+    "weather": "none",
+    "isIndoor": true,
+    "allowBicycle": false,
+    "allowEscapeRope": false,
+    "escapeRopeDungeonId": null,
+    "defaultSpawnId": null,
+    "tags": []
+  },
+  "properties": {},
+  "events": []
+}

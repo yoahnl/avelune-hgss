@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "bidoof",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/bidoof/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/bidoof/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/055d54635241eb1a770f418df9f99f3c1a7c63141b95bfde5b111dcb488b293f.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/bidoof/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/bidoof/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/bidoof/icon.png",
+      "overworld": "assets/pokemon/hgss-api/bidoof/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/bidoof/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/bidoof/icon.png",
+      "portrait": null
+    }
+  }
+}

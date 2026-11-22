@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "mold_breaker",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 125,
+    "bst": 350,
+    "def": 40,
+    "hp": 67,
+    "spa": 30,
+    "spd": 30,
+    "spe": 58
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 30
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "cranidos",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "cranidos",
+  "names": {
+    "fr": "Kranidos"
+  },
+  "nationalDex": 408,
+  "progression": {
+    "baseExp": 99,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "cranidos",
+    "learnset": "cranidos",
+    "media": "cranidos"
+  },
+  "schemaVersion": 1,
+  "slug": "cranidos",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock"
+    ]
+  }
+}

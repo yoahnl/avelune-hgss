@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "natural_cure",
+    "secondary": "poison_point"
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 505,
+    "def": 55,
+    "hp": 60,
+    "spa": 125,
+    "spd": 105,
+    "spe": 90
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "roserade",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "roserade",
+  "names": {
+    "fr": "Roserade"
+  },
+  "nationalDex": 407,
+  "progression": {
+    "baseExp": 204,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "roserade",
+    "learnset": "roserade",
+    "media": "roserade"
+  },
+  "schemaVersion": 1,
+  "slug": "roserade",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "poison"
+    ]
+  }
+}

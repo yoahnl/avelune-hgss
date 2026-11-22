@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "starly",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/starly/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/starly/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/bd36185d4e7ddf263f1b2756458726f8b130872536a46203787fdd037d5e5b02.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/starly/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/starly/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/starly/icon.png",
+      "overworld": "assets/pokemon/hgss-api/starly/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/starly/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/starly/icon.png",
+      "portrait": null
+    }
+  }
+}

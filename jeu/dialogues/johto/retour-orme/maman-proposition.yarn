@@ -1,0 +1,15 @@
+title: Start
+---
+... Oh... Tu pars à l’aventure...
+Très bien! Je ferai tout ce que je peux
+pour t’aider! Par exemple...
+Je sais!
+Chaque fois que tu gagneras un peu d’argent, je le garderai pour toi pour
+t’aider à économiser!
+Tu vas vivre un long voyage, alors tu dois faire attention à ton argent!
+Alors? Tu veux économiser?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

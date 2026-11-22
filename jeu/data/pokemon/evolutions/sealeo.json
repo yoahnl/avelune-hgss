@@ -1,0 +1,16 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "level_up",
+      "minFriendship": null,
+      "minLevel": 44,
+      "requiredMoveId": null,
+      "targetSpeciesId": "walrein"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "sealeo"
+}

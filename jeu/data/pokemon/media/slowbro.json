@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "slowbro",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/slowbro/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/slowbro/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/11d7a87aed51ac08cb4f71c578c1d9c52666e25565101ca54366861457b707cd.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/slowbro/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/slowbro/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/slowbro/icon.png",
+      "overworld": "assets/pokemon/hgss-api/slowbro/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/slowbro/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/slowbro/icon.png",
+      "portrait": null
+    }
+  }
+}

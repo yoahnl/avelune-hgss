@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "shellder",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/shellder/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/shellder/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/80dd9b09ea61ba6dd5f899b980d57b7f8965399a8503fd2b76ee3d37f81985a6.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/shellder/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/shellder/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/shellder/icon.png",
+      "overworld": "assets/pokemon/hgss-api/shellder/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/shellder/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/shellder/icon.png",
+      "portrait": null
+    }
+  }
+}

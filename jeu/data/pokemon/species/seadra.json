@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "poison_point",
+    "secondary": "sniper"
+  },
+  "baseStats": {
+    "atk": 65,
+    "bst": 440,
+    "def": 95,
+    "hp": 55,
+    "spa": 95,
+    "spd": 45,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "seadra",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "seadra",
+  "names": {
+    "fr": "Hypocean"
+  },
+  "nationalDex": 117,
+  "progression": {
+    "baseExp": 155,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "seadra",
+    "learnset": "seadra",
+    "media": "seadra"
+  },
+  "schemaVersion": 1,
+  "slug": "seadra",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

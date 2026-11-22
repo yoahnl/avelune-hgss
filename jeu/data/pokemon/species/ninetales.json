@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "flash_fire",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 76,
+    "bst": 505,
+    "def": 75,
+    "hp": 73,
+    "spa": 81,
+    "spd": 100,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "ninetales",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "ninetales",
+  "names": {
+    "fr": "Feunard"
+  },
+  "nationalDex": 38,
+  "progression": {
+    "baseExp": 178,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "ninetales",
+    "learnset": "ninetales",
+    "media": "ninetales"
+  },
+  "schemaVersion": 1,
+  "slug": "ninetales",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire"
+    ]
+  }
+}

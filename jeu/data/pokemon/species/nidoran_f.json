@@ -1,0 +1,78 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "poison_point",
+    "secondary": "rivalry"
+  },
+  "baseStats": {
+    "atk": 47,
+    "bst": 275,
+    "def": 52,
+    "hp": 55,
+    "spa": 40,
+    "spd": 40,
+    "spe": 41
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 1.0,
+      "male": 0.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 7.0
+  },
+  "forms": {
+    "baseFormId": "nidoran_f",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "nidoran_f",
+  "names": {
+    "fr": "Nidoran♀"
+  },
+  "nationalDex": 29,
+  "progression": {
+    "baseExp": 59,
+    "baseFriendship": 70,
+    "catchRate": 235,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "nidoran_f",
+    "learnset": "nidoran_f",
+    "media": "nidoran_f"
+  },
+  "schemaVersion": 1,
+  "slug": "nidoran_f",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison"
+    ]
+  }
+}

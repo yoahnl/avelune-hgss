@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "treecko",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/treecko/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/treecko/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/fc7745feb37de3bdc67347e7dd8120cffda3998040ba140b3684ee8e6207462c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/treecko/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/treecko/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/treecko/icon.png",
+      "overworld": "assets/pokemon/hgss-api/treecko/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/treecko/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/treecko/icon.png",
+      "portrait": null
+    }
+  }
+}

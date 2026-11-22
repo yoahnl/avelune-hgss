@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "gligar",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/gligar/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/gligar/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/0296dcad9a9f73e6215e853e75e5242b2246b0a88c27e17198b9127a16ca90d3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/gligar/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/gligar/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/gligar/icon.png",
+      "overworld": "assets/pokemon/hgss-api/gligar/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/gligar/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/gligar/icon.png",
+      "portrait": null
+    }
+  }
+}

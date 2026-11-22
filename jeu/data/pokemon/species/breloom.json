@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "effect_spore",
+    "secondary": "poison_heal"
+  },
+  "baseStats": {
+    "atk": 130,
+    "bst": 460,
+    "def": 80,
+    "hp": 60,
+    "spa": 60,
+    "spd": 60,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "breloom",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "breloom",
+  "names": {
+    "fr": "Chapignon"
+  },
+  "nationalDex": 286,
+  "progression": {
+    "baseExp": 165,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "breloom",
+    "learnset": "breloom",
+    "media": "breloom"
+  },
+  "schemaVersion": 1,
+  "slug": "breloom",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "fighting"
+    ]
+  }
+}

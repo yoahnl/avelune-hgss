@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "pressure",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 680,
+    "def": 130,
+    "hp": 106,
+    "spa": 90,
+    "spd": 154,
+    "spe": 110
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 120
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": true,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "lugia",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "lugia",
+  "names": {
+    "fr": "Lugia"
+  },
+  "nationalDex": 249,
+  "progression": {
+    "baseExp": 220,
+    "baseFriendship": 0,
+    "catchRate": 3,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "lugia",
+    "learnset": "lugia",
+    "media": "lugia"
+  },
+  "schemaVersion": 1,
+  "slug": "lugia",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic",
+      "flying"
+    ]
+  }
+}

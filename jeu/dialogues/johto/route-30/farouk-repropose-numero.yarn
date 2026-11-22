@@ -1,0 +1,9 @@
+title: Start
+---
+Donne-moi ton numéro!
+Je perdrai plus contre toi! On se refera un combat, hein?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

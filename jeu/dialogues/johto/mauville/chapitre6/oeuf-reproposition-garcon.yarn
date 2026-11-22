@@ -1,0 +1,8 @@
+title: Start
+---
+Assistant: Tu veux bien prendre soin de cet Oeuf, alors?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

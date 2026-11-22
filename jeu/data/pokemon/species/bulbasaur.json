@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "overgrow",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 49,
+    "bst": 318,
+    "def": 49,
+    "hp": 45,
+    "spa": 65,
+    "spd": 65,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "bulbasaur",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "bulbasaur",
+  "names": {
+    "fr": "Bulbizarre"
+  },
+  "nationalDex": 1,
+  "progression": {
+    "baseExp": 64,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "bulbasaur",
+    "learnset": "bulbasaur",
+    "media": "bulbasaur"
+  },
+  "schemaVersion": 1,
+  "slug": "bulbasaur",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "poison"
+    ]
+  }
+}

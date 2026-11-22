@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "oblivious",
+    "secondary": "snow_cloak"
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 450,
+    "def": 80,
+    "hp": 100,
+    "spa": 60,
+    "spd": 60,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "piloswine",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "piloswine",
+  "names": {
+    "fr": "Cochignon"
+  },
+  "nationalDex": 221,
+  "progression": {
+    "baseExp": 160,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "piloswine",
+    "learnset": "piloswine",
+    "media": "piloswine"
+  },
+  "schemaVersion": 1,
+  "slug": "piloswine",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ice",
+      "ground"
+    ]
+  }
+}

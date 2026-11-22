@@ -1,0 +1,14 @@
+title: Start
+---
+Théophile: Alors! Je vais tout t’apprendre! Dans un combat, il suffit qu’un
+Théophile: Pokémon apparaisse une fois!
+Théophile: dans un combat! pour gagner de l’expérience.
+Théophile: Tu peux te promener avec un Pokémon faible! et changer dès le début du
+Théophile: combat!
+Théophile: Du coup, le Pokémon faible deviendra beaucoup! plus fort.
+Théophile: Tu veux savoir autre! chose?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

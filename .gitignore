@@ -1,0 +1,6 @@
+.DS_Store
+/jeu/.avelune-imports/
+/jeu/.pokemap/authoring/
+/jeu/.pokemap/*.lock
+/jeu/catalog/leases/
+/jeu/catalog/lease-locks/

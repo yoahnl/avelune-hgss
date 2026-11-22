@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "blaze",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 310,
+    "def": 40,
+    "hp": 45,
+    "spa": 70,
+    "spd": 50,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "torchic",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "torchic",
+  "names": {
+    "fr": "Poussifeu"
+  },
+  "nationalDex": 255,
+  "progression": {
+    "baseExp": 65,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "torchic",
+    "learnset": "torchic",
+    "media": "torchic"
+  },
+  "schemaVersion": 1,
+  "slug": "torchic",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire"
+    ]
+  }
+}

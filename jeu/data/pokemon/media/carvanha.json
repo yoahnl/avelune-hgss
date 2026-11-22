@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "carvanha",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/carvanha/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/carvanha/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d28a64850e08c958c7f6aa24e8ca33d3a0fe59878ed440d998d8d46f0ff73c02.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/carvanha/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/carvanha/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/carvanha/icon.png",
+      "overworld": "assets/pokemon/hgss-api/carvanha/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/carvanha/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/carvanha/icon.png",
+      "portrait": null
+    }
+  }
+}

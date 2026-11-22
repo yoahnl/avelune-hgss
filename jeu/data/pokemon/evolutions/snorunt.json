@@ -1,0 +1,27 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "level_up",
+      "minFriendship": null,
+      "minLevel": 42,
+      "requiredMoveId": null,
+      "targetSpeciesId": "glalie"
+    },
+    {
+      "conditionText": {
+        "fr": "Condition native HeartGold : EVO_STONE_FEMALE ; paramètre 109."
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "froslass"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "snorunt"
+}

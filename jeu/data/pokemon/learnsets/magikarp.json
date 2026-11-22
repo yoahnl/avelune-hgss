@@ -1,0 +1,36 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "splash",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 15,
+      "moveId": "tackle",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 30,
+      "moveId": "flail",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "splash"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "magikarp",
+  "startingMoves": [
+    "splash"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

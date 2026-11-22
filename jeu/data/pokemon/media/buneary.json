@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "buneary",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/buneary/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/buneary/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/f149873f2c329c71a8c24a6cf0332b7b8e9aa6e2864a6a084fa04e5addf3a16a.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/buneary/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/buneary/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/buneary/icon.png",
+      "overworld": "assets/pokemon/hgss-api/buneary/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/buneary/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/buneary/icon.png",
+      "portrait": null
+    }
+  }
+}

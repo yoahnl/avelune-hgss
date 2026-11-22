@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "marshtomp",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/marshtomp/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/marshtomp/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/7cb561cb176644ef1b0c256c6a13c8bd843c41e49b71aaf852138d913e9a0465.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/marshtomp/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/marshtomp/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/marshtomp/icon.png",
+      "overworld": "assets/pokemon/hgss-api/marshtomp/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/marshtomp/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/marshtomp/icon.png",
+      "portrait": null
+    }
+  }
+}

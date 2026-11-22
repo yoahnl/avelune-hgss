@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "scizor",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/scizor/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/scizor/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/0c7672e2ea20ff2ba306ff796138332fe1c744c1469b8763b1fcc929bf7113be.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/scizor/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/scizor/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/scizor/icon.png",
+      "overworld": "assets/pokemon/hgss-api/scizor/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/scizor/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/scizor/icon.png",
+      "portrait": null
+    }
+  }
+}

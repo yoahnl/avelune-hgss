@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sturdy",
+    "secondary": "rock_head"
+  },
+  "baseStats": {
+    "atk": 110,
+    "bst": 530,
+    "def": 180,
+    "hp": 70,
+    "spa": 60,
+    "spd": 60,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 35
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "aggron",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "aggron",
+  "names": {
+    "fr": "Galeking"
+  },
+  "nationalDex": 306,
+  "progression": {
+    "baseExp": 205,
+    "baseFriendship": 35,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "aggron",
+    "learnset": "aggron",
+    "media": "aggron"
+  },
+  "schemaVersion": 1,
+  "slug": "aggron",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "steel",
+      "rock"
+    ]
+  }
+}

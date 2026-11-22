@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "wormadam",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/wormadam/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/wormadam/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/c18041a35bfb750da29dd4a6fd29a814947b6dbcc3bc32c023abf8f17b84d12d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/wormadam/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/wormadam/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/wormadam/icon.png",
+      "overworld": "assets/pokemon/hgss-api/wormadam/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/wormadam/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/wormadam/icon.png",
+      "portrait": null
+    }
+  }
+}

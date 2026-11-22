@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "girafarig",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/girafarig/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/girafarig/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/c40ab698880783b6adf25718a8ab08a65bd3fa85dce92b7298301cf2da80df48.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/girafarig/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/girafarig/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/girafarig/icon.png",
+      "overworld": "assets/pokemon/hgss-api/girafarig/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/girafarig/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/girafarig/icon.png",
+      "portrait": null
+    }
+  }
+}

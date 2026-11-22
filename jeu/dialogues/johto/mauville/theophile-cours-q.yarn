@@ -1,0 +1,10 @@
+title: Start
+---
+Théophile: Je m’appelle Théophile! Les Pokémon! c’est tellement bien!
+Théophile: Je peux t’apprendre des choses! Pour devenir fort.
+Théophile: Que veux-tu savoir? Comment s’améliorer?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

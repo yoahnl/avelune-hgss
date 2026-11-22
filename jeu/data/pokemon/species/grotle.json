@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "overgrow",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 89,
+    "bst": 405,
+    "def": 85,
+    "hp": 75,
+    "spa": 55,
+    "spd": 65,
+    "spe": 36
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "grotle",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "grotle",
+  "names": {
+    "fr": "Boskara"
+  },
+  "nationalDex": 388,
+  "progression": {
+    "baseExp": 141,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "grotle",
+    "learnset": "grotle",
+    "media": "grotle"
+  },
+  "schemaVersion": 1,
+  "slug": "grotle",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass"
+    ]
+  }
+}

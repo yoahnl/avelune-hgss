@@ -1,0 +1,78 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swift_swim",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 10,
+    "bst": 200,
+    "def": 55,
+    "hp": 20,
+    "spa": 15,
+    "spd": 20,
+    "spe": 80
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 5
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 10.0
+  },
+  "forms": {
+    "baseFormId": "magikarp",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "magikarp",
+  "names": {
+    "fr": "Magicarpe"
+  },
+  "nationalDex": 129,
+  "progression": {
+    "baseExp": 20,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "magikarp",
+    "learnset": "magikarp",
+    "media": "magikarp"
+  },
+  "schemaVersion": 1,
+  "slug": "magikarp",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

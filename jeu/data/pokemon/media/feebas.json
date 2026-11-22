@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "feebas",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/feebas/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/feebas/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/92671b5ccec56e682258bd2e6a159792662a52dd1d8afe44c620a37b974a6d0f.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/feebas/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/feebas/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/feebas/icon.png",
+      "overworld": "assets/pokemon/hgss-api/feebas/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/feebas/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/feebas/icon.png",
+      "portrait": null
+    }
+  }
+}

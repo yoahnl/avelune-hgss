@@ -1,0 +1,66 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "leaf_blade",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "mega_drain",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "sweet_scent",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "stun_spore",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "sunny_day",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 23,
+      "moveId": "magical_leaf",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 53,
+      "moveId": "leaf_storm",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "mega_drain",
+    "sweet_scent",
+    "stun_spore",
+    "sunny_day"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "bellossom",
+  "startingMoves": [
+    "mega_drain",
+    "sweet_scent",
+    "stun_spore",
+    "sunny_day"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

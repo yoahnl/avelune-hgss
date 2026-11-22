@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "wailmer",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/wailmer/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/wailmer/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d17a80d1aa3013af203cde6fdd0d9d80e03b9c40280700edb62853dfbb2194b0.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/wailmer/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/wailmer/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/wailmer/icon.png",
+      "overworld": "assets/pokemon/hgss-api/wailmer/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/wailmer/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/wailmer/icon.png",
+      "portrait": null
+    }
+  }
+}

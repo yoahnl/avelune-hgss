@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "ninjask",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/ninjask/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/ninjask/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/97f7a255d314e72075684e291fd04ac1e423747fda240714da3f6e4b5698cefc.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/ninjask/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/ninjask/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/ninjask/icon.png",
+      "overworld": "assets/pokemon/hgss-api/ninjask/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/ninjask/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/ninjask/icon.png",
+      "portrait": null
+    }
+  }
+}

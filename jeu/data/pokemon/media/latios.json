@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "latios",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/latios/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/latios/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/90f028952144c09e07fb2e72c4b9bb6db22512ea38332bd96434fd6bcba51904.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/latios/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/latios/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/latios/icon.png",
+      "overworld": "assets/pokemon/hgss-api/latios/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/latios/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/latios/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,10 @@
+title: Start
+---
+Choisis le Pokémon que tu préfères dans cette machine!
+-> Germignon
+    <<outcome chikorita>>
+-> Héricendre
+    <<outcome cyndaquil>>
+-> Kaiminus
+    <<outcome totodile>>
+===

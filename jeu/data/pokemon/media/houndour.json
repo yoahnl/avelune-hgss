@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "houndour",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/houndour/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/houndour/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/9e1d8afc5478adf34baab49b6915b5949787c72ff067cf6925ea97b22c71c2b9.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/houndour/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/houndour/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/houndour/icon.png",
+      "overworld": "assets/pokemon/hgss-api/houndour/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/houndour/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/houndour/icon.png",
+      "portrait": null
+    }
+  }
+}

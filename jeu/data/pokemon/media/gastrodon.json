@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "gastrodon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/gastrodon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/gastrodon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/fc38be8e2521d3853cbf50a3c2b9b10a1a31860a2f300280d272f6d10a8624f8.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/gastrodon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/gastrodon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/gastrodon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/gastrodon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/gastrodon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/gastrodon/icon.png",
+      "portrait": null
+    }
+  }
+}

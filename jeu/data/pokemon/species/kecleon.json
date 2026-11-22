@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "color_change",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 440,
+    "def": 70,
+    "hp": 60,
+    "spa": 60,
+    "spd": 120,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "kecleon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "kecleon",
+  "names": {
+    "fr": "Kecleon"
+  },
+  "nationalDex": 352,
+  "progression": {
+    "baseExp": 132,
+    "baseFriendship": 70,
+    "catchRate": 200,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "kecleon",
+    "learnset": "kecleon",
+    "media": "kecleon"
+  },
+  "schemaVersion": 1,
+  "slug": "kecleon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

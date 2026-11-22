@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "hoothoot",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/route-29/hoothoot/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-29/hoothoot/back.png",
+      "cry": "assets/audio/pokemon/hoothoot/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/route-29/hoothoot/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-29/hoothoot/front.png",
+      "icon": "assets/pokemon/johto/route-29/hoothoot/icon.png",
+      "overworld": "assets/pokemon/overworld/hoothoot/base/6b996a2563da06d2654ce6054abb1f4f293880d27df0a9275cfc837551e058f9.png",
+      "party": "assets/pokemon/johto/route-29/hoothoot/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/hoothoot/base/fffd4cca962b1bc362ad513b7607279c39562f49e5babd50cdb587feb2d16a6b.png"
+    }
+  }
+}

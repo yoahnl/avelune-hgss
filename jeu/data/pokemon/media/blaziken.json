@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "blaziken",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/blaziken/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/blaziken/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/7ca8379b876860d9af53ba18713efcbee42ffd96e5e4bccf459ee483e22d6b0c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/blaziken/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/blaziken/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/blaziken/icon.png",
+      "overworld": "assets/pokemon/hgss-api/blaziken/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/blaziken/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/blaziken/icon.png",
+      "portrait": null
+    }
+  }
+}

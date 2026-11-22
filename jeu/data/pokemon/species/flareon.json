@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "flash_fire",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 130,
+    "bst": 525,
+    "def": 60,
+    "hp": 65,
+    "spa": 95,
+    "spd": 110,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 35
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "flareon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "flareon",
+  "names": {
+    "fr": "Pyroli"
+  },
+  "nationalDex": 136,
+  "progression": {
+    "baseExp": 198,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "flareon",
+    "learnset": "flareon",
+    "media": "flareon"
+  },
+  "schemaVersion": 1,
+  "slug": "flareon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire"
+    ]
+  }
+}

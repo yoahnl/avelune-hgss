@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "weedle",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/route-31/weedle/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-31/weedle/back.png",
+      "cry": "assets/pokemon/battle-cries/c64ad1de90814fb48116e6877ed486f9c9538ffa88e2ea93658317fe249fe0cd.wav",
+      "frontShinyStatic": "assets/pokemon/johto/route-31/weedle/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-31/weedle/front.png",
+      "icon": "assets/pokemon/johto/route-31/weedle/icon.png",
+      "overworld": "assets/pokemon/overworld/weedle/base/711bb816c15e7492a6fc95900936aaca15552275e273546398248398733816f9.png",
+      "overworldShiny": "assets/pokemon/overworld/weedle/base/d3b4d4f4791c347cf5f8856abc47308b322b57a586294b293d34c3fb20f24269.png",
+      "party": "assets/pokemon/johto/route-31/weedle/icon.png",
+      "portrait": null
+    }
+  }
+}

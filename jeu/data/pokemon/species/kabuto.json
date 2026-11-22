@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swift_swim",
+    "secondary": "battle_armor"
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 355,
+    "def": 90,
+    "hp": 30,
+    "spa": 55,
+    "spd": 45,
+    "spe": 55
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 30
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "kabuto",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "kabuto",
+  "names": {
+    "fr": "Kabuto"
+  },
+  "nationalDex": 140,
+  "progression": {
+    "baseExp": 99,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "kabuto",
+    "learnset": "kabuto",
+    "media": "kabuto"
+  },
+  "schemaVersion": 1,
+  "slug": "kabuto",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock",
+      "water"
+    ]
+  }
+}

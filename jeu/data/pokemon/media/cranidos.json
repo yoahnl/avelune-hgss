@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "cranidos",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/cranidos/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/cranidos/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b7c2f3cd3813b06b16bf26045be5415a555c469d770c05c8306bbc2ec40d6fdb.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/cranidos/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/cranidos/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/cranidos/icon.png",
+      "overworld": "assets/pokemon/hgss-api/cranidos/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/cranidos/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/cranidos/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "swinub",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/swinub/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/swinub/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/10d8dda5fcf293173e4b66d562496de18019209bc2a0200f983db4725280fc4b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/swinub/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/swinub/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/swinub/icon.png",
+      "overworld": "assets/pokemon/hgss-api/swinub/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/swinub/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/swinub/icon.png",
+      "portrait": null
+    }
+  }
+}

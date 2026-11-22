@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "rhyhorn",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/rhyhorn/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/rhyhorn/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/e40723d0ff1c0e601ff256a398e48e75a8c97e798cac4c5363b1a17e47226362.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/rhyhorn/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/rhyhorn/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/rhyhorn/icon.png",
+      "overworld": "assets/pokemon/hgss-api/rhyhorn/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/rhyhorn/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/rhyhorn/icon.png",
+      "portrait": null
+    }
+  }
+}

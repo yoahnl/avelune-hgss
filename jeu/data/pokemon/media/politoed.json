@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "politoed",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/politoed/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/politoed/back.png",
+      "cry": "assets/pokemon/battle-cries/ebe4d2a7bb4b08d9129534a369f8cae27d95a09eb9aa458b71074bcfc1017e7e.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/politoed/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/politoed/front.png",
+      "icon": "assets/pokemon/johto/revisites/politoed/icon.png",
+      "overworld": "assets/pokemon/overworld/politoed/base/73500c8819509bf787fc8193cc0a4edcd4b077a5c14c00bb4ea8f9437c1522fb.png",
+      "overworldShiny": "assets/pokemon/overworld/politoed/base/ccb33a81bdc34cc8b88c11ae15d24f771210d67bee72aaa20e3922d0d6e286d7.png",
+      "party": "assets/pokemon/johto/revisites/politoed/icon.png",
+      "portrait": null
+    }
+  }
+}

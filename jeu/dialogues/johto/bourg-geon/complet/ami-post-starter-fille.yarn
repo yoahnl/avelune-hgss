@@ -1,0 +1,9 @@
+title: Start
+---
+Luth: {{ player_name }}!
+Tu as reçu un... {{ fact.fact_bourg_geon_premier_pokemon_espece }}!
+C’est bien! C’est un super Pokémon!
+Si tu le promènes avec toi comme ça, il va t’aimer de plus en plus!
+Retourne-toi parfois pour lui parler! Ah! Tu dois le montrer à ta mère, aussi!
+A plus tard!
+===

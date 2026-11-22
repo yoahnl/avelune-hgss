@@ -1,0 +1,28 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": "water-stone",
+      "method": "use_item",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "poliwrath"
+    },
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "trade",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "politoed",
+      "tradeRequirements": {
+        "requiredHeldItemId": "kings-rock"
+      }
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "poliwhirl"
+}

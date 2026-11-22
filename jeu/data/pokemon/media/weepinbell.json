@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "weepinbell",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/weepinbell/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/weepinbell/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/73e7c87bba3bf94c22594bc37d75330fc4e08a24ede68017082050c038479f93.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/weepinbell/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/weepinbell/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/weepinbell/icon.png",
+      "overworld": "assets/pokemon/hgss-api/weepinbell/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/weepinbell/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/weepinbell/icon.png",
+      "portrait": null
+    }
+  }
+}

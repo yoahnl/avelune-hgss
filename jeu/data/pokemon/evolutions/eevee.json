@@ -1,0 +1,78 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {
+        "fr": "Gain de niveau au rocher mousse natif (EVO_ETERNA), sans emplacement équivalent ajouté dans Johto"
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "leafeon"
+    },
+    {
+      "conditionText": {
+        "fr": "Gain de niveau au rocher glace natif (EVO_ROUTE217), sans emplacement équivalent ajouté dans Johto"
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "glaceon"
+    },
+    {
+      "conditionText": {},
+      "itemId": "thunderstone",
+      "method": "use_item",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "jolteon"
+    },
+    {
+      "conditionText": {},
+      "itemId": "water-stone",
+      "method": "use_item",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "vaporeon"
+    },
+    {
+      "conditionText": {},
+      "itemId": "fire-stone",
+      "method": "use_item",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "flareon"
+    },
+    {
+      "conditionText": {
+        "fr": "Gain de niveau avec amitié >= 220 pendant le jour natif HGSS (IsNighttime == 0)"
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "espeon"
+    },
+    {
+      "conditionText": {
+        "fr": "Gain de niveau avec amitié >= 220 pendant la nuit native HGSS (IsNighttime == 1)"
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "umbreon"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "eevee"
+}

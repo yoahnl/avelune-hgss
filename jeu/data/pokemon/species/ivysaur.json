@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "overgrow",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 62,
+    "bst": 405,
+    "def": 63,
+    "hp": 60,
+    "spa": 80,
+    "spd": 80,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "ivysaur",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "ivysaur",
+  "names": {
+    "fr": "Herbizarre"
+  },
+  "nationalDex": 2,
+  "progression": {
+    "baseExp": 141,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "ivysaur",
+    "learnset": "ivysaur",
+    "media": "ivysaur"
+  },
+  "schemaVersion": 1,
+  "slug": "ivysaur",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "poison"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "steelix",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/steelix/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/steelix/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d5db2db157f9b3bf1c5275ff254b278c18f60ca4511dce624575c3b778256707.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/steelix/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/steelix/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/steelix/icon.png",
+      "overworld": "assets/pokemon/hgss-api/steelix/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/steelix/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/steelix/icon.png",
+      "portrait": null
+    }
+  }
+}

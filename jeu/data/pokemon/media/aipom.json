@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "aipom",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/aipom/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/aipom/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/f32a4f3b4aeef503cb9f259563852968e0c949a1e0a51d3e966cd6a7c9884c90.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/aipom/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/aipom/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/aipom/icon.png",
+      "overworld": "assets/pokemon/hgss-api/aipom/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/aipom/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/aipom/icon.png",
+      "portrait": null
+    }
+  }
+}

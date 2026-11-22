@@ -1,0 +1,90 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 72,
+    "bst": 336,
+    "def": 48,
+    "hp": 48,
+    "spa": 72,
+    "spd": 48,
+    "spe": 48
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.0,
+      "male": 0.0
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "unown",
+    "formId": "f",
+    "formName": "F",
+    "isBaseForm": false,
+    "otherForms": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "g",
+      "h",
+      "i",
+      "j"
+    ]
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "unown-f",
+  "names": {
+    "fr": "Zarbi"
+  },
+  "nationalDex": 201,
+  "progression": {
+    "baseExp": 61,
+    "baseFriendship": 70,
+    "catchRate": 225,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "unown-f",
+    "learnset": "unown-f",
+    "media": "unown"
+  },
+  "schemaVersion": 1,
+  "slug": "unown-f",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic"
+    ]
+  }
+}

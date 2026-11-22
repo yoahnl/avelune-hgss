@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sand_veil",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 300,
+    "def": 45,
+    "hp": 58,
+    "spa": 40,
+    "spd": 45,
+    "spe": 42
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "gible",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "gible",
+  "names": {
+    "fr": "Griknot"
+  },
+  "nationalDex": 443,
+  "progression": {
+    "baseExp": 67,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "gible",
+    "learnset": "gible",
+    "media": "gible"
+  },
+  "schemaVersion": 1,
+  "slug": "gible",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dragon",
+      "ground"
+    ]
+  }
+}

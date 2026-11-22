@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "guts",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 55,
+    "bst": 270,
+    "def": 30,
+    "hp": 40,
+    "spa": 30,
+    "spd": 30,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "taillow",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "taillow",
+  "names": {
+    "fr": "Nirondelle"
+  },
+  "nationalDex": 276,
+  "progression": {
+    "baseExp": 59,
+    "baseFriendship": 70,
+    "catchRate": 200,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "taillow",
+    "learnset": "taillow",
+    "media": "taillow"
+  },
+  "schemaVersion": 1,
+  "slug": "taillow",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

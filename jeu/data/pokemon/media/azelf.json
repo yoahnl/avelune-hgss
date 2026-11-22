@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "azelf",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/azelf/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/azelf/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/9a136623db991ef0dd2c6e9f1f0dc36cb21efbbdafccb5ee0386fe04d566de4e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/azelf/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/azelf/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/azelf/icon.png",
+      "overworld": "assets/pokemon/hgss-api/azelf/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/azelf/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/azelf/icon.png",
+      "portrait": null
+    }
+  }
+}

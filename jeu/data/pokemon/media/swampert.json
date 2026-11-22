@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "swampert",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/swampert/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/swampert/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/205be6859beda6438bdccb305e3eefc363bf7e8c8d7548318e93e8a9135f62fa.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/swampert/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/swampert/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/swampert/icon.png",
+      "overworld": "assets/pokemon/hgss-api/swampert/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/swampert/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/swampert/icon.png",
+      "portrait": null
+    }
+  }
+}

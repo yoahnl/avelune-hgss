@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "spiritomb",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/spiritomb/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/spiritomb/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6f11fe216f8dd081ba05eae96db4181889997e4d76d8fb60359bf40af9b9a2f3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/spiritomb/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/spiritomb/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/spiritomb/icon.png",
+      "overworld": "assets/pokemon/hgss-api/spiritomb/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/spiritomb/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/spiritomb/icon.png",
+      "portrait": null
+    }
+  }
+}

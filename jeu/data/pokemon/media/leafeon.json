@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "leafeon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/leafeon/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/leafeon/back.png",
+      "cry": "assets/pokemon/battle-cries/b61258cc332e3423f89b4e463a244d94d47f6f18cd4cce7e8af2357ab32b8635.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/leafeon/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/leafeon/front.png",
+      "icon": "assets/pokemon/johto/revisites/leafeon/icon.png",
+      "overworld": "assets/pokemon/overworld/leafeon/base/632e72e50ed0d99869014bba83cd83eb4018a7286c30044f2145eeadb05dd00d.png",
+      "overworldShiny": "assets/pokemon/overworld/leafeon/base/b4cb5c104bd49da47954385982687b7802c2064024768dbf871a9745d0a5edd7.png",
+      "party": "assets/pokemon/johto/revisites/leafeon/icon.png",
+      "portrait": null
+    }
+  }
+}

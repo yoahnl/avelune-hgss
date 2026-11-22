@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "kricketot",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/kricketot/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/kricketot/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/1f2852028a64b0e7ae93752d60cde1a272a09785109e1029ce24e1ddbd9ecd2d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/kricketot/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/kricketot/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/kricketot/icon.png",
+      "overworld": "assets/pokemon/hgss-api/kricketot/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/kricketot/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/kricketot/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "charizard",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/charizard/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/charizard/back.png",
+      "cry": "assets/pokemon/battle-cries/04298b87d037c3571885b816a86ec1eaa7420cb8274cf4f3919c5a9a091063f9.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/charizard/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/charizard/front.png",
+      "icon": "assets/pokemon/johto/revisites/charizard/icon.png",
+      "overworld": "assets/pokemon/overworld/charizard/base/40d0290dc03b5d6f75b2644ba56d4baf8409f208f1b4e62953ce69f07fe58f34.png",
+      "overworldShiny": "assets/pokemon/overworld/charizard/base/b190f8e6c7f038bd21ecb6e9c0aec0e4cf3b56ff56e0d6b1aa6d7e1d9f7bd5b6.png",
+      "party": "assets/pokemon/johto/revisites/charizard/icon.png",
+      "portrait": null
+    }
+  }
+}

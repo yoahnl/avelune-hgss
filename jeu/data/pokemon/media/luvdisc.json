@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "luvdisc",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/luvdisc/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/luvdisc/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ba0f6833934cc0f26607ec0dead5973ab840e12c0ce76721a667f4d44812faaf.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/luvdisc/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/luvdisc/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/luvdisc/icon.png",
+      "overworld": "assets/pokemon/hgss-api/luvdisc/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/luvdisc/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/luvdisc/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"key":{"id":"[\"projectDefinition\",\"groups\",0]","kind":"catalogMetadata"},"payload":{"id":"[\"projectDefinition\",\"groups\",0]","position":0,"section":"$projectDefinition","value":{"definition":{"id":"johto","name":"Johto","parentGroupId":null,"properties":{},"sortOrder":0,"tags":[],"type":"special"},"field":"groups"}},"references":[],"type":"unit","version":2}

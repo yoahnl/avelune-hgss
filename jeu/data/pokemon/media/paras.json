@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "paras",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/paras/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/paras/back.png",
+      "cry": "assets/pokemon/battle-cries/e9301717f453ff57654ad4340c6a07051fe57ffa83ccd60830ad3c1a5e2e4d36.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/paras/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/paras/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/paras/icon.png",
+      "overworld": "assets/pokemon/overworld/paras/base/285ea1c3811ae88a48011bd72941b0e13ffa732b998a7d74dd51ad78bf759163.png",
+      "overworldShiny": "assets/pokemon/overworld/paras/base/4c582e2890811db16ec7ffa3194670134a444ade171194d6857f0e7ee9608fa6.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/paras/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "slugma",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/slugma/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/slugma/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/30fc3098e11a232aae4fb39e2447b5f25166323165b8628eefe218ba6cfe45b2.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/slugma/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/slugma/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/slugma/icon.png",
+      "overworld": "assets/pokemon/hgss-api/slugma/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/slugma/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/slugma/icon.png",
+      "portrait": null
+    }
+  }
+}

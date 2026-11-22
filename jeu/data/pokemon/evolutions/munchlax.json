@@ -1,0 +1,16 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "friendship",
+      "minFriendship": 220,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "snorlax"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "munchlax"
+}

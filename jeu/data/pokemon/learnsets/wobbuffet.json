@@ -1,0 +1,48 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "counter",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "mirror_coat",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "safeguard",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "destiny_bond",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "counter",
+    "mirror_coat",
+    "safeguard",
+    "destiny_bond"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "wobbuffet",
+  "startingMoves": [
+    "counter",
+    "mirror_coat",
+    "safeguard",
+    "destiny_bond"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

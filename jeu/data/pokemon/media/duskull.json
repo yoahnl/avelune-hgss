@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "duskull",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/duskull/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/duskull/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/919c9d33caf82f6aab7b93227823b8aa5f247fb0564989be4abaf7625dc66dd2.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/duskull/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/duskull/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/duskull/icon.png",
+      "overworld": "assets/pokemon/hgss-api/duskull/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/duskull/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/duskull/icon.png",
+      "portrait": null
+    }
+  }
+}

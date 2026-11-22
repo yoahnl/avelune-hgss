@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "pressure",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 115,
+    "bst": 580,
+    "def": 85,
+    "hp": 115,
+    "spa": 90,
+    "spd": 75,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 80
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": true,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "entei",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "entei",
+  "names": {
+    "fr": "Entei"
+  },
+  "nationalDex": 244,
+  "progression": {
+    "baseExp": 217,
+    "baseFriendship": 35,
+    "catchRate": 3,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "entei",
+    "learnset": "entei",
+    "media": "entei"
+  },
+  "schemaVersion": 1,
+  "slug": "entei",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire"
+    ]
+  }
+}

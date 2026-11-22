@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "bulbasaur",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/bulbasaur/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/bulbasaur/back.png",
+      "cry": "assets/pokemon/battle-cries/425b24955688ae7d9ae468bd42fde099eb84b497694d38876711e9caaac3ea8b.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/bulbasaur/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/bulbasaur/front.png",
+      "icon": "assets/pokemon/johto/revisites/bulbasaur/icon.png",
+      "overworld": "assets/pokemon/overworld/bulbasaur/base/a6a03583f7c79c50ea3e8af6246e19dcf759b2d2b2560dcd1175f3355e03d2bb.png",
+      "overworldShiny": "assets/pokemon/overworld/bulbasaur/base/17254c4f4bfd1bd316cad8236969f90e062025a10d79ed58957049aa7d5cb9f4.png",
+      "party": "assets/pokemon/johto/revisites/bulbasaur/icon.png",
+      "portrait": null
+    }
+  }
+}

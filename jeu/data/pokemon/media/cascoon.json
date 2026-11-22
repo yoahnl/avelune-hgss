@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "cascoon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/cascoon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/cascoon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/f3afbffadcdac1c14656280b42240aa7d1a2ef7b3716ba49b0f2ee35ed1624b2.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/cascoon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/cascoon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/cascoon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/cascoon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/cascoon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/cascoon/icon.png",
+      "portrait": null
+    }
+  }
+}

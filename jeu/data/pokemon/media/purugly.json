@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "purugly",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/purugly/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/purugly/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/191e4c7ecb7d5e34cf7bac65121403b0efff7355d883e3d90b273ee52fce4bc7.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/purugly/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/purugly/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/purugly/icon.png",
+      "overworld": "assets/pokemon/hgss-api/purugly/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/purugly/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/purugly/icon.png",
+      "portrait": null
+    }
+  }
+}

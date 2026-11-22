@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "ambipom",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/ambipom/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/ambipom/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/305a967eaeccf10223eb963d74e0c6e63be45f526dd7d799ba44186009e0bbc0.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/ambipom/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/ambipom/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/ambipom/icon.png",
+      "overworld": "assets/pokemon/hgss-api/ambipom/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/ambipom/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/ambipom/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "thick_fat",
+    "secondary": "guts"
+  },
+  "baseStats": {
+    "atk": 120,
+    "bst": 474,
+    "def": 60,
+    "hp": 144,
+    "spa": 40,
+    "spd": 60,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.25,
+      "male": 0.75
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "hariyama",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "hariyama",
+  "names": {
+    "fr": "Hariyama"
+  },
+  "nationalDex": 297,
+  "progression": {
+    "baseExp": 184,
+    "baseFriendship": 70,
+    "catchRate": 200,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "hariyama",
+    "learnset": "hariyama",
+    "media": "hariyama"
+  },
+  "schemaVersion": 1,
+  "slug": "hariyama",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fighting"
+    ]
+  }
+}

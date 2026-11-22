@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "blastoise",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/blastoise/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/blastoise/back.png",
+      "cry": "assets/pokemon/battle-cries/945837a3495bdab1632993bae9c9121b433a1809fdcaffab594b8f9793fb9ce0.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/blastoise/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/blastoise/front.png",
+      "icon": "assets/pokemon/johto/revisites/blastoise/icon.png",
+      "overworld": "assets/pokemon/overworld/blastoise/base/d53513ca1c669e7cf9bcf2bc2995554af9c87d1afbc0e6cc3271f3622b0196ac.png",
+      "overworldShiny": "assets/pokemon/overworld/blastoise/base/94967cd73b7e83c9cb9d729ffc3500e4f58ed0d874b8cea6685535b49aaee04d.png",
+      "party": "assets/pokemon/johto/revisites/blastoise/icon.png",
+      "portrait": null
+    }
+  }
+}

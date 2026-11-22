@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "machop",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/machop/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/machop/back.png",
+      "cry": "assets/pokemon/battle-cries/c881f0d431687eed3781fb2b9c53e94c708c2da1b7798cab1e2932a7d8e82914.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/machop/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/machop/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/machop/icon.png",
+      "overworld": "assets/pokemon/overworld/machop/base/4fb50d7b7cb73818cf99772f9178198e3ff377e0d18ed47b763a5ef6f809ba47.png",
+      "overworldShiny": "assets/pokemon/overworld/machop/base/5dbdee5ee160888ca896c021cf3f2ad773c62b7ba3abc20b7ab278f9aceb9cfa.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/machop/icon.png",
+      "portrait": null
+    }
+  }
+}

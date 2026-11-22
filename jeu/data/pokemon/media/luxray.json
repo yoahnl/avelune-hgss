@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "luxray",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/luxray/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/luxray/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b3d89221c845791324ecbcf2588b19e5bdb57faefb48362097dc39223ab37fa0.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/luxray/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/luxray/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/luxray/icon.png",
+      "overworld": "assets/pokemon/hgss-api/luxray/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/luxray/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/luxray/icon.png",
+      "portrait": null
+    }
+  }
+}

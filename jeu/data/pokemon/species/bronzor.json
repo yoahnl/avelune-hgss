@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": "heatproof"
+  },
+  "baseStats": {
+    "atk": 24,
+    "bst": 300,
+    "def": 86,
+    "hp": 57,
+    "spa": 24,
+    "spd": 86,
+    "spe": 23
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "bronzor",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "bronzor",
+  "names": {
+    "fr": "Archeomire"
+  },
+  "nationalDex": 436,
+  "progression": {
+    "baseExp": 72,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "bronzor",
+    "learnset": "bronzor",
+    "media": "bronzor"
+  },
+  "schemaVersion": 1,
+  "slug": "bronzor",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "steel",
+      "psychic"
+    ]
+  }
+}

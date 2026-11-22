@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swift_swim",
+    "secondary": "shell_armor"
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 495,
+    "def": 125,
+    "hp": 70,
+    "spa": 115,
+    "spd": 70,
+    "spe": 55
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 30
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "omastar",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "omastar",
+  "names": {
+    "fr": "Amonistar"
+  },
+  "nationalDex": 139,
+  "progression": {
+    "baseExp": 199,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "omastar",
+    "learnset": "omastar",
+    "media": "omastar"
+  },
+  "schemaVersion": 1,
+  "slug": "omastar",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock",
+      "water"
+    ]
+  }
+}

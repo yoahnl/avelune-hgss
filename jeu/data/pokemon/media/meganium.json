@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "meganium",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/meganium/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/meganium/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/f78470b70ca2453ad0398fb817ed6645b3716d318baf42203776351b5a0729bd.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/meganium/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/meganium/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/meganium/icon.png",
+      "overworld": "assets/pokemon/hgss-api/meganium/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/meganium/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/meganium/icon.png",
+      "portrait": null
+    }
+  }
+}

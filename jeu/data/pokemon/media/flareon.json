@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "flareon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/flareon/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/flareon/back.png",
+      "cry": "assets/pokemon/battle-cries/99f250b5f21542dd26a65d30e3db7762129900fa429aca3b6748b3b274a0ef5c.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/flareon/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/flareon/front.png",
+      "icon": "assets/pokemon/johto/revisites/flareon/icon.png",
+      "overworld": "assets/pokemon/overworld/flareon/base/94553344ce1819c5f407072272d8a6ced5478e7fd50b3cf83a902cdffe79ac96.png",
+      "overworldShiny": "assets/pokemon/overworld/flareon/base/eba4db7ec4b8d513c55fc125af2e45dcc32958b79b3e0fac0cb270a938d377e7.png",
+      "party": "assets/pokemon/johto/revisites/flareon/icon.png",
+      "portrait": null
+    }
+  }
+}

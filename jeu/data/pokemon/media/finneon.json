@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "finneon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/finneon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/finneon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/82be5b3876c75c83bf86a4204e321cabadc706dcef1c83f900a513167bf4ca2a.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/finneon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/finneon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/finneon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/finneon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/finneon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/finneon/icon.png",
+      "portrait": null
+    }
+  }
+}

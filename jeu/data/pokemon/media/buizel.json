@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "buizel",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/buizel/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/buizel/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/1383428c9e53a554f2962e4a001b45a9e7977af455992f97c68641eecd8b1d89.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/buizel/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/buizel/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/buizel/icon.png",
+      "overworld": "assets/pokemon/hgss-api/buizel/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/buizel/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/buizel/icon.png",
+      "portrait": null
+    }
+  }
+}

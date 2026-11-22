@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swift_swim",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 104,
+    "bst": 485,
+    "def": 105,
+    "hp": 55,
+    "spa": 94,
+    "spd": 75,
+    "spe": 52
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "huntail",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "huntail",
+  "names": {
+    "fr": "Serpang"
+  },
+  "nationalDex": 367,
+  "progression": {
+    "baseExp": 178,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "huntail",
+    "learnset": "huntail",
+    "media": "huntail"
+  },
+  "schemaVersion": 1,
+  "slug": "huntail",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

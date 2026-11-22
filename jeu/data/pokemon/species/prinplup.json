@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "torrent",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 66,
+    "bst": 405,
+    "def": 68,
+    "hp": 64,
+    "spa": 81,
+    "spd": 76,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "prinplup",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "prinplup",
+  "names": {
+    "fr": "Prinplouf"
+  },
+  "nationalDex": 394,
+  "progression": {
+    "baseExp": 143,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "prinplup",
+    "learnset": "prinplup",
+    "media": "prinplup"
+  },
+  "schemaVersion": 1,
+  "slug": "prinplup",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

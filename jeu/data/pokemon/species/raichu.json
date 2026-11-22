@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "static",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 475,
+    "def": 55,
+    "hp": 60,
+    "spa": 90,
+    "spd": 80,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "raichu",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "raichu",
+  "names": {
+    "fr": "Raichu"
+  },
+  "nationalDex": 26,
+  "progression": {
+    "baseExp": 122,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "raichu",
+    "learnset": "raichu",
+    "media": "raichu"
+  },
+  "schemaVersion": 1,
+  "slug": "raichu",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "electric"
+    ]
+  }
+}

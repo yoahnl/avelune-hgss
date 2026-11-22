@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "electabuzz",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/electabuzz/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/electabuzz/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/119473a4b0ae0db5a8b5cd6c01947bb5a3e0752e72ed795eee224673e1873ee3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/electabuzz/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/electabuzz/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/electabuzz/icon.png",
+      "overworld": "assets/pokemon/hgss-api/electabuzz/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/electabuzz/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/electabuzz/icon.png",
+      "portrait": null
+    }
+  }
+}

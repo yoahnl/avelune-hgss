@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "pressure",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 474,
+    "def": 102,
+    "hp": 70,
+    "spa": 80,
+    "spd": 102,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 1.0,
+      "male": 0.0
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "vespiquen",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "vespiquen",
+  "names": {
+    "fr": "Apireine"
+  },
+  "nationalDex": 416,
+  "progression": {
+    "baseExp": 188,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "vespiquen",
+    "learnset": "vespiquen",
+    "media": "vespiquen"
+  },
+  "schemaVersion": 1,
+  "slug": "vespiquen",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "flying"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "umbreon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/umbreon/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/umbreon/back.png",
+      "cry": "assets/pokemon/battle-cries/0047091dbd0b83865c742d2e9176154b36996040f2381721147b58664d24682d.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/umbreon/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/umbreon/front.png",
+      "icon": "assets/pokemon/johto/revisites/umbreon/icon.png",
+      "overworld": "assets/pokemon/overworld/umbreon/base/31d768f79e7bc902d50865bbe0767c9b03d92bd4f95852d928463ff597be8c07.png",
+      "overworldShiny": "assets/pokemon/overworld/umbreon/base/6da73763423f409bc38a264243741c58741026d33963a08caa2febd616ad541e.png",
+      "party": "assets/pokemon/johto/revisites/umbreon/icon.png",
+      "portrait": null
+    }
+  }
+}

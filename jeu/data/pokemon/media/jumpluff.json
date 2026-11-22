@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "jumpluff",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/jumpluff/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/jumpluff/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/9e215a62e9882a0186b566552ac56763b038758213f03fd69726fc79355b2588.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/jumpluff/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/jumpluff/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/jumpluff/icon.png",
+      "overworld": "assets/pokemon/hgss-api/jumpluff/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/jumpluff/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/jumpluff/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "furret",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/furret/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/furret/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/35fcb00a7d9407e75d2a10c2ce03585c72d8d24bb4a4826fb75d94e3edb758b7.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/furret/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/furret/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/furret/icon.png",
+      "overworld": "assets/pokemon/hgss-api/furret/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/furret/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/furret/icon.png",
+      "portrait": null
+    }
+  }
+}

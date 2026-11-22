@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "oblivious",
+    "secondary": "tinted_lens"
+  },
+  "baseStats": {
+    "atk": 47,
+    "bst": 400,
+    "def": 55,
+    "hp": 65,
+    "spa": 73,
+    "spd": 75,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug",
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 1.0,
+      "male": 0.0
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "illumise",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "illumise",
+  "names": {
+    "fr": "Lumivole"
+  },
+  "nationalDex": 314,
+  "progression": {
+    "baseExp": 146,
+    "baseFriendship": 70,
+    "catchRate": 150,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "illumise",
+    "learnset": "illumise",
+    "media": "illumise"
+  },
+  "schemaVersion": 1,
+  "slug": "illumise",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug"
+    ]
+  }
+}

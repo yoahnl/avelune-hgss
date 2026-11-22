@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "compoundeyes",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 45,
+    "bst": 266,
+    "def": 90,
+    "hp": 31,
+    "spa": 30,
+    "spd": 30,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "nincada",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "nincada",
+  "names": {
+    "fr": "Ningale"
+  },
+  "nationalDex": 290,
+  "progression": {
+    "baseExp": 65,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "nincada",
+    "learnset": "nincada",
+    "media": "nincada"
+  },
+  "schemaVersion": 1,
+  "slug": "nincada",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "ground"
+    ]
+  }
+}

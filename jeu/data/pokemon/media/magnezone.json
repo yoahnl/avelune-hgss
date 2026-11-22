@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "magnezone",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/magnezone/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/magnezone/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/cd03503e814149ec4c661afe27634518a0730aad369a17ee13311b37cdc8394e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/magnezone/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/magnezone/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/magnezone/icon.png",
+      "overworld": "assets/pokemon/hgss-api/magnezone/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/magnezone/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/magnezone/icon.png",
+      "portrait": null
+    }
+  }
+}

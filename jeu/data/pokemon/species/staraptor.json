@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "intimidate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 120,
+    "bst": 475,
+    "def": 70,
+    "hp": 85,
+    "spa": 50,
+    "spd": 50,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "staraptor",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "staraptor",
+  "names": {
+    "fr": "Etouraptor"
+  },
+  "nationalDex": 398,
+  "progression": {
+    "baseExp": 172,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "staraptor",
+    "learnset": "staraptor",
+    "media": "staraptor"
+  },
+  "schemaVersion": 1,
+  "slug": "staraptor",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

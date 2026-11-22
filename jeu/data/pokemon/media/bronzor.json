@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "bronzor",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/bronzor/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/bronzor/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/cd760d73ab16cb8e14dd74c3e625e9cb133a97a5f0e5a921363d83d9a549e7e5.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/bronzor/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/bronzor/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/bronzor/icon.png",
+      "overworld": "assets/pokemon/hgss-api/bronzor/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/bronzor/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/bronzor/icon.png",
+      "portrait": null
+    }
+  }
+}

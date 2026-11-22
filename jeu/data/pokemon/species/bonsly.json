@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sturdy",
+    "secondary": "rock_head"
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 290,
+    "def": 95,
+    "hp": 50,
+    "spa": 10,
+    "spd": 45,
+    "spe": 10
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "bonsly",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "bonsly",
+  "names": {
+    "fr": "Manzai"
+  },
+  "nationalDex": 438,
+  "progression": {
+    "baseExp": 68,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "bonsly",
+    "learnset": "bonsly",
+    "media": "bonsly"
+  },
+  "schemaVersion": 1,
+  "slug": "bonsly",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock"
+    ]
+  }
+}

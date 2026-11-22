@@ -1,0 +1,10 @@
+title: Start
+---
+Tu veux pas me donner ton numéro?
+Comme ça, si tu veux qu’on se recroise pour un combat, hop!
+Un coup de fil!
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

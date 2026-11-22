@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "chansey",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/chansey/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/chansey/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/a4f841560f1685e587b4e512ed9e5bf32cf12adb0f67bb1dcb7d48d3afa4a99c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/chansey/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/chansey/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/chansey/icon.png",
+      "overworld": "assets/pokemon/hgss-api/chansey/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/chansey/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/chansey/icon.png",
+      "portrait": null
+    }
+  }
+}

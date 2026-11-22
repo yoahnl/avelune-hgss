@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "togepi",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/mauville/togepi/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/mauville/togepi/back.png",
+      "cry": "assets/pokemon/battle-cries/aff7e790ddd7a0a4be665b649295458212a02a2c4bfa33b3f39cdab49d133910.wav",
+      "frontShinyStatic": "assets/pokemon/johto/mauville/togepi/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/mauville/togepi/front.png",
+      "icon": "assets/pokemon/johto/mauville/togepi/icon.png",
+      "overworld": "assets/pokemon/overworld/togepi/base/c9e2cc08e2e0baef9d5b02ff8344ffd1111d5743310f0ac1a8fe2becf72f480e.png",
+      "overworldShiny": "assets/pokemon/overworld/togepi/base/ca0472501b3fea91b69547fda2ceeb16612fd67ea427f53266beedcbb0a64100.png",
+      "party": "assets/pokemon/johto/mauville/togepi/icon.png",
+      "portrait": null
+    }
+  }
+}

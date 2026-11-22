@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "liquid_ooze",
+    "secondary": "sticky_hold"
+  },
+  "baseStats": {
+    "atk": 73,
+    "bst": 467,
+    "def": 83,
+    "hp": 100,
+    "spa": 73,
+    "spd": 83,
+    "spe": 55
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "swalot",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "swalot",
+  "names": {
+    "fr": "Avaltout"
+  },
+  "nationalDex": 317,
+  "progression": {
+    "baseExp": 168,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "swalot",
+    "learnset": "swalot",
+    "media": "swalot"
+  },
+  "schemaVersion": 1,
+  "slug": "swalot",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison"
+    ]
+  }
+}

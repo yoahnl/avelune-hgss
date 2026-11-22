@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "clear_body",
+    "secondary": "liquid_ooze"
+  },
+  "baseStats": {
+    "atk": 40,
+    "bst": 335,
+    "def": 35,
+    "hp": 40,
+    "spa": 50,
+    "spd": 100,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 45.5
+  },
+  "forms": {
+    "baseFormId": "tentacool",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "tentacool",
+  "names": {
+    "fr": "Tentacool"
+  },
+  "nationalDex": 72,
+  "progression": {
+    "baseExp": 105,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "tentacool",
+    "learnset": "tentacool",
+    "media": "tentacool"
+  },
+  "schemaVersion": 1,
+  "slug": "tentacool",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "poison"
+    ]
+  }
+}

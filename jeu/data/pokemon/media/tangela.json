@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "tangela",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/tangela/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/tangela/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/fa2005124e43a0a7481c23273058a2efb8de44dfff1685f0a5681ba790d30fc7.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/tangela/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/tangela/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/tangela/icon.png",
+      "overworld": "assets/pokemon/hgss-api/tangela/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/tangela/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/tangela/icon.png",
+      "portrait": null
+    }
+  }
+}

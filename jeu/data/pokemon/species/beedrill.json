@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swarm",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 385,
+    "def": 40,
+    "hp": 65,
+    "spa": 45,
+    "spd": 80,
+    "spe": 75
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 29.5
+  },
+  "forms": {
+    "baseFormId": "beedrill",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "beedrill",
+  "names": {
+    "fr": "Dardargnan"
+  },
+  "nationalDex": 15,
+  "progression": {
+    "baseExp": 159,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "beedrill",
+    "learnset": "beedrill",
+    "media": "beedrill"
+  },
+  "schemaVersion": 1,
+  "slug": "beedrill",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "poison"
+    ]
+  }
+}

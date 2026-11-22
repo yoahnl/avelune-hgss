@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "oblivious",
+    "secondary": "forewarn"
+  },
+  "baseStats": {
+    "atk": 30,
+    "bst": 305,
+    "def": 15,
+    "hp": 45,
+    "spa": 85,
+    "spd": 65,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 1.0,
+      "male": 0.0
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "smoochum",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "smoochum",
+  "names": {
+    "fr": "Lippouti"
+  },
+  "nationalDex": 238,
+  "progression": {
+    "baseExp": 87,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "smoochum",
+    "learnset": "smoochum",
+    "media": "smoochum"
+  },
+  "schemaVersion": 1,
+  "slug": "smoochum",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ice",
+      "psychic"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "jigglypuff",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/jigglypuff/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/jigglypuff/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d079d97f50d744f3a70dccc4d0fe5d1da9e1d86a89cfdd85e44c2259fe611d46.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/jigglypuff/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/jigglypuff/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/jigglypuff/icon.png",
+      "overworld": "assets/pokemon/hgss-api/jigglypuff/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/jigglypuff/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/jigglypuff/icon.png",
+      "portrait": null
+    }
+  }
+}

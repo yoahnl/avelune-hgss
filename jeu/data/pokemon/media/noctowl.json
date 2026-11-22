@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "noctowl",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/noctowl/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/noctowl/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/bc63610c5635fdc7961bbfa5a91c54c1436331e6b8ee6176dc9f838030448470.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/noctowl/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/noctowl/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/noctowl/icon.png",
+      "overworld": "assets/pokemon/hgss-api/noctowl/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/noctowl/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/noctowl/icon.png",
+      "portrait": null
+    }
+  }
+}

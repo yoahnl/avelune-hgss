@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "shieldon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/shieldon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/shieldon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/776f6e39ca60076ca483a3869a01419599914238be0b1f7a8190115aacd2a517.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/shieldon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/shieldon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/shieldon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/shieldon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/shieldon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/shieldon/icon.png",
+      "portrait": null
+    }
+  }
+}

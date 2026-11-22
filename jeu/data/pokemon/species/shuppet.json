@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "insomnia",
+    "secondary": "frisk"
+  },
+  "baseStats": {
+    "atk": 75,
+    "bst": 295,
+    "def": 35,
+    "hp": 44,
+    "spa": 63,
+    "spd": 33,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "shuppet",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "shuppet",
+  "names": {
+    "fr": "Polichombr"
+  },
+  "nationalDex": 353,
+  "progression": {
+    "baseExp": 97,
+    "baseFriendship": 35,
+    "catchRate": 225,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "shuppet",
+    "learnset": "shuppet",
+    "media": "shuppet"
+  },
+  "schemaVersion": 1,
+  "slug": "shuppet",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ghost"
+    ]
+  }
+}

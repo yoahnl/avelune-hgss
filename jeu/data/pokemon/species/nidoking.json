@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "poison_point",
+    "secondary": "rivalry"
+  },
+  "baseStats": {
+    "atk": 92,
+    "bst": 495,
+    "def": 77,
+    "hp": 81,
+    "spa": 85,
+    "spd": 75,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.0,
+      "male": 1.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "nidoking",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "nidoking",
+  "names": {
+    "fr": "Nidoking"
+  },
+  "nationalDex": 34,
+  "progression": {
+    "baseExp": 195,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "nidoking",
+    "learnset": "nidoking",
+    "media": "nidoking"
+  },
+  "schemaVersion": 1,
+  "slug": "nidoking",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison",
+      "ground"
+    ]
+  }
+}

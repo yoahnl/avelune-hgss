@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "croconaw",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/croconaw/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/croconaw/back.png",
+      "cry": "assets/pokemon/battle-cries/16a228ca12a0ae4eaa75dff68eb66256efb24a12cd1bf5a68d5dd60c6023fe61.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/croconaw/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/croconaw/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/croconaw/icon.png",
+      "overworld": "assets/pokemon/overworld/croconaw/base/7ba55576053b821b49251dea9fb3e283c1e712ab1586d13b78b2573b050b3d29.png",
+      "overworldShiny": "assets/pokemon/overworld/croconaw/base/4ff9543240703fbecf82f96f4c3e9582cbb7008a7e93278537a446d2e2eea426.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/croconaw/icon.png",
+      "portrait": null
+    }
+  }
+}

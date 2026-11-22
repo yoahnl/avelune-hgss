@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "stench",
+    "secondary": "aftermath"
+  },
+  "baseStats": {
+    "atk": 93,
+    "bst": 479,
+    "def": 67,
+    "hp": 103,
+    "spa": 71,
+    "spd": 61,
+    "spe": 84
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "skuntank",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "skuntank",
+  "names": {
+    "fr": "Moufflair"
+  },
+  "nationalDex": 435,
+  "progression": {
+    "baseExp": 209,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "skuntank",
+    "learnset": "skuntank",
+    "media": "skuntank"
+  },
+  "schemaVersion": 1,
+  "slug": "skuntank",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison",
+      "dark"
+    ]
+  }
+}

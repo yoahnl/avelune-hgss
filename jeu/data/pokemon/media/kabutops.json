@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "kabutops",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/kabutops/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/kabutops/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/e19693f3c31eae0aaab6b44a203db08bc249b96eb9c79ec23a353ce8a017fca6.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/kabutops/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/kabutops/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/kabutops/icon.png",
+      "overworld": "assets/pokemon/hgss-api/kabutops/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/kabutops/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/kabutops/icon.png",
+      "portrait": null
+    }
+  }
+}

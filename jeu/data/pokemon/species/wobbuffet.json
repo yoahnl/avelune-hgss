@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "shadow_tag",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 33,
+    "bst": 405,
+    "def": 58,
+    "hp": 190,
+    "spa": 33,
+    "spd": 58,
+    "spe": 33
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "wobbuffet",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "wobbuffet",
+  "names": {
+    "fr": "Qulbutoke"
+  },
+  "nationalDex": 202,
+  "progression": {
+    "baseExp": 177,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "wobbuffet",
+    "learnset": "wobbuffet",
+    "media": "wobbuffet"
+  },
+  "schemaVersion": 1,
+  "slug": "wobbuffet",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic"
+    ]
+  }
+}

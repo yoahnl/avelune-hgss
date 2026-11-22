@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "makuhita",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/makuhita/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/makuhita/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6eddcc3dad9508d2676cc273239e55c6113909c1b221133ae6c7c438f1f26c1d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/makuhita/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/makuhita/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/makuhita/icon.png",
+      "overworld": "assets/pokemon/hgss-api/makuhita/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/makuhita/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/makuhita/icon.png",
+      "portrait": null
+    }
+  }
+}

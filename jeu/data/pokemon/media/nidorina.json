@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "nidorina",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/nidorina/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/nidorina/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6cd350cf8c78a2fcc910713fb006eb346135b3cbe5945d7046df59acd9a5d09d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/nidorina/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/nidorina/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/nidorina/icon.png",
+      "overworld": "assets/pokemon/hgss-api/nidorina/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/nidorina/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/nidorina/icon.png",
+      "portrait": null
+    }
+  }
+}

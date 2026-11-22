@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "torchic",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/torchic/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/torchic/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/5d3c0e0a60b300e4e806970403d1243b6b376feda9e117bd50b07766d9c4b672.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/torchic/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/torchic/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/torchic/icon.png",
+      "overworld": "assets/pokemon/hgss-api/torchic/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/torchic/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/torchic/icon.png",
+      "portrait": null
+    }
+  }
+}

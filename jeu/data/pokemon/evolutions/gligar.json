@@ -1,0 +1,18 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {
+        "fr": "Condition native HeartGold : EVO_ITEM_NIGHT ; paramètre 327."
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "gliscor"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "gligar"
+}

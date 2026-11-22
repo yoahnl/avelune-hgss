@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "natural_cure",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 490,
+    "def": 90,
+    "hp": 75,
+    "spa": 70,
+    "spd": 105,
+    "spe": 80
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "altaria",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "altaria",
+  "names": {
+    "fr": "Altaria"
+  },
+  "nationalDex": 334,
+  "progression": {
+    "baseExp": 188,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "altaria",
+    "learnset": "altaria",
+    "media": "altaria"
+  },
+  "schemaVersion": 1,
+  "slug": "altaria",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dragon",
+      "flying"
+    ]
+  }
+}

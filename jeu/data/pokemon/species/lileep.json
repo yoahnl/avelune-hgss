@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "suction_cups",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 41,
+    "bst": 355,
+    "def": 77,
+    "hp": 66,
+    "spa": 61,
+    "spd": 87,
+    "spe": 23
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 30
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "lileep",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "lileep",
+  "names": {
+    "fr": "Lilia"
+  },
+  "nationalDex": 345,
+  "progression": {
+    "baseExp": 99,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "lileep",
+    "learnset": "lileep",
+    "media": "lileep"
+  },
+  "schemaVersion": 1,
+  "slug": "lileep",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock",
+      "grass"
+    ]
+  }
+}

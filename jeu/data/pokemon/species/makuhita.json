@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "thick_fat",
+    "secondary": "guts"
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 237,
+    "def": 30,
+    "hp": 72,
+    "spa": 20,
+    "spd": 30,
+    "spe": 25
+  },
+  "breeding": {
+    "eggGroups": [
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.25,
+      "male": 0.75
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "makuhita",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "makuhita",
+  "names": {
+    "fr": "Makuhita"
+  },
+  "nationalDex": 296,
+  "progression": {
+    "baseExp": 87,
+    "baseFriendship": 70,
+    "catchRate": 180,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "makuhita",
+    "learnset": "makuhita",
+    "media": "makuhita"
+  },
+  "schemaVersion": 1,
+  "slug": "makuhita",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fighting"
+    ]
+  }
+}

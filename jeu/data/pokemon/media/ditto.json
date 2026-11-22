@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "ditto",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/ditto/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/ditto/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/cd61a1f9b6b51c5d46e0bb3ebc14c983029f44392e0ce268ad681a3303c612f8.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/ditto/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/ditto/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/ditto/icon.png",
+      "overworld": "assets/pokemon/hgss-api/ditto/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/ditto/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/ditto/icon.png",
+      "portrait": null
+    }
+  }
+}

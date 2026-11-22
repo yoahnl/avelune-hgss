@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "doduo",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/doduo/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/doduo/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d4b52921870b5bd82316b758c252cfa74045382352ba8c9f5e4ec0e8eb11765b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/doduo/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/doduo/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/doduo/icon.png",
+      "overworld": "assets/pokemon/hgss-api/doduo/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/doduo/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/doduo/icon.png",
+      "portrait": null
+    }
+  }
+}

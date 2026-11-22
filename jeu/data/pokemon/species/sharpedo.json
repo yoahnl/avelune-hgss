@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "rough_skin",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 120,
+    "bst": 460,
+    "def": 40,
+    "hp": 70,
+    "spa": 95,
+    "spd": 40,
+    "spe": 95
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_2"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "sharpedo",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "sharpedo",
+  "names": {
+    "fr": "Sharpedo"
+  },
+  "nationalDex": 319,
+  "progression": {
+    "baseExp": 175,
+    "baseFriendship": 35,
+    "catchRate": 60,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "sharpedo",
+    "learnset": "sharpedo",
+    "media": "sharpedo"
+  },
+  "schemaVersion": 1,
+  "slug": "sharpedo",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "dark"
+    ]
+  }
+}

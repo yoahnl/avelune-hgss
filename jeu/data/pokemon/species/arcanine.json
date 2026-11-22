@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "intimidate",
+    "secondary": "flash_fire"
+  },
+  "baseStats": {
+    "atk": 110,
+    "bst": 555,
+    "def": 80,
+    "hp": 90,
+    "spa": 100,
+    "spd": 80,
+    "spe": 95
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.25,
+      "male": 0.75
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "arcanine",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "arcanine",
+  "names": {
+    "fr": "Arcanin"
+  },
+  "nationalDex": 59,
+  "progression": {
+    "baseExp": 213,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "arcanine",
+    "learnset": "arcanine",
+    "media": "arcanine"
+  },
+  "schemaVersion": 1,
+  "slug": "arcanine",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire"
+    ]
+  }
+}

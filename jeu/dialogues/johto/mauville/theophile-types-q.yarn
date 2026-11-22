@@ -1,0 +1,9 @@
+title: Start
+---
+Théophile: Alors! Tu veux savoir comment! faire se battre
+Théophile: tes Pokémon! efficacement?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

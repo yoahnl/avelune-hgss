@@ -1,0 +1,16 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "level_up",
+      "minFriendship": null,
+      "minLevel": 31,
+      "requiredMoveId": null,
+      "targetSpeciesId": "dodrio"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "doduo"
+}

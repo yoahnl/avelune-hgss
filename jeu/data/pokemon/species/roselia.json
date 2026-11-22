@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "natural_cure",
+    "secondary": "poison_point"
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 400,
+    "def": 45,
+    "hp": 50,
+    "spa": 100,
+    "spd": 80,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "roselia",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "roselia",
+  "names": {
+    "fr": "Roselia"
+  },
+  "nationalDex": 315,
+  "progression": {
+    "baseExp": 152,
+    "baseFriendship": 70,
+    "catchRate": 150,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "roselia",
+    "learnset": "roselia",
+    "media": "roselia"
+  },
+  "schemaVersion": 1,
+  "slug": "roselia",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "poison"
+    ]
+  }
+}

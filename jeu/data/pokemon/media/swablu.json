@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "swablu",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/swablu/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/swablu/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b6b5edd7a0319e0d66956b76f09cc792e26bf4f5ccec04ada9d303c5ee010ad8.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/swablu/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/swablu/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/swablu/icon.png",
+      "overworld": "assets/pokemon/hgss-api/swablu/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/swablu/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/swablu/icon.png",
+      "portrait": null
+    }
+  }
+}

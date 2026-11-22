@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "lightningrod",
+    "secondary": "rock_head"
+  },
+  "baseStats": {
+    "atk": 130,
+    "bst": 485,
+    "def": 120,
+    "hp": 105,
+    "spa": 45,
+    "spd": 45,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "rhydon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "rhydon",
+  "names": {
+    "fr": "Rhinoferos"
+  },
+  "nationalDex": 112,
+  "progression": {
+    "baseExp": 204,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "rhydon",
+    "learnset": "rhydon",
+    "media": "rhydon"
+  },
+  "schemaVersion": 1,
+  "slug": "rhydon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ground",
+      "rock"
+    ]
+  }
+}

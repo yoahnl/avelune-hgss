@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "water_absorb",
+    "secondary": "damp"
+  },
+  "baseStats": {
+    "atk": 75,
+    "bst": 500,
+    "def": 75,
+    "hp": 90,
+    "spa": 90,
+    "spd": 100,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "politoed",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "politoed",
+  "names": {
+    "fr": "Tarpaud"
+  },
+  "nationalDex": 186,
+  "progression": {
+    "baseExp": 185,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "politoed",
+    "learnset": "politoed",
+    "media": "politoed"
+  },
+  "schemaVersion": 1,
+  "slug": "politoed",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

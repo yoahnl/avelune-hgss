@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "probopass",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/probopass/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/probopass/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/4979111a63bf0320ac17535982d019cf54011bffbfd96b3673b8351094fb4d88.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/probopass/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/probopass/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/probopass/icon.png",
+      "overworld": "assets/pokemon/hgss-api/probopass/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/probopass/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/probopass/icon.png",
+      "portrait": null
+    }
+  }
+}

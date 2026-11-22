@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "water_absorb",
+    "secondary": "damp"
+  },
+  "baseStats": {
+    "atk": 65,
+    "bst": 385,
+    "def": 65,
+    "hp": 65,
+    "spa": 50,
+    "spd": 50,
+    "spe": 90
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "poliwhirl",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "poliwhirl",
+  "names": {
+    "fr": "Tetarte"
+  },
+  "nationalDex": 61,
+  "progression": {
+    "baseExp": 131,
+    "baseFriendship": 70,
+    "catchRate": 120,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "poliwhirl",
+    "learnset": "poliwhirl",
+    "media": "poliwhirl"
+  },
+  "schemaVersion": 1,
+  "slug": "poliwhirl",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

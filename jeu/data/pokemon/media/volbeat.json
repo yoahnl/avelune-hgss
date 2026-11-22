@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "volbeat",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/volbeat/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/volbeat/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/e773a1393bb885586d28fdc397aaa5e49a6595dc906f651efa1e37fe157528c9.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/volbeat/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/volbeat/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/volbeat/icon.png",
+      "overworld": "assets/pokemon/hgss-api/volbeat/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/volbeat/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/volbeat/icon.png",
+      "portrait": null
+    }
+  }
+}

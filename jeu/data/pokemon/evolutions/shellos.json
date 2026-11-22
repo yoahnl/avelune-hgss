@@ -1,0 +1,16 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "level_up",
+      "minFriendship": null,
+      "minLevel": 30,
+      "requiredMoveId": null,
+      "targetSpeciesId": "gastrodon"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "shellos"
+}

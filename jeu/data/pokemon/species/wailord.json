@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "water_veil",
+    "secondary": "oblivious"
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 500,
+    "def": 45,
+    "hp": 170,
+    "spa": 90,
+    "spd": 45,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "water_2"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "wailord",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "wailord",
+  "names": {
+    "fr": "Wailord"
+  },
+  "nationalDex": 321,
+  "progression": {
+    "baseExp": 206,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "wailord",
+    "learnset": "wailord",
+    "media": "wailord"
+  },
+  "schemaVersion": 1,
+  "slug": "wailord",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

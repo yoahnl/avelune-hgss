@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sand_veil",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 130,
+    "bst": 600,
+    "def": 95,
+    "hp": 108,
+    "spa": 80,
+    "spd": 85,
+    "spe": 102
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "garchomp",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "garchomp",
+  "names": {
+    "fr": "Carchacrok"
+  },
+  "nationalDex": 445,
+  "progression": {
+    "baseExp": 218,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "garchomp",
+    "learnset": "garchomp",
+    "media": "garchomp"
+  },
+  "schemaVersion": 1,
+  "slug": "garchomp",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dragon",
+      "ground"
+    ]
+  }
+}

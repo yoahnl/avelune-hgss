@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "donphan",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/donphan/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/donphan/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/3be9c9166a6f84a9150dec41d321a51d4f0c72ae9c29ee8cbc57c374eba5392e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/donphan/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/donphan/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/donphan/icon.png",
+      "overworld": "assets/pokemon/hgss-api/donphan/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/donphan/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/donphan/icon.png",
+      "portrait": null
+    }
+  }
+}

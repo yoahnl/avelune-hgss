@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "thick_fat",
+    "secondary": "hydration"
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 475,
+    "def": 80,
+    "hp": 90,
+    "spa": 70,
+    "spd": 95,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "dewgong",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "dewgong",
+  "names": {
+    "fr": "Lamantine"
+  },
+  "nationalDex": 87,
+  "progression": {
+    "baseExp": 176,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "dewgong",
+    "learnset": "dewgong",
+    "media": "dewgong"
+  },
+  "schemaVersion": 1,
+  "slug": "dewgong",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "ice"
+    ]
+  }
+}

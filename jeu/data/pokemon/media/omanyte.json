@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "omanyte",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/omanyte/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/omanyte/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/caa1cb2fd211a1f5054adf29ad802fa122e53f09d9feca97fb87cdb051b6e3ae.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/omanyte/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/omanyte/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/omanyte/icon.png",
+      "overworld": "assets/pokemon/hgss-api/omanyte/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/omanyte/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/omanyte/icon.png",
+      "portrait": null
+    }
+  }
+}

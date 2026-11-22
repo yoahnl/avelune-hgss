@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "tauros",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/tauros/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/tauros/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/11d141b6a8136a34c1d31026e3d296d77fc46f2421c2be619f60a4af4e021352.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/tauros/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/tauros/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/tauros/icon.png",
+      "overworld": "assets/pokemon/hgss-api/tauros/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/tauros/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/tauros/icon.png",
+      "portrait": null
+    }
+  }
+}

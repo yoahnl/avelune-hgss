@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "magmortar",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/magmortar/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/magmortar/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/362791ea37d480a0c98cf8e777654cea549a2894209cf2381bd3780a3b3a0335.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/magmortar/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/magmortar/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/magmortar/icon.png",
+      "overworld": "assets/pokemon/hgss-api/magmortar/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/magmortar/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/magmortar/icon.png",
+      "portrait": null
+    }
+  }
+}

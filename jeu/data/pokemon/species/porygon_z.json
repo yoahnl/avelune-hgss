@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "adaptability",
+    "secondary": "download"
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 535,
+    "def": 70,
+    "hp": 85,
+    "spa": 135,
+    "spd": 75,
+    "spe": 90
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "porygon_z",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "porygon_z",
+  "names": {
+    "fr": "Porygon-z"
+  },
+  "nationalDex": 474,
+  "progression": {
+    "baseExp": 185,
+    "baseFriendship": 70,
+    "catchRate": 30,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "porygon_z",
+    "learnset": "porygon_z",
+    "media": "porygon_z"
+  },
+  "schemaVersion": 1,
+  "slug": "porygon_z",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

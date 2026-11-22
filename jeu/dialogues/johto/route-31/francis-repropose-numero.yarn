@@ -1,0 +1,9 @@
+title: Start
+---
+Je trouve des Baies dans les herbes parfois.
+Si tu veux, je peux t’en donner. Tu me donnes ton numéro?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

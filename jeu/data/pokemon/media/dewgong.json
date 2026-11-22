@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "dewgong",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/dewgong/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/dewgong/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/5f7012183e884826b42c8030a577a481709a4310ca995196ade9ff7d90b2d28d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/dewgong/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/dewgong/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/dewgong/icon.png",
+      "overworld": "assets/pokemon/hgss-api/dewgong/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/dewgong/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/dewgong/icon.png",
+      "portrait": null
+    }
+  }
+}

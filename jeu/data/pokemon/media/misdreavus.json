@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "misdreavus",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/misdreavus/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/misdreavus/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/2575c285ac3d3d6c5e9b568a08ee775e9375fad0905f8e51a2e8161cb4df0a69.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/misdreavus/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/misdreavus/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/misdreavus/icon.png",
+      "overworld": "assets/pokemon/hgss-api/misdreavus/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/misdreavus/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/misdreavus/icon.png",
+      "portrait": null
+    }
+  }
+}

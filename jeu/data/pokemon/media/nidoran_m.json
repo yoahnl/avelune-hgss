@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "nidoran_m",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/nidoran_m/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/nidoran_m/back.png",
+      "cry": "assets/pokemon/battle-cries/3254fdf13aed3131a19eda0b43231cfd4edfa1bc5080bb2220f4fcc2204ef5ec.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/nidoran_m/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/nidoran_m/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/nidoran_m/icon.png",
+      "overworld": "assets/pokemon/overworld/nidoran_m/base/85381f18b59b5bc827bccb8ddaf7e7f355dc1ffd994f14eb962d7a53772502b4.png",
+      "overworldShiny": "assets/pokemon/overworld/nidoran_m/base/8c81d694aa5923850a804a083886ec3f0deb27af8d8fda044c2e9974a2f939d5.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/nidoran_m/icon.png",
+      "portrait": null
+    }
+  }
+}

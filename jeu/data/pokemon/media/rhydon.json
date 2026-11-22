@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "rhydon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/rhydon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/rhydon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/78708b2b9c5ff2b65d48710b0d155da9ae7e9cd0cbd60369db636bcd2e174174.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/rhydon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/rhydon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/rhydon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/rhydon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/rhydon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/rhydon/icon.png",
+      "portrait": null
+    }
+  }
+}

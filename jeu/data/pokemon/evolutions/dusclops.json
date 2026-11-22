@@ -1,0 +1,18 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {
+        "fr": "Condition native HeartGold : EVO_TRADE_ITEM ; paramètre 325."
+      },
+      "itemId": null,
+      "method": "conditional",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "dusknoir"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "dusclops"
+}

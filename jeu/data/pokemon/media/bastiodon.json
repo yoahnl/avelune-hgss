@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "bastiodon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/bastiodon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/bastiodon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b41a55c5af78de9248694ba4cc0814552bdd3808f81c421dca48806b2a5ef40e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/bastiodon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/bastiodon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/bastiodon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/bastiodon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/bastiodon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/bastiodon/icon.png",
+      "portrait": null
+    }
+  }
+}

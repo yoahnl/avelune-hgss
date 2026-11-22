@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "stantler",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/stantler/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/stantler/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/3243f8b606159ac0d5e6653a2c792ff738d46c5bcf06b622ed9974b6940d4d92.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/stantler/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/stantler/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/stantler/icon.png",
+      "overworld": "assets/pokemon/hgss-api/stantler/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/stantler/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/stantler/icon.png",
+      "portrait": null
+    }
+  }
+}

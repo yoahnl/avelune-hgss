@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "charmander",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/charmander/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/charmander/back.png",
+      "cry": "assets/pokemon/battle-cries/1c2220e9408c33f9a96d308e058cd92447c9b104eedec00f59f401e1227aae45.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/charmander/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/charmander/front.png",
+      "icon": "assets/pokemon/johto/revisites/charmander/icon.png",
+      "overworld": "assets/pokemon/overworld/charmander/base/df8c7184caf4e5eefa60a8edf794676ea750eca25c061662a381b84500fb3ef8.png",
+      "overworldShiny": "assets/pokemon/overworld/charmander/base/1680c0512c96bc3969316cf6a87f92907616a7a8a9036da1c9239e2b3228bf08.png",
+      "party": "assets/pokemon/johto/revisites/charmander/icon.png",
+      "portrait": null
+    }
+  }
+}

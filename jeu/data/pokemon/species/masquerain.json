@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "intimidate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 414,
+    "def": 62,
+    "hp": 70,
+    "spa": 80,
+    "spd": 82,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "masquerain",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "masquerain",
+  "names": {
+    "fr": "Maskadra"
+  },
+  "nationalDex": 284,
+  "progression": {
+    "baseExp": 128,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "masquerain",
+    "learnset": "masquerain",
+    "media": "masquerain"
+  },
+  "schemaVersion": 1,
+  "slug": "masquerain",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "flying"
+    ]
+  }
+}

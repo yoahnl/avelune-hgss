@@ -1,0 +1,9 @@
+title: Start
+---
+Collectionneur: Je collectionne les Pokémon! Est-ce que tu as un CHETIFLOR?
+Collectionneur: Je te l’échange contre un ONIX!
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

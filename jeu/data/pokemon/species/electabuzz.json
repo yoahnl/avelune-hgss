@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "static",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 83,
+    "bst": 490,
+    "def": 57,
+    "hp": 65,
+    "spa": 95,
+    "spd": 85,
+    "spe": 105
+  },
+  "breeding": {
+    "eggGroups": [
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.25,
+      "male": 0.75
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "electabuzz",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "electabuzz",
+  "names": {
+    "fr": "Elektek"
+  },
+  "nationalDex": 125,
+  "progression": {
+    "baseExp": 156,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "electabuzz",
+    "learnset": "electabuzz",
+    "media": "electabuzz"
+  },
+  "schemaVersion": 1,
+  "slug": "electabuzz",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "electric"
+    ]
+  }
+}

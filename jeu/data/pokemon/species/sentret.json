@@ -1,0 +1,78 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "run_away",
+    "secondary": "keen_eye"
+  },
+  "baseStats": {
+    "atk": 46,
+    "bst": 215,
+    "def": 34,
+    "hp": 35,
+    "spa": 35,
+    "spd": 45,
+    "spe": 20
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 6.0
+  },
+  "forms": {
+    "baseFormId": "sentret",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "sentret",
+  "names": {
+    "fr": "Fouinette"
+  },
+  "nationalDex": 161,
+  "progression": {
+    "baseExp": 57,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "sentret",
+    "learnset": "sentret",
+    "media": "sentret"
+  },
+  "schemaVersion": 1,
+  "slug": "sentret",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:route29-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "cute_charm",
+    "secondary": "magic_guard"
+  },
+  "baseStats": {
+    "atk": 45,
+    "bst": 323,
+    "def": 48,
+    "hp": 70,
+    "spa": 60,
+    "spd": 65,
+    "spe": 35
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "clefairy",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "clefairy",
+  "names": {
+    "fr": "Melofee"
+  },
+  "nationalDex": 35,
+  "progression": {
+    "baseExp": 68,
+    "baseFriendship": 140,
+    "catchRate": 150,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "clefairy",
+    "learnset": "clefairy",
+    "media": "clefairy"
+  },
+  "schemaVersion": 1,
+  "slug": "clefairy",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

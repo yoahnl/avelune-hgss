@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swift_swim",
+    "secondary": "water_absorb"
+  },
+  "baseStats": {
+    "atk": 20,
+    "bst": 345,
+    "def": 50,
+    "hp": 45,
+    "spa": 60,
+    "spd": 120,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "mantyke",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "mantyke",
+  "names": {
+    "fr": "Babimanta"
+  },
+  "nationalDex": 458,
+  "progression": {
+    "baseExp": 108,
+    "baseFriendship": 70,
+    "catchRate": 25,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "mantyke",
+    "learnset": "mantyke",
+    "media": "mantyke"
+  },
+  "schemaVersion": 1,
+  "slug": "mantyke",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "flying"
+    ]
+  }
+}

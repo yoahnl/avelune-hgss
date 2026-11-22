@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swarm",
+    "secondary": "insomnia"
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 390,
+    "def": 70,
+    "hp": 70,
+    "spa": 60,
+    "spd": 60,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "ariados",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "ariados",
+  "names": {
+    "fr": "Migalos"
+  },
+  "nationalDex": 168,
+  "progression": {
+    "baseExp": 134,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "ariados",
+    "learnset": "ariados",
+    "media": "ariados"
+  },
+  "schemaVersion": 1,
+  "slug": "ariados",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "poison"
+    ]
+  }
+}

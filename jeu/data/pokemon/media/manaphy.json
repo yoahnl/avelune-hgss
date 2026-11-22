@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "manaphy",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/manaphy/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/manaphy/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b7b64d7f0a5d818e7c627fd4426abb782d5bcaf55a43bac1a92f3b14c0d2977e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/manaphy/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/manaphy/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/manaphy/icon.png",
+      "overworld": "assets/pokemon/hgss-api/manaphy/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/manaphy/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/manaphy/icon.png",
+      "portrait": null
+    }
+  }
+}

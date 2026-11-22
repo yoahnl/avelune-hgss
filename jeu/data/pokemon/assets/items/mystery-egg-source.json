@@ -1,0 +1,75 @@
+{
+  "projectItemId": "mystery-egg",
+  "sourceItemConstant": "ITEM_MYSTERY_EGG",
+  "sourceItemIndex": 461,
+  "rom": {
+    "path": "Pokemon - Version Or HeartGold (France).nds",
+    "sha256": "ee540ea4eff5268e8b7a85bc63db654c627dd82c25ebe921211870646b25356a"
+  },
+  "archive": {
+    "id": 147,
+    "path": "a/0/1/8",
+    "romOffset": 34065920,
+    "bytes": 448456,
+    "sha256": "abaa10233234c73bff7568be751482083d64b2b4e195b266e4b3db0c8b8b5704",
+    "decompSourcePath": "files/itemtool/itemdata/item_icon.narc",
+    "narcMembers": 797
+  },
+  "graphics": {
+    "member": 783,
+    "bytes": 560,
+    "sha256": "1c360e2890fb9e958dcf10c494495a8f2c230576eadb678d57f596d252097e3e",
+    "rangeInArchive": [
+      440672,
+      441232
+    ],
+    "rangeInROM": [
+      34506592,
+      34507152
+    ],
+    "rangeConvention": "start inclusive, end exclusive"
+  },
+  "palette": {
+    "member": 784,
+    "bytes": 552,
+    "sha256": "c72e85987a60a9ea1010c9746cfae37504fa098d8deaf634ebeeb7273fe2488e",
+    "rangeInArchive": [
+      441232,
+      441784
+    ],
+    "rangeInROM": [
+      34507152,
+      34507704
+    ],
+    "rangeConvention": "start inclusive, end exclusive"
+  },
+  "decompMembersByteIdentical": true,
+  "source": {
+    "path": "src/item.c",
+    "line": 619,
+    "text": "[ITEM_MYSTERY_EGG] = { NARC_item_data_0461_bin, NARC_item_icon_item_icon_783_NCGR, NARC_item_icon_item_icon_784_NCLR, AGB_ITEM_NONE                   },"
+  },
+  "decoding": {
+    "layout": "16 row-major 8x8 tiles, 4bpp low nibble first",
+    "dimensions": [
+      32,
+      32
+    ],
+    "palette": "first 16 RGB555 colors",
+    "transparentIndex": 0,
+    "resampling": "none"
+  },
+  "png": {
+    "file": "mystery-egg.png",
+    "sha256": "2275f9ec529b6058896e9fc891e4d7edeeb3b2259bcaf80cadec9e8372c37763",
+    "bytes": 387,
+    "opaquePixels": 164,
+    "opaqueBounds": [
+      5,
+      5,
+      19,
+      21
+    ]
+  },
+  "pixelRoundTrip": true
+}

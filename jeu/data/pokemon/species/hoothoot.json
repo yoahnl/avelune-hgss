@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "insomnia",
+    "secondary": "keen_eye"
+  },
+  "baseStats": {
+    "atk": 30,
+    "bst": 262,
+    "def": 30,
+    "hp": 60,
+    "spa": 36,
+    "spd": 56,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 21.2
+  },
+  "forms": {
+    "baseFormId": "hoothoot",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "hoothoot",
+  "names": {
+    "fr": "Hoothoot"
+  },
+  "nationalDex": 163,
+  "progression": {
+    "baseExp": 58,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "hoothoot",
+    "learnset": "hoothoot",
+    "media": "hoothoot"
+  },
+  "schemaVersion": 1,
+  "slug": "hoothoot",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:route29-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

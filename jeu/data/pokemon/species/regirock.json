@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "clear_body",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 580,
+    "def": 200,
+    "hp": 80,
+    "spa": 50,
+    "spd": 100,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 80
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": true,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "regirock",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "regirock",
+  "names": {
+    "fr": "Regirock"
+  },
+  "nationalDex": 377,
+  "progression": {
+    "baseExp": 217,
+    "baseFriendship": 35,
+    "catchRate": 3,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "regirock",
+    "learnset": "regirock",
+    "media": "regirock"
+  },
+  "schemaVersion": 1,
+  "slug": "regirock",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock"
+    ]
+  }
+}

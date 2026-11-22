@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "venomoth",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/venomoth/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/venomoth/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/af6624f73ba0b422afe960588a2178e0fdc38182cd88d5e922e109707d3d31bf.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/venomoth/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/venomoth/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/venomoth/icon.png",
+      "overworld": "assets/pokemon/hgss-api/venomoth/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/venomoth/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/venomoth/icon.png",
+      "portrait": null
+    }
+  }
+}

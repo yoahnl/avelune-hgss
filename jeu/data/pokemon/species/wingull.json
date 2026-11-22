@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "keen_eye",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 30,
+    "bst": 270,
+    "def": 30,
+    "hp": 40,
+    "spa": 55,
+    "spd": 30,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "wingull",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "wingull",
+  "names": {
+    "fr": "Goelise"
+  },
+  "nationalDex": 278,
+  "progression": {
+    "baseExp": 64,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "wingull",
+    "learnset": "wingull",
+    "media": "wingull"
+  },
+  "schemaVersion": 1,
+  "slug": "wingull",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "flying"
+    ]
+  }
+}

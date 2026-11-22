@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "clear_body",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 75,
+    "bst": 580,
+    "def": 150,
+    "hp": 80,
+    "spa": 75,
+    "spd": 150,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 80
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": true,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "registeel",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "registeel",
+  "names": {
+    "fr": "Registeel"
+  },
+  "nationalDex": 379,
+  "progression": {
+    "baseExp": 215,
+    "baseFriendship": 35,
+    "catchRate": 3,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "registeel",
+    "learnset": "registeel",
+    "media": "registeel"
+  },
+  "schemaVersion": 1,
+  "slug": "registeel",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "steel"
+    ]
+  }
+}

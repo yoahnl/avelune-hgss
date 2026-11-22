@@ -1,0 +1,16 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "known_move",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": "rollout",
+      "targetSpeciesId": "lickilicky"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "lickitung"
+}

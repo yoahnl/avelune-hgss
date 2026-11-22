@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "graveler",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/graveler/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/graveler/back.png",
+      "cry": "assets/pokemon/battle-cries/5672665b228bd850b25ff2b1bde63832e64f787bb95fec1994c28795f2588092.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/graveler/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/graveler/front.png",
+      "icon": "assets/pokemon/johto/revisites/graveler/icon.png",
+      "overworld": "assets/pokemon/overworld/graveler/base/1be5110018a5a2b8e31caeca18345bf7750ad79c8a44b752727e09d0dbc614dd.png",
+      "overworldShiny": "assets/pokemon/overworld/graveler/base/fa98034be6248de1f9240e94ed81fe0f7695ea9762242d35eb0c4f7491d2f7ef.png",
+      "party": "assets/pokemon/johto/revisites/graveler/icon.png",
+      "portrait": null
+    }
+  }
+}

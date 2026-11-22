@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "wailord",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/wailord/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/wailord/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/9df753369f52cbec8f38b9df8b2c940ccd93b287fa148999f8b4add68f9e22a7.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/wailord/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/wailord/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/wailord/icon.png",
+      "overworld": "assets/pokemon/hgss-api/wailord/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/wailord/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/wailord/icon.png",
+      "portrait": null
+    }
+  }
+}

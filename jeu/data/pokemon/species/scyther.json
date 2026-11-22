@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swarm",
+    "secondary": "technician"
+  },
+  "baseStats": {
+    "atk": 110,
+    "bst": 500,
+    "def": 80,
+    "hp": 70,
+    "spa": 55,
+    "spd": 80,
+    "spe": 105
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 56.0
+  },
+  "forms": {
+    "baseFormId": "scyther",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "scyther",
+  "names": {
+    "fr": "Insecateur"
+  },
+  "nationalDex": 123,
+  "progression": {
+    "baseExp": 187,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "scyther",
+    "learnset": "scyther",
+    "media": "scyther"
+  },
+  "schemaVersion": 1,
+  "slug": "scyther",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "flying"
+    ]
+  }
+}

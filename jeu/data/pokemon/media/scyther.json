@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "scyther",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/scyther/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/scyther/back.png",
+      "cry": "assets/pokemon/battle-cries/010bb4cd7c8d7730b4bc3b345f93f328b219008c20bb6bd01da92b394189de60.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/scyther/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/scyther/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/scyther/icon.png",
+      "overworld": "assets/pokemon/overworld/scyther/base/c3301f2530f4d708cd6f089b328846cc40a0b2379fd7125cc93a098d989d3e80.png",
+      "overworldShiny": "assets/pokemon/overworld/scyther/base/ec5ab6703acccc272905dc6b73ea5e64359fa6bfc590bbc80dd25ee2d5052b55.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/scyther/icon.png",
+      "portrait": null
+    }
+  }
+}

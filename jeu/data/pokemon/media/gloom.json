@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "gloom",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/gloom/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/gloom/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/3599b04885bff1cd9bcc1eb3ed499c59b7fda89b8e9cd94ac5c1665c83b72d4b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/gloom/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/gloom/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/gloom/icon.png",
+      "overworld": "assets/pokemon/hgss-api/gloom/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/gloom/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/gloom/icon.png",
+      "portrait": null
+    }
+  }
+}

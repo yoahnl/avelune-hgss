@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "run_away",
+    "secondary": "klutz"
+  },
+  "baseStats": {
+    "atk": 66,
+    "bst": 350,
+    "def": 44,
+    "hp": 55,
+    "spa": 44,
+    "spd": 56,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "buneary",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "buneary",
+  "names": {
+    "fr": "Laporeille"
+  },
+  "nationalDex": 427,
+  "progression": {
+    "baseExp": 84,
+    "baseFriendship": 0,
+    "catchRate": 190,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "buneary",
+    "learnset": "buneary",
+    "media": "buneary"
+  },
+  "schemaVersion": 1,
+  "slug": "buneary",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

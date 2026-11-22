@@ -1,0 +1,5 @@
+title: Start
+---
+Bienvenue! Tu dois être {{ player_name }}?
+C’est moi qui ai envoyé cette Lettre au Professeur Orme.
+===

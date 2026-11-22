@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "bellsprout",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/route-31/bellsprout/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-31/bellsprout/back.png",
+      "cry": "assets/pokemon/battle-cries/92637b50f627a472a5f1bc1fa8e764ab71c8283cbe084297ab33a2785535cb31.wav",
+      "frontShinyStatic": "assets/pokemon/johto/route-31/bellsprout/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-31/bellsprout/front.png",
+      "icon": "assets/pokemon/johto/route-31/bellsprout/icon.png",
+      "overworld": "assets/pokemon/overworld/bellsprout/base/daecad058940c400589719611002309b0a07c2fb188da80cc9c6faa9e334f135.png",
+      "overworldShiny": "assets/pokemon/overworld/bellsprout/base/80bbdc5c64f4263f7f1218b79c65080c12597f970f12d74bf1b0f7fc621e268b.png",
+      "party": "assets/pokemon/johto/route-31/bellsprout/icon.png",
+      "portrait": null
+    }
+  }
+}

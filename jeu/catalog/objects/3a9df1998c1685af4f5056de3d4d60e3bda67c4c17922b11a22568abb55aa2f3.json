@@ -1,0 +1,1 @@
+{"key":{"id":"[\"projectDefinition\",\"groups\",6]","kind":"catalogMetadata"},"payload":{"id":"[\"projectDefinition\",\"groups\",6]","position":6,"section":"$projectDefinition","value":{"definition":{"id":"routes-johto","name":"Routes","parentGroupId":"johto","properties":{},"sortOrder":2,"tags":[],"type":"special"},"field":"groups"}},"references":[],"type":"unit","version":2}

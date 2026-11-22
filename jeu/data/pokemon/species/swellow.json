@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "guts",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 85,
+    "bst": 430,
+    "def": 60,
+    "hp": 60,
+    "spa": 50,
+    "spd": 50,
+    "spe": 125
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "swellow",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "swellow",
+  "names": {
+    "fr": "Heledelle"
+  },
+  "nationalDex": 277,
+  "progression": {
+    "baseExp": 162,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "swellow",
+    "learnset": "swellow",
+    "media": "swellow"
+  },
+  "schemaVersion": 1,
+  "slug": "swellow",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

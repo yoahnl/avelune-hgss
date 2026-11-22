@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "espeon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/espeon/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/espeon/back.png",
+      "cry": "assets/pokemon/battle-cries/00c67ebf18aea756eb8bcae62b91e671e43e4c554bc96b712e911363330ff0bf.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/espeon/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/espeon/front.png",
+      "icon": "assets/pokemon/johto/revisites/espeon/icon.png",
+      "overworld": "assets/pokemon/overworld/espeon/base/f837800e16ce0c28727c7c6b384eb4fbfbff74625a30cfcd2774946c6c2dd4e1.png",
+      "overworldShiny": "assets/pokemon/overworld/espeon/base/0f19e975714a8d0382c3ff36d60624a4c288888f8d7dcfe4ee469fcef1de7a80.png",
+      "party": "assets/pokemon/johto/revisites/espeon/icon.png",
+      "portrait": null
+    }
+  }
+}

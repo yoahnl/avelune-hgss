@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "shed_skin",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 64,
+    "bst": 300,
+    "def": 45,
+    "hp": 41,
+    "spa": 50,
+    "spd": 50,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "dratini",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "dratini",
+  "names": {
+    "fr": "Minidraco"
+  },
+  "nationalDex": 147,
+  "progression": {
+    "baseExp": 67,
+    "baseFriendship": 35,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "dratini",
+    "learnset": "dratini",
+    "media": "dratini"
+  },
+  "schemaVersion": 1,
+  "slug": "dratini",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dragon"
+    ]
+  }
+}

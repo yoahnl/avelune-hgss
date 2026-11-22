@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "magby",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/magby/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/magby/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ff0803d4c9bda1ddaddbfe6c0bb058035e2eac736c7fb803cef47f05330fa227.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/magby/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/magby/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/magby/icon.png",
+      "overworld": "assets/pokemon/hgss-api/magby/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/magby/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/magby/icon.png",
+      "portrait": null
+    }
+  }
+}

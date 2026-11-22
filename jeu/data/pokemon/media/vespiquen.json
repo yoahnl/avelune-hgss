@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "vespiquen",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/vespiquen/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/vespiquen/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/a717ffe926ef9e72062552a92599e9c7cce61e3194c95d1e80d84cef269aa41d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/vespiquen/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/vespiquen/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/vespiquen/icon.png",
+      "overworld": "assets/pokemon/hgss-api/vespiquen/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/vespiquen/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/vespiquen/icon.png",
+      "portrait": null
+    }
+  }
+}

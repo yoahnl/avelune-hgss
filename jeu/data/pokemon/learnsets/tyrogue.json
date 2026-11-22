@@ -1,0 +1,48 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "tackle",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "helping_hand",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "fake_out",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "foresight",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "tackle",
+    "helping_hand",
+    "fake_out",
+    "foresight"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "tyrogue",
+  "startingMoves": [
+    "tackle",
+    "helping_hand",
+    "fake_out",
+    "foresight"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

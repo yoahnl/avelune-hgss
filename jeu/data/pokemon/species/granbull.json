@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "intimidate",
+    "secondary": "quick_feet"
+  },
+  "baseStats": {
+    "atk": 120,
+    "bst": 450,
+    "def": 75,
+    "hp": 90,
+    "spa": 60,
+    "spd": 60,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "granbull",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "granbull",
+  "names": {
+    "fr": "Granbull"
+  },
+  "nationalDex": 210,
+  "progression": {
+    "baseExp": 178,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "granbull",
+    "learnset": "granbull",
+    "media": "granbull"
+  },
+  "schemaVersion": 1,
+  "slug": "granbull",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

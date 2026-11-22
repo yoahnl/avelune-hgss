@@ -1,0 +1,10 @@
+title: Start
+---
+Elisabeth: Dis, tu voudrais pas me donner ton numéro?
+Elisabeth: On pourrait devenir une paire d’amis!
+Elisabeth: Je veux tout savoir de ce que tu découvres!
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

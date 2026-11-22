@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "pressure",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 130,
+    "bst": 680,
+    "def": 90,
+    "hp": 106,
+    "spa": 110,
+    "spd": 154,
+    "spe": 90
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 120
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": true,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "ho_oh",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "ho_oh",
+  "names": {
+    "fr": "Ho-oh"
+  },
+  "nationalDex": 250,
+  "progression": {
+    "baseExp": 220,
+    "baseFriendship": 0,
+    "catchRate": 3,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "ho_oh",
+    "learnset": "ho_oh",
+    "media": "ho_oh"
+  },
+  "schemaVersion": 1,
+  "slug": "ho_oh",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire",
+      "flying"
+    ]
+  }
+}

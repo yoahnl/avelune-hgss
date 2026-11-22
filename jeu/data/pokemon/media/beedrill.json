@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "beedrill",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/beedrill/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/beedrill/back.png",
+      "cry": "assets/pokemon/battle-cries/e3e96fc01a200d4f6b3238a6c744b267cdf911ef9d6cd4b85720806e1adf9caf.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/beedrill/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/beedrill/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/beedrill/icon.png",
+      "overworld": "assets/pokemon/overworld/beedrill/base/e1f931d26f5e666602580f1bcc5de908d00fb3039fce691f64f4777418810d95.png",
+      "overworldShiny": "assets/pokemon/overworld/beedrill/base/f07f935d11f6e75c4ed7f9542843e670b4f139bf2bd1f04921633a80c7fb6628.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/beedrill/icon.png",
+      "portrait": null
+    }
+  }
+}

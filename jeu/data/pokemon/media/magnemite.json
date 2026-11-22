@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "magnemite",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/magnemite/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/magnemite/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/c8b7dddeb4d6177dbb6604555dd8974f8473c046f94f447506d5141389580b70.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/magnemite/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/magnemite/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/magnemite/icon.png",
+      "overworld": "assets/pokemon/hgss-api/magnemite/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/magnemite/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/magnemite/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "azurill",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/azurill/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/azurill/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/f372e1202837258aed14a385b0eb6c38a4b944dfc247e0f37ff429a9442e2026.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/azurill/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/azurill/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/azurill/icon.png",
+      "overworld": "assets/pokemon/hgss-api/azurill/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/azurill/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/azurill/icon.png",
+      "portrait": null
+    }
+  }
+}

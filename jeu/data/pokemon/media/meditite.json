@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "meditite",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/meditite/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/meditite/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/00a591c009aa75102d78fbdb89606b039bd980e2529c36f2211c69ab7ff24a8c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/meditite/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/meditite/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/meditite/icon.png",
+      "overworld": "assets/pokemon/hgss-api/meditite/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/meditite/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/meditite/icon.png",
+      "portrait": null
+    }
+  }
+}

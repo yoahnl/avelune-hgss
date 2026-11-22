@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "hyper_cutter",
+    "secondary": "shell_armor"
+  },
+  "baseStats": {
+    "atk": 105,
+    "bst": 325,
+    "def": 90,
+    "hp": 30,
+    "spa": 25,
+    "spd": 25,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "krabby",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "krabby",
+  "names": {
+    "fr": "Krabby"
+  },
+  "nationalDex": 98,
+  "progression": {
+    "baseExp": 115,
+    "baseFriendship": 70,
+    "catchRate": 225,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "krabby",
+    "learnset": "krabby",
+    "media": "krabby"
+  },
+  "schemaVersion": 1,
+  "slug": "krabby",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

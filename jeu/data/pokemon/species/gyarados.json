@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "intimidate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 125,
+    "bst": 540,
+    "def": 79,
+    "hp": 95,
+    "spa": 60,
+    "spd": 100,
+    "spe": 81
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_2",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 5
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "gyarados",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "gyarados",
+  "names": {
+    "fr": "Leviator"
+  },
+  "nationalDex": 130,
+  "progression": {
+    "baseExp": 214,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "gyarados",
+    "learnset": "gyarados",
+    "media": "gyarados"
+  },
+  "schemaVersion": 1,
+  "slug": "gyarados",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "flying"
+    ]
+  }
+}

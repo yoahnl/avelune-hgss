@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 35,
+    "bst": 310,
+    "def": 30,
+    "hp": 30,
+    "spa": 100,
+    "spd": 35,
+    "spe": 80
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 0.1
+  },
+  "forms": {
+    "baseFormId": "gastly",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "gastly",
+  "names": {
+    "fr": "Fantominus"
+  },
+  "nationalDex": 92,
+  "progression": {
+    "baseExp": 95,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "gastly",
+    "learnset": "gastly",
+    "media": "gastly"
+  },
+  "schemaVersion": 1,
+  "slug": "gastly",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:route29-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ghost",
+      "poison"
+    ]
+  }
+}

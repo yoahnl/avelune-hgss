@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "lopunny",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/lopunny/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/lopunny/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/f8bab8f1ace2177c3c8892dc8b159127ab503c60508f4e778b612a0253d5ea71.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/lopunny/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/lopunny/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/lopunny/icon.png",
+      "overworld": "assets/pokemon/hgss-api/lopunny/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/lopunny/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/lopunny/icon.png",
+      "portrait": null
+    }
+  }
+}

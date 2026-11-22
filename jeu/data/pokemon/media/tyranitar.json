@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "tyranitar",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/tyranitar/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/tyranitar/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/0400757357af7a048457f19b2c1b75bfe12563ad3ffda87ab2c4b1491aad6eb3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/tyranitar/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/tyranitar/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/tyranitar/icon.png",
+      "overworld": "assets/pokemon/hgss-api/tyranitar/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/tyranitar/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/tyranitar/icon.png",
+      "portrait": null
+    }
+  }
+}

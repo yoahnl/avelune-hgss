@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "natural_cure",
+    "secondary": "serene_grace"
+  },
+  "baseStats": {
+    "atk": 10,
+    "bst": 540,
+    "def": 10,
+    "hp": 255,
+    "spa": 75,
+    "spd": 135,
+    "spe": 55
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 1.0,
+      "male": 0.0
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "blissey",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "blissey",
+  "names": {
+    "fr": "Leuphorie"
+  },
+  "nationalDex": 242,
+  "progression": {
+    "baseExp": 255,
+    "baseFriendship": 140,
+    "catchRate": 30,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "blissey",
+    "learnset": "blissey",
+    "media": "blissey"
+  },
+  "schemaVersion": 1,
+  "slug": "blissey",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

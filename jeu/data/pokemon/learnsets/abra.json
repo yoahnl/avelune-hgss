@@ -1,0 +1,24 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "teleport",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "teleport"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "abra",
+  "startingMoves": [
+    "teleport"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

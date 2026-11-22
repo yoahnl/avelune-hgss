@@ -1,0 +1,77 @@
+{
+  "catalog": "egg_groups",
+  "entries": [
+    {
+      "id": "dragon",
+      "name": "dragon"
+    },
+    {
+      "id": "field",
+      "name": "field"
+    },
+    {
+      "id": "grass",
+      "name": "grass"
+    },
+    {
+      "id": "mineral",
+      "name": "mineral"
+    },
+    {
+      "id": "monster",
+      "name": "monster"
+    },
+    {
+      "id": "water_1",
+      "name": "water_1"
+    },
+    {
+      "id": "undiscovered",
+      "name": "undiscovered"
+    },
+    {
+      "id": "flying",
+      "name": "flying"
+    },
+    {
+      "id": "water_3",
+      "name": "water_3"
+    },
+    {
+      "id": "amorphous",
+      "name": "amorphous"
+    },
+    {
+      "id": "bug",
+      "name": "bug"
+    },
+    {
+      "id": "ditto",
+      "name": "ditto"
+    },
+    {
+      "id": "fairy",
+      "name": "fairy"
+    },
+    {
+      "id": "human_like",
+      "name": "human_like"
+    },
+    {
+      "id": "water_2",
+      "name": "water_2"
+    }
+  ],
+  "kind": "pokemon_catalog",
+  "meta": {
+    "description": "Bourg Geon — données strictement nécessaires aux trois starters au niveau 5.",
+    "notes": [
+      "Périmètre borné au niveau 5 ; progressions et évolutions futures à compléter avant la route 29."
+    ],
+    "sourcePriority": [
+      "heartgold-fr-rom",
+      "pret-pokeheartgold"
+    ]
+  },
+  "schemaVersion": 1
+}

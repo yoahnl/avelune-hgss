@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "mamoswine",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/mamoswine/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/mamoswine/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/60e335af5077da9da2c0ccc40521b14b47502bbbd984d849b39ac4fc24851a9a.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/mamoswine/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/mamoswine/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/mamoswine/icon.png",
+      "overworld": "assets/pokemon/hgss-api/mamoswine/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/mamoswine/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/mamoswine/icon.png",
+      "portrait": null
+    }
+  }
+}

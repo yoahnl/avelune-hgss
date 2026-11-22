@@ -1,0 +1,78 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "blaze",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 64,
+    "bst": 405,
+    "def": 58,
+    "hp": 58,
+    "spa": 80,
+    "spd": 65,
+    "spe": 80
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 19.0
+  },
+  "forms": {
+    "baseFormId": "quilava",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "quilava",
+  "names": {
+    "fr": "Feurisson"
+  },
+  "nationalDex": 156,
+  "progression": {
+    "baseExp": 142,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "quilava",
+    "learnset": "quilava",
+    "media": "quilava"
+  },
+  "schemaVersion": 1,
+  "slug": "quilava",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire"
+    ]
+  }
+}

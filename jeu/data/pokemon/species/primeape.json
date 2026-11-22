@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "vital_spirit",
+    "secondary": "anger_point"
+  },
+  "baseStats": {
+    "atk": 105,
+    "bst": 455,
+    "def": 60,
+    "hp": 65,
+    "spa": 60,
+    "spd": 70,
+    "spe": 95
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "primeape",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "primeape",
+  "names": {
+    "fr": "Colossinge"
+  },
+  "nationalDex": 57,
+  "progression": {
+    "baseExp": 149,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "primeape",
+    "learnset": "primeape",
+    "media": "primeape"
+  },
+  "schemaVersion": 1,
+  "slug": "primeape",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fighting"
+    ]
+  }
+}

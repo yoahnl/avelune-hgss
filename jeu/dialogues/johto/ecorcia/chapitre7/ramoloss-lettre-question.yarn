@@ -1,0 +1,9 @@
+title: Start
+---
+Un RAMOLOSS à la queue coupée... Hein? Il tient une Lettre.
+La lire?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

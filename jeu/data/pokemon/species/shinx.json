@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "rivalry",
+    "secondary": "intimidate"
+  },
+  "baseStats": {
+    "atk": 65,
+    "bst": 263,
+    "def": 34,
+    "hp": 45,
+    "spa": 40,
+    "spd": 34,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "shinx",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "shinx",
+  "names": {
+    "fr": "Lixy"
+  },
+  "nationalDex": 403,
+  "progression": {
+    "baseExp": 60,
+    "baseFriendship": 70,
+    "catchRate": 235,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "shinx",
+    "learnset": "shinx",
+    "media": "shinx"
+  },
+  "schemaVersion": 1,
+  "slug": "shinx",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "electric"
+    ]
+  }
+}

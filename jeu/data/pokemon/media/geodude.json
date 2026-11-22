@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "geodude",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/geodude/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/geodude/back.png",
+      "cry": "assets/pokemon/battle-cries/c0bb5703eff5e8354feca5346e83f69a3987da321417cf2a6e0d2e0307e441ca.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/geodude/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/geodude/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/geodude/icon.png",
+      "overworld": "assets/pokemon/overworld/geodude/base/7aa41b3ceb5b7c4324dd2c4497eea7fc8b8d2c250a88b809b1e210b9f21d757d.png",
+      "overworldShiny": "assets/pokemon/overworld/geodude/base/b13f387d802a433b4299817852c494c9ca37b85e8538fc45c18568333f801b08.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/geodude/icon.png",
+      "portrait": null
+    }
+  }
+}

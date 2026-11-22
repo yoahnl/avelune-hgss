@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "poison_point",
+    "secondary": "rivalry"
+  },
+  "baseStats": {
+    "atk": 62,
+    "bst": 365,
+    "def": 67,
+    "hp": 70,
+    "spa": 55,
+    "spd": 55,
+    "spe": 56
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 1.0,
+      "male": 0.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "nidorina",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "nidorina",
+  "names": {
+    "fr": "Nidorina"
+  },
+  "nationalDex": 30,
+  "progression": {
+    "baseExp": 117,
+    "baseFriendship": 70,
+    "catchRate": 120,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "nidorina",
+    "learnset": "nidorina",
+    "media": "nidorina"
+  },
+  "schemaVersion": 1,
+  "slug": "nidorina",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison"
+    ]
+  }
+}

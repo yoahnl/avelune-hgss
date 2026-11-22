@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "hyper_cutter",
+    "secondary": "arena_trap"
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 290,
+    "def": 45,
+    "hp": 45,
+    "spa": 45,
+    "spd": 45,
+    "spe": 10
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "trapinch",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "trapinch",
+  "names": {
+    "fr": "Kraknoix"
+  },
+  "nationalDex": 328,
+  "progression": {
+    "baseExp": 73,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "trapinch",
+    "learnset": "trapinch",
+    "media": "trapinch"
+  },
+  "schemaVersion": 1,
+  "slug": "trapinch",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ground"
+    ]
+  }
+}

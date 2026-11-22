@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "skiploom",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/skiploom/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/skiploom/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6a097395e23751762c79b7e99a9fc9ec7dffa2d27963b75b0317aec9758f9165.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/skiploom/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/skiploom/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/skiploom/icon.png",
+      "overworld": "assets/pokemon/hgss-api/skiploom/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/skiploom/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/skiploom/icon.png",
+      "portrait": null
+    }
+  }
+}

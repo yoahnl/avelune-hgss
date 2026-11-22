@@ -1,0 +1,9 @@
+title: Start
+---
+Théophile: Alors! Tu veux savoir comment élever des
+Théophile: Pokémon! qui sont forts?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

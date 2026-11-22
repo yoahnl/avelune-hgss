@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "cute_charm",
+    "secondary": "normalize"
+  },
+  "baseStats": {
+    "atk": 45,
+    "bst": 260,
+    "def": 45,
+    "hp": 50,
+    "spa": 35,
+    "spd": 35,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "skitty",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "skitty",
+  "names": {
+    "fr": "Skitty"
+  },
+  "nationalDex": 300,
+  "progression": {
+    "baseExp": 65,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "skitty",
+    "learnset": "skitty",
+    "media": "skitty"
+  },
+  "schemaVersion": 1,
+  "slug": "skitty",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

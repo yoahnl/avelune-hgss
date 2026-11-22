@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "limber",
+    "secondary": "reckless"
+  },
+  "baseStats": {
+    "atk": 120,
+    "bst": 455,
+    "def": 53,
+    "hp": 50,
+    "spa": 35,
+    "spd": 110,
+    "spe": 87
+  },
+  "breeding": {
+    "eggGroups": [
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.0,
+      "male": 1.0
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "hitmonlee",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "hitmonlee",
+  "names": {
+    "fr": "Kicklee"
+  },
+  "nationalDex": 106,
+  "progression": {
+    "baseExp": 139,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "hitmonlee",
+    "learnset": "hitmonlee",
+    "media": "hitmonlee"
+  },
+  "schemaVersion": 1,
+  "slug": "hitmonlee",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fighting"
+    ]
+  }
+}

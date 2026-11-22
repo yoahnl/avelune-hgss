@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "cute_charm",
+    "secondary": "normalize"
+  },
+  "baseStats": {
+    "atk": 65,
+    "bst": 380,
+    "def": 65,
+    "hp": 70,
+    "spa": 55,
+    "spd": 55,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "delcatty",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "delcatty",
+  "names": {
+    "fr": "Delcatty"
+  },
+  "nationalDex": 301,
+  "progression": {
+    "baseExp": 138,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "delcatty",
+    "learnset": "delcatty",
+    "media": "delcatty"
+  },
+  "schemaVersion": 1,
+  "slug": "delcatty",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

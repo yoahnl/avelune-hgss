@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "trapinch",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/trapinch/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/trapinch/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/696eeea04837167c481458508bc4561d9dadd546a6e8d511d857b5d699b3a847.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/trapinch/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/trapinch/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/trapinch/icon.png",
+      "overworld": "assets/pokemon/hgss-api/trapinch/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/trapinch/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/trapinch/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "wartortle",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/wartortle/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/wartortle/back.png",
+      "cry": "assets/pokemon/battle-cries/6d8ba804d2242ada3df9b91cc093c0dd3964169056a6746057948411b42f806b.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/wartortle/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/wartortle/front.png",
+      "icon": "assets/pokemon/johto/revisites/wartortle/icon.png",
+      "overworld": "assets/pokemon/overworld/wartortle/base/681bf3f8d9569ff0ef06fdbe300ffe9a549a8312b6151be2fce1878f4a0946b1.png",
+      "overworldShiny": "assets/pokemon/overworld/wartortle/base/18570a8e0b0fff10c6ec286348919fe5c473138fe1888de0faaa6297f1a52adf.png",
+      "party": "assets/pokemon/johto/revisites/wartortle/icon.png",
+      "portrait": null
+    }
+  }
+}

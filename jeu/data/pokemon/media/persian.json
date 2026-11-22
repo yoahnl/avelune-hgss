@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "persian",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/persian/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/persian/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/0dc5724e5f000ea1bb51e37f3c2eaf4b8653bbb578983e0c5487a002a172417a.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/persian/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/persian/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/persian/icon.png",
+      "overworld": "assets/pokemon/hgss-api/persian/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/persian/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/persian/icon.png",
+      "portrait": null
+    }
+  }
+}

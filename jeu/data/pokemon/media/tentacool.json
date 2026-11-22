@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "tentacool",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/tentacool/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/tentacool/back.png",
+      "cry": "assets/pokemon/battle-cries/f31da62cd144586b23e3e2674d6ee4357b6640d571eb82d7d0f3e7c7772bc006.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/tentacool/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/tentacool/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/tentacool/icon.png",
+      "overworld": "assets/pokemon/overworld/tentacool/base/c491470b5c9e67c619c5dfcebff608bdaacf673ceb2bb3ee359b12b391df5818.png",
+      "overworldShiny": "assets/pokemon/overworld/tentacool/base/f888541ddd4d7dc3a621dcb2d5e3b0a93274f8f81c43388f70771a3a72330b84.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/tentacool/icon.png",
+      "portrait": null
+    }
+  }
+}

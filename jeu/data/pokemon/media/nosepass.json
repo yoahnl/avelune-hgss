@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "nosepass",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/nosepass/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/nosepass/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b472ac894861a3e7f9b14ce660ad78794827c008216067448523306ce17278dd.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/nosepass/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/nosepass/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/nosepass/icon.png",
+      "overworld": "assets/pokemon/hgss-api/nosepass/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/nosepass/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/nosepass/icon.png",
+      "portrait": null
+    }
+  }
+}

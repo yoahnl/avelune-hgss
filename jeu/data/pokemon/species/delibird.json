@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "vital_spirit",
+    "secondary": "hustle"
+  },
+  "baseStats": {
+    "atk": 55,
+    "bst": 330,
+    "def": 45,
+    "hp": 45,
+    "spa": 65,
+    "spd": 45,
+    "spe": 75
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "delibird",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "delibird",
+  "names": {
+    "fr": "Cadoizo"
+  },
+  "nationalDex": 225,
+  "progression": {
+    "baseExp": 183,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "delibird",
+    "learnset": "delibird",
+    "media": "delibird"
+  },
+  "schemaVersion": 1,
+  "slug": "delibird",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ice",
+      "flying"
+    ]
+  }
+}

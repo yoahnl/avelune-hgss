@@ -1,0 +1,48 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "sky_attack",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "extreme_speed",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "aura_sphere",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "air_slash",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "sky_attack",
+    "extreme_speed",
+    "aura_sphere",
+    "air_slash"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "togekiss",
+  "startingMoves": [
+    "sky_attack",
+    "extreme_speed",
+    "aura_sphere",
+    "air_slash"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

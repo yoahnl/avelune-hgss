@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "chlorophyll",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 35,
+    "bst": 275,
+    "def": 45,
+    "hp": 45,
+    "spa": 62,
+    "spd": 53,
+    "spe": 35
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "cherubi",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "cherubi",
+  "names": {
+    "fr": "Ceribou"
+  },
+  "nationalDex": 420,
+  "progression": {
+    "baseExp": 68,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "cherubi",
+    "learnset": "cherubi",
+    "media": "cherubi"
+  },
+  "schemaVersion": 1,
+  "slug": "cherubi",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass"
+    ]
+  }
+}

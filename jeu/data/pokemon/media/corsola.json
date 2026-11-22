@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "corsola",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/corsola/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/corsola/back.png",
+      "cry": "assets/pokemon/battle-cries/1111654e43e94d3aa69472221b1b0bb86bbbe808ce08ca0d51ebf412fb9664e7.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/corsola/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/corsola/front.png",
+      "icon": "assets/pokemon/johto/revisites/corsola/icon.png",
+      "overworld": "assets/pokemon/overworld/corsola/base/2043dfec7157cf73721a60729511e89842dbc1123012803d62a2efc54728373e.png",
+      "overworldShiny": "assets/pokemon/overworld/corsola/base/933a4f9c1eff0c69cea6d4269ace703517578b73cce509e7a4915fd7606d3c34.png",
+      "party": "assets/pokemon/johto/revisites/corsola/icon.png",
+      "portrait": null
+    }
+  }
+}

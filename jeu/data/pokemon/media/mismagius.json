@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "mismagius",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/mismagius/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/mismagius/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/fcf26bf682a48d650320e0fc29e1732a4a7215ad38d546bce6e5d84ef90ff202.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/mismagius/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/mismagius/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/mismagius/icon.png",
+      "overworld": "assets/pokemon/hgss-api/mismagius/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/mismagius/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/mismagius/icon.png",
+      "portrait": null
+    }
+  }
+}

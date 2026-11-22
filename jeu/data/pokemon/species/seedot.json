@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "chlorophyll",
+    "secondary": "early_bird"
+  },
+  "baseStats": {
+    "atk": 40,
+    "bst": 220,
+    "def": 50,
+    "hp": 40,
+    "spa": 30,
+    "spd": 30,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "seedot",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "seedot",
+  "names": {
+    "fr": "Grainipiot"
+  },
+  "nationalDex": 273,
+  "progression": {
+    "baseExp": 74,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "seedot",
+    "learnset": "seedot",
+    "media": "seedot"
+  },
+  "schemaVersion": 1,
+  "slug": "seedot",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass"
+    ]
+  }
+}

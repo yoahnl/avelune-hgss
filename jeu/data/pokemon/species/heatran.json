@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "flash_fire",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 600,
+    "def": 106,
+    "hp": 91,
+    "spa": 130,
+    "spd": 106,
+    "spe": 77
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": true,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "heatran",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "heatran",
+  "names": {
+    "fr": "Heatran"
+  },
+  "nationalDex": 485,
+  "progression": {
+    "baseExp": 215,
+    "baseFriendship": 100,
+    "catchRate": 3,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "heatran",
+    "learnset": "heatran",
+    "media": "heatran"
+  },
+  "schemaVersion": 1,
+  "slug": "heatran",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire",
+      "steel"
+    ]
+  }
+}

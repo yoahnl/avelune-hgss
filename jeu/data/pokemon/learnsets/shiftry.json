@@ -1,0 +1,54 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "faint_attack",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "whirlwind",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "nasty_plot",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "razor_leaf",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 49,
+      "moveId": "leaf_storm",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "faint_attack",
+    "whirlwind",
+    "nasty_plot",
+    "razor_leaf"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "shiftry",
+  "startingMoves": [
+    "faint_attack",
+    "whirlwind",
+    "nasty_plot",
+    "razor_leaf"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

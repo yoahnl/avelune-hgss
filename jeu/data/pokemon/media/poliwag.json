@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "poliwag",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/poliwag/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/poliwag/back.png",
+      "cry": "assets/pokemon/battle-cries/cbc3053387f8f9f466e3b14a35acb5020764285af6bba35c13ea729388d0c82f.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/poliwag/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/poliwag/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/poliwag/icon.png",
+      "overworld": "assets/pokemon/overworld/poliwag/base/2694663d0093a2bc5333320a7e11aca2a796568e02bb8f52f400fd71070d0a5e.png",
+      "overworldShiny": "assets/pokemon/overworld/poliwag/base/c4b910cadfa20a1d398b2e191ec82b34d0112adb2c61a06cbe43c15edfcf8291.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/poliwag/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "pickup",
+    "secondary": "thick_fat"
+  },
+  "baseStats": {
+    "atk": 85,
+    "bst": 390,
+    "def": 40,
+    "hp": 135,
+    "spa": 40,
+    "spd": 85,
+    "spe": 5
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "munchlax",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "munchlax",
+  "names": {
+    "fr": "Goinfrex"
+  },
+  "nationalDex": 446,
+  "progression": {
+    "baseExp": 94,
+    "baseFriendship": 70,
+    "catchRate": 50,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "munchlax",
+    "learnset": "munchlax",
+    "media": "munchlax"
+  },
+  "schemaVersion": 1,
+  "slug": "munchlax",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "aggron",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/aggron/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/aggron/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/a1646cfc2ea94b51208eb61de1080780ec73640de20c1238657b6f615eb35b9c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/aggron/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/aggron/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/aggron/icon.png",
+      "overworld": "assets/pokemon/hgss-api/aggron/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/aggron/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/aggron/icon.png",
+      "portrait": null
+    }
+  }
+}

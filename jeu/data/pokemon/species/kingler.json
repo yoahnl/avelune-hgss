@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "hyper_cutter",
+    "secondary": "shell_armor"
+  },
+  "baseStats": {
+    "atk": 130,
+    "bst": 475,
+    "def": 115,
+    "hp": 55,
+    "spa": 50,
+    "spd": 50,
+    "spe": 75
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "kingler",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "kingler",
+  "names": {
+    "fr": "Krabboss"
+  },
+  "nationalDex": 99,
+  "progression": {
+    "baseExp": 206,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "kingler",
+    "learnset": "kingler",
+    "media": "kingler"
+  },
+  "schemaVersion": 1,
+  "slug": "kingler",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

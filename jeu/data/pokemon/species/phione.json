@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "hydration",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 480,
+    "def": 80,
+    "hp": 80,
+    "spa": 80,
+    "spd": 80,
+    "spe": 80
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "fairy"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": true,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "phione",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "phione",
+  "names": {
+    "fr": "Phione"
+  },
+  "nationalDex": 489,
+  "progression": {
+    "baseExp": 165,
+    "baseFriendship": 70,
+    "catchRate": 30,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "phione",
+    "learnset": "phione",
+    "media": "phione"
+  },
+  "schemaVersion": 1,
+  "slug": "phione",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

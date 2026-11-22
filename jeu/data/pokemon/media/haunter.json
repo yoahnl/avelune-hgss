@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "haunter",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/haunter/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/haunter/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/56e216466c16e5984a553ccc9797f77435ac21b18d4f0b0dc65c3b72f58d77f3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/haunter/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/haunter/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/haunter/icon.png",
+      "overworld": "assets/pokemon/hgss-api/haunter/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/haunter/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/haunter/icon.png",
+      "portrait": null
+    }
+  }
+}

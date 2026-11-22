@@ -1,0 +1,11 @@
+title: Start
+---
+Cahier: Avant de lancer une Poké Ball, laissez votre Pokémon empoisonner
+Cahier: ou brûler l’adversaire.
+Cahier: Il sera plus facile à attraper.
+Cahier: Voulez-vous lire la suite?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

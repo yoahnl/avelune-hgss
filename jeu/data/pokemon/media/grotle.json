@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "grotle",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/grotle/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/grotle/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b136182dfa24f47822b7ccd5116f880f2471d2a2aa1d6469be3467e90648161d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/grotle/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/grotle/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/grotle/icon.png",
+      "overworld": "assets/pokemon/hgss-api/grotle/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/grotle/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/grotle/icon.png",
+      "portrait": null
+    }
+  }
+}

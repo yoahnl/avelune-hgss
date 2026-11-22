@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "seel",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/seel/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/seel/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/7240cfe6393f9aa893338abd95804e9ecffa61f2b70ef1d0acca9705d9479aa4.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/seel/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/seel/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/seel/icon.png",
+      "overworld": "assets/pokemon/hgss-api/seel/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/seel/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/seel/icon.png",
+      "portrait": null
+    }
+  }
+}

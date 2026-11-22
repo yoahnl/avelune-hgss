@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "insomnia",
+    "secondary": "forewarn"
+  },
+  "baseStats": {
+    "atk": 48,
+    "bst": 328,
+    "def": 45,
+    "hp": 60,
+    "spa": 43,
+    "spd": 90,
+    "spe": 42
+  },
+  "breeding": {
+    "eggGroups": [
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "drowzee",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "drowzee",
+  "names": {
+    "fr": "Soporifik"
+  },
+  "nationalDex": 96,
+  "progression": {
+    "baseExp": 102,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "drowzee",
+    "learnset": "drowzee",
+    "media": "drowzee"
+  },
+  "schemaVersion": 1,
+  "slug": "drowzee",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic"
+    ]
+  }
+}

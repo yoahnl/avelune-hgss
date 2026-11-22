@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "clamperl",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/clamperl/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/clamperl/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/3beca2ae4f00118f4e787e43628cd387fb9c3c08a1f6ca403ea8c5f9cf28ce23.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/clamperl/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/clamperl/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/clamperl/icon.png",
+      "overworld": "assets/pokemon/hgss-api/clamperl/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/clamperl/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/clamperl/icon.png",
+      "portrait": null
+    }
+  }
+}

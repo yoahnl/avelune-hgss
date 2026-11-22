@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "muk",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/muk/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/muk/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/1c622c719354852e17de1c9628a36055ee4e587237da57048bb8e78d55c42615.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/muk/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/muk/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/muk/icon.png",
+      "overworld": "assets/pokemon/hgss-api/muk/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/muk/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/muk/icon.png",
+      "portrait": null
+    }
+  }
+}

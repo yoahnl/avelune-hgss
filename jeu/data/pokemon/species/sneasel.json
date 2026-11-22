@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "inner_focus",
+    "secondary": "keen_eye"
+  },
+  "baseStats": {
+    "atk": 95,
+    "bst": 430,
+    "def": 55,
+    "hp": 55,
+    "spa": 35,
+    "spd": 75,
+    "spe": 115
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "sneasel",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "sneasel",
+  "names": {
+    "fr": "Farfuret"
+  },
+  "nationalDex": 215,
+  "progression": {
+    "baseExp": 132,
+    "baseFriendship": 35,
+    "catchRate": 60,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "sneasel",
+    "learnset": "sneasel",
+    "media": "sneasel"
+  },
+  "schemaVersion": 1,
+  "slug": "sneasel",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dark",
+      "ice"
+    ]
+  }
+}

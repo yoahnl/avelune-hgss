@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "intimidate",
+    "secondary": "flash_fire"
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 350,
+    "def": 45,
+    "hp": 55,
+    "spa": 70,
+    "spd": 50,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.25,
+      "male": 0.75
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "growlithe",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "growlithe",
+  "names": {
+    "fr": "Caninos"
+  },
+  "nationalDex": 58,
+  "progression": {
+    "baseExp": 91,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "growlithe",
+    "learnset": "growlithe",
+    "media": "growlithe"
+  },
+  "schemaVersion": 1,
+  "slug": "growlithe",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire"
+    ]
+  }
+}

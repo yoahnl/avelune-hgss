@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "natural_cure",
+    "secondary": "serene_grace"
+  },
+  "baseStats": {
+    "atk": 5,
+    "bst": 450,
+    "def": 5,
+    "hp": 250,
+    "spa": 35,
+    "spd": 105,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 1.0,
+      "male": 0.0
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "chansey",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "chansey",
+  "names": {
+    "fr": "Leveinard"
+  },
+  "nationalDex": 113,
+  "progression": {
+    "baseExp": 255,
+    "baseFriendship": 140,
+    "catchRate": 30,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "chansey",
+    "learnset": "chansey",
+    "media": "chansey"
+  },
+  "schemaVersion": 1,
+  "slug": "chansey",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "sing",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "double_slap",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "minimize",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "metronome",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "sing",
+    "double_slap",
+    "minimize",
+    "metronome"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "clefable",
+  "startingMoves": [
+    "sing",
+    "double_slap",
+    "minimize",
+    "metronome"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

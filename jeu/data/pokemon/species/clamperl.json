@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "shell_armor",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 64,
+    "bst": 345,
+    "def": 85,
+    "hp": 35,
+    "spa": 74,
+    "spd": 55,
+    "spe": 32
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "clamperl",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "clamperl",
+  "names": {
+    "fr": "Coquiperl"
+  },
+  "nationalDex": 366,
+  "progression": {
+    "baseExp": 142,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "clamperl",
+    "learnset": "clamperl",
+    "media": "clamperl"
+  },
+  "schemaVersion": 1,
+  "slug": "clamperl",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

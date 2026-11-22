@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "illuminate",
+    "secondary": "natural_cure"
+  },
+  "baseStats": {
+    "atk": 45,
+    "bst": 340,
+    "def": 55,
+    "hp": 30,
+    "spa": 70,
+    "spd": 55,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.0,
+      "male": 0.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "staryu",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "staryu",
+  "names": {
+    "fr": "Stari"
+  },
+  "nationalDex": 120,
+  "progression": {
+    "baseExp": 106,
+    "baseFriendship": 70,
+    "catchRate": 225,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "staryu",
+    "learnset": "staryu",
+    "media": "staryu"
+  },
+  "schemaVersion": 1,
+  "slug": "staryu",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

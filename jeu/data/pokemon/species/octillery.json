@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "suction_cups",
+    "secondary": "sniper"
+  },
+  "baseStats": {
+    "atk": 105,
+    "bst": 480,
+    "def": 75,
+    "hp": 75,
+    "spa": 105,
+    "spd": 75,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "water_2"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "octillery",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "octillery",
+  "names": {
+    "fr": "Octillery"
+  },
+  "nationalDex": 224,
+  "progression": {
+    "baseExp": 164,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "octillery",
+    "learnset": "octillery",
+    "media": "octillery"
+  },
+  "schemaVersion": 1,
+  "slug": "octillery",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

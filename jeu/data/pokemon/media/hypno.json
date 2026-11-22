@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "hypno",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/hypno/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/hypno/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/72cd19b0c05650517a1417bd46678e1c90d9ccaa107ea32169db78f50b8c1fe1.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/hypno/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/hypno/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/hypno/icon.png",
+      "overworld": "assets/pokemon/hgss-api/hypno/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/hypno/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/hypno/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "golbat",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/golbat/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/golbat/back.png",
+      "cry": "assets/pokemon/battle-cries/b1279fb81e06c39a93e0ff1684358a0fca107442ae21be565b5fa5e1b3a365e3.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/golbat/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/golbat/front.png",
+      "icon": "assets/pokemon/johto/revisites/golbat/icon.png",
+      "overworld": "assets/pokemon/overworld/golbat/base/c01804a42d2689f63bc7804e39b9027289d9a67c9cf5d4b3a85037d5d40baf1b.png",
+      "overworldShiny": "assets/pokemon/overworld/golbat/base/b8cbbe4f5532ebdd8a2b1b6a3b90c5d56fc6c996014e12ba4d1004956bc518df.png",
+      "party": "assets/pokemon/johto/revisites/golbat/icon.png",
+      "portrait": null
+    }
+  }
+}

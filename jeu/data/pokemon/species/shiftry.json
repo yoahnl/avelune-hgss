@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "chlorophyll",
+    "secondary": "early_bird"
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 480,
+    "def": 60,
+    "hp": 90,
+    "spa": 90,
+    "spd": 60,
+    "spe": 80
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "shiftry",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "shiftry",
+  "names": {
+    "fr": "Tengalice"
+  },
+  "nationalDex": 275,
+  "progression": {
+    "baseExp": 181,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "shiftry",
+    "learnset": "shiftry",
+    "media": "shiftry"
+  },
+  "schemaVersion": 1,
+  "slug": "shiftry",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "dark"
+    ]
+  }
+}

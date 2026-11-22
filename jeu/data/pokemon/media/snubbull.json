@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "snubbull",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/snubbull/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/snubbull/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/182935fe7a7773848def9152877d3c9953405392159f92964b0e3f1425530a90.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/snubbull/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/snubbull/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/snubbull/icon.png",
+      "overworld": "assets/pokemon/hgss-api/snubbull/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/snubbull/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/snubbull/icon.png",
+      "portrait": null
+    }
+  }
+}

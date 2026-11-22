@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "tyrogue",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/tyrogue/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/tyrogue/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/2e76271dde1646b7544f2fd65b5171fa33c4a032b5dc6fff9915a8ddfa611761.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/tyrogue/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/tyrogue/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/tyrogue/icon.png",
+      "overworld": "assets/pokemon/hgss-api/tyrogue/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/tyrogue/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/tyrogue/icon.png",
+      "portrait": null
+    }
+  }
+}

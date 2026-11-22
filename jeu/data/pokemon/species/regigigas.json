@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "slow_start",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 160,
+    "bst": 670,
+    "def": 110,
+    "hp": 110,
+    "spa": 80,
+    "spd": 110,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 120
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": true,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "regigigas",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "regigigas",
+  "names": {
+    "fr": "Regigigas"
+  },
+  "nationalDex": 486,
+  "progression": {
+    "baseExp": 220,
+    "baseFriendship": 0,
+    "catchRate": 3,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "regigigas",
+    "learnset": "regigigas",
+    "media": "regigigas"
+  },
+  "schemaVersion": 1,
+  "slug": "regigigas",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

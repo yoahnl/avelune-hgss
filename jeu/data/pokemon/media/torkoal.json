@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "torkoal",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/torkoal/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/torkoal/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ca6b9c488632501763c62785a88718909a384976a2074bb1c60c2e68948dc2c0.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/torkoal/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/torkoal/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/torkoal/icon.png",
+      "overworld": "assets/pokemon/hgss-api/torkoal/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/torkoal/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/torkoal/icon.png",
+      "portrait": null
+    }
+  }
+}

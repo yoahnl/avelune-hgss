@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "murkrow",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/murkrow/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/murkrow/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/fd5bdd8312a2061da8017d741baa33a687e430c6da661f793172685a3079774c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/murkrow/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/murkrow/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/murkrow/icon.png",
+      "overworld": "assets/pokemon/hgss-api/murkrow/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/murkrow/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/murkrow/icon.png",
+      "portrait": null
+    }
+  }
+}

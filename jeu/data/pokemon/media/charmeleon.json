@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "charmeleon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/charmeleon/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/charmeleon/back.png",
+      "cry": "assets/pokemon/battle-cries/54864f8d81b094c3b36e878047f5f968aea1277772da4f1fe9efd8d7e88c750e.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/charmeleon/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/charmeleon/front.png",
+      "icon": "assets/pokemon/johto/revisites/charmeleon/icon.png",
+      "overworld": "assets/pokemon/overworld/charmeleon/base/ccd92f671001a678006fb840f9c2fad074f6d6f2b054e6b3ce1f0b0fc1ad4828.png",
+      "overworldShiny": "assets/pokemon/overworld/charmeleon/base/e9a3490e0ee09eb4c36463744b1a7f076b10978c928711e3622fb8e5bcd93f0e.png",
+      "party": "assets/pokemon/johto/revisites/charmeleon/icon.png",
+      "portrait": null
+    }
+  }
+}

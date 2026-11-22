@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "glaceon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/glaceon/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/glaceon/back.png",
+      "cry": "assets/pokemon/battle-cries/b00106559540c6254ef630e139efc4b23c9c1b832a63f0ff233c52078c326bd6.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/glaceon/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/glaceon/front.png",
+      "icon": "assets/pokemon/johto/revisites/glaceon/icon.png",
+      "overworld": "assets/pokemon/overworld/glaceon/base/ec70c98032718eda258bb1cb70ba222e14d003e33ae03d5589c0b6d566d99bee.png",
+      "overworldShiny": "assets/pokemon/overworld/glaceon/base/e5e7652c17d055471a6c7bfa5eb48f8740166ca46d12faa9c5959c31bdb61e60.png",
+      "party": "assets/pokemon/johto/revisites/glaceon/icon.png",
+      "portrait": null
+    }
+  }
+}

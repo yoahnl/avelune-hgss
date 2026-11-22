@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "whismur",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/whismur/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/whismur/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/4430a736d304652e94e4e2eb6c80832e661feb0f4e8802bfe02cd3b0a0d7c446.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/whismur/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/whismur/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/whismur/icon.png",
+      "overworld": "assets/pokemon/hgss-api/whismur/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/whismur/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/whismur/icon.png",
+      "portrait": null
+    }
+  }
+}

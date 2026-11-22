@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "breloom",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/breloom/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/breloom/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/40d8c8fdddbc919d8902f0838fd0bc775ad0584dbdcbf24d8adabe473f95723b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/breloom/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/breloom/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/breloom/icon.png",
+      "overworld": "assets/pokemon/hgss-api/breloom/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/breloom/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/breloom/icon.png",
+      "portrait": null
+    }
+  }
+}

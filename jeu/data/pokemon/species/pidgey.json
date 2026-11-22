@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "keen_eye",
+    "secondary": "tangled_feet"
+  },
+  "baseStats": {
+    "atk": 45,
+    "bst": 251,
+    "def": 40,
+    "hp": 40,
+    "spa": 35,
+    "spd": 35,
+    "spe": 56
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 1.8
+  },
+  "forms": {
+    "baseFormId": "pidgey",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "pidgey",
+  "names": {
+    "fr": "Roucool"
+  },
+  "nationalDex": 16,
+  "progression": {
+    "baseExp": 55,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "pidgey",
+    "learnset": "pidgey",
+    "media": "pidgey"
+  },
+  "schemaVersion": 1,
+  "slug": "pidgey",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:route29-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

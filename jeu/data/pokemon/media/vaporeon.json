@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "vaporeon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/vaporeon/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/vaporeon/back.png",
+      "cry": "assets/pokemon/battle-cries/45b185dfa7938be9b9234ff49e5209b581e626c5fbb7df0673e5a06f281f2b5e.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/vaporeon/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/vaporeon/front.png",
+      "icon": "assets/pokemon/johto/revisites/vaporeon/icon.png",
+      "overworld": "assets/pokemon/overworld/vaporeon/base/15c79ba748d098ef4160176afe324375721a5f238c535bd86d8c8b7307662483.png",
+      "overworldShiny": "assets/pokemon/overworld/vaporeon/base/b5327714e99b49ea9f87d4b021bd1ee00bec95466519c78ef51d888acaab1a85.png",
+      "party": "assets/pokemon/johto/revisites/vaporeon/icon.png",
+      "portrait": null
+    }
+  }
+}

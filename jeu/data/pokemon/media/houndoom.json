@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "houndoom",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/houndoom/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/houndoom/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6db49abfaa0ccd2194f99dd186d7a7e8ca28e959c0902dedc52b89435e8f683e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/houndoom/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/houndoom/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/houndoom/icon.png",
+      "overworld": "assets/pokemon/hgss-api/houndoom/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/houndoom/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/houndoom/icon.png",
+      "portrait": null
+    }
+  }
+}

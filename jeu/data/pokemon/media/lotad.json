@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "lotad",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/lotad/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/lotad/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ccc27544d744b52d9b7b25cb4a75e79d142e4193d6fda8b8c16da780a58397c3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/lotad/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/lotad/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/lotad/icon.png",
+      "overworld": "assets/pokemon/hgss-api/lotad/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/lotad/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/lotad/icon.png",
+      "portrait": null
+    }
+  }
+}

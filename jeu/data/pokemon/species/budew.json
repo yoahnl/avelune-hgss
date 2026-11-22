@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "natural_cure",
+    "secondary": "poison_point"
+  },
+  "baseStats": {
+    "atk": 30,
+    "bst": 280,
+    "def": 35,
+    "hp": 40,
+    "spa": 50,
+    "spd": 70,
+    "spe": 55
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "budew",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "budew",
+  "names": {
+    "fr": "Rozbouton"
+  },
+  "nationalDex": 406,
+  "progression": {
+    "baseExp": 68,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "budew",
+    "learnset": "budew",
+    "media": "budew"
+  },
+  "schemaVersion": 1,
+  "slug": "budew",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "poison"
+    ]
+  }
+}

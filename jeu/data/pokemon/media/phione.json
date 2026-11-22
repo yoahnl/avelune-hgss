@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "phione",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/phione/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/phione/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/e223112af98788f1f04fb19eaab12e6945176a1922690bc435671c70f8d0849d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/phione/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/phione/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/phione/icon.png",
+      "overworld": "assets/pokemon/hgss-api/phione/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/phione/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/phione/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "shiftry",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/shiftry/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/shiftry/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/891aad8f3e5d6b83f7b2462442a4850fb7172d9e4ae697ad8aa44f90f52b3bbc.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/shiftry/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/shiftry/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/shiftry/icon.png",
+      "overworld": "assets/pokemon/hgss-api/shiftry/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/shiftry/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/shiftry/icon.png",
+      "portrait": null
+    }
+  }
+}

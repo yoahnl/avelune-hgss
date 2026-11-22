@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "lapras",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/lapras/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/lapras/back.png",
+      "cry": "assets/pokemon/battle-cries/be074ed18c58584465e754cb106513a46a9c5d176ec60dd666962d7d0c1e6184.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/lapras/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/lapras/front.png",
+      "icon": "assets/pokemon/johto/revisites/lapras/icon.png",
+      "overworld": "assets/pokemon/overworld/lapras/base/0013a9b887d4ca0703ea1a47ee05f5baac5d99faa3e4b2c18685bc42e0a6eb01.png",
+      "overworldShiny": "assets/pokemon/overworld/lapras/base/398dd3970fbca2616a6d07d0de3798b4716cf761d7609d6e0bb4f8e49d88892f.png",
+      "party": "assets/pokemon/johto/revisites/lapras/icon.png",
+      "portrait": null
+    }
+  }
+}

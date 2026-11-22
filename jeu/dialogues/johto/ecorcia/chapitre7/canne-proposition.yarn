@@ -1,0 +1,10 @@
+title: Start
+---
+Pêcheur à la Canne: C’est un célèbre coin de pêche. Tu as vu tous ces pêcheurs?
+Pêcheur à la Canne: Tu veux essayer, toi aussi?
+Pêcheur à la Canne: Si tu veux, je peux te donner une de mes Cannes!
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

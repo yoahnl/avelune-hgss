@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "cherrim",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/cherrim/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/cherrim/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6236264f9ceeba0789ee373eadbd606edef9fdce0a268fb3d60049ffdf320612.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/cherrim/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/cherrim/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/cherrim/icon.png",
+      "overworld": "assets/pokemon/hgss-api/cherrim/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/cherrim/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/cherrim/icon.png",
+      "portrait": null
+    }
+  }
+}

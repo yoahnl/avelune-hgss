@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "steadfast",
+    "secondary": "inner_focus"
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 285,
+    "def": 40,
+    "hp": 40,
+    "spa": 35,
+    "spd": 40,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "riolu",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "riolu",
+  "names": {
+    "fr": "Riolu"
+  },
+  "nationalDex": 447,
+  "progression": {
+    "baseExp": 72,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "riolu",
+    "learnset": "riolu",
+    "media": "riolu"
+  },
+  "schemaVersion": 1,
+  "slug": "riolu",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fighting"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "lickitung",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/lickitung/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/lickitung/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/34f6d35e908252dbf7a68cd1bf4e0f3c87de7bc589b2303fd08fd92fe3bf232b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/lickitung/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/lickitung/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/lickitung/icon.png",
+      "overworld": "assets/pokemon/hgss-api/lickitung/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/lickitung/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/lickitung/icon.png",
+      "portrait": null
+    }
+  }
+}

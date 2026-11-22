@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "clefable",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/clefable/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/clefable/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/05d57a0438cf003b496ae1be80693acbb6514e1982f8980d434ae1d1c9ca6718.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/clefable/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/clefable/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/clefable/icon.png",
+      "overworld": "assets/pokemon/hgss-api/clefable/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/clefable/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/clefable/icon.png",
+      "portrait": null
+    }
+  }
+}

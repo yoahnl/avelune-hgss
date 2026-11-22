@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "koffing",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/koffing/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/koffing/back.png",
+      "cry": "assets/pokemon/battle-cries/e2be7ad56ae2e43669ee61e6bfe7f7f1677868719805b2abf9fa487b65a9fed7.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/koffing/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/koffing/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/koffing/icon.png",
+      "overworld": "assets/pokemon/overworld/koffing/base/59616e8ff8f074d299cd02d32e6c464e99e81c4d5cd346aadf2d9af193a89b2f.png",
+      "overworldShiny": "assets/pokemon/overworld/koffing/base/76b579226bf7576ce8a916940956330a49972a78862ae505024e491f636f9da2.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/koffing/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "harden",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 7,
+      "moveId": "harden",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "harden"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "cascoon",
+  "startingMoves": [
+    "harden"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

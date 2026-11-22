@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sturdy",
+    "secondary": "gluttony"
+  },
+  "baseStats": {
+    "atk": 10,
+    "bst": 505,
+    "def": 230,
+    "hp": 20,
+    "spa": 10,
+    "spd": 230,
+    "spe": 5
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "shuckle",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "shuckle",
+  "names": {
+    "fr": "Caratroc"
+  },
+  "nationalDex": 213,
+  "progression": {
+    "baseExp": 80,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "shuckle",
+    "learnset": "shuckle",
+    "media": "shuckle"
+  },
+  "schemaVersion": 1,
+  "slug": "shuckle",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "rock"
+    ]
+  }
+}

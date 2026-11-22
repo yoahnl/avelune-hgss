@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "remoraid",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/remoraid/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/remoraid/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/c0a149885d6c2a3f67a8a503f686380b2e0f5dcb34579d9e9d2b96f1ffcd5ab1.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/remoraid/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/remoraid/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/remoraid/icon.png",
+      "overworld": "assets/pokemon/hgss-api/remoraid/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/remoraid/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/remoraid/icon.png",
+      "portrait": null
+    }
+  }
+}

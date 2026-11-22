@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "budew",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/budew/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/budew/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/99eb4a706502c87d2c868fd8a0bc370e40723f1282659d4050910e7e8081ae11.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/budew/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/budew/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/budew/icon.png",
+      "overworld": "assets/pokemon/hgss-api/budew/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/budew/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/budew/icon.png",
+      "portrait": null
+    }
+  }
+}

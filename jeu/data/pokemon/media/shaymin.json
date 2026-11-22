@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "shaymin",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/shaymin/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/shaymin/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/e7c98e36065edf5e1324902a25a42deda1e9c26587bc88482b8df6cb9a54ba75.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/shaymin/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/shaymin/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/shaymin/icon.png",
+      "overworld": "assets/pokemon/hgss-api/shaymin/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/shaymin/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/shaymin/icon.png",
+      "portrait": null
+    }
+  }
+}

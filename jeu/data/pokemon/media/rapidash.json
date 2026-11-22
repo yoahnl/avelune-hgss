@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "rapidash",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/rapidash/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/rapidash/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/11e2d20f1b9f61cbf6b337036a53552663e89699a4863dc765097e204f8f0239.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/rapidash/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/rapidash/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/rapidash/icon.png",
+      "overworld": "assets/pokemon/hgss-api/rapidash/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/rapidash/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/rapidash/icon.png",
+      "portrait": null
+    }
+  }
+}

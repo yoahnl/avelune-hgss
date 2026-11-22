@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "kyogre",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/kyogre/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/kyogre/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/abc270d7bb2e10b6c9da17d21c202d0f611fcd1d49a65292bfda296deaaa686c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/kyogre/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/kyogre/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/kyogre/icon.png",
+      "overworld": "assets/pokemon/hgss-api/kyogre/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/kyogre/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/kyogre/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,11 @@
+title: Start
+---
+Cahier: C’est le cahier de cet enfant...
+Cahier: Attrapez les Pokémon en lançant des Poké Balls.
+Cahier: Vous pouvez transporter jusqu’à 6 Pokémon avec vous.
+Cahier: Voulez-vous lire la suite?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

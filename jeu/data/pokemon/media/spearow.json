@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "spearow",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/mauville/spearow/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/mauville/spearow/back.png",
+      "cry": "assets/pokemon/battle-cries/839b1799c3fd6988b5593b5778198daf75ddff5069388042d77f9ca7687f2191.wav",
+      "frontShinyStatic": "assets/pokemon/johto/mauville/spearow/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/mauville/spearow/front.png",
+      "icon": "assets/pokemon/johto/mauville/spearow/icon.png",
+      "overworld": "assets/pokemon/overworld/spearow/base/050703da1f9434760e4c7bd7447dfc34f661ab79188f7e66878cdc4be2e5359d.png",
+      "overworldShiny": "assets/pokemon/overworld/spearow/base/f17d674701c915dbf4638a3eca58d3a102425b6e9c7209c58529b0ac0bf54521.png",
+      "party": "assets/pokemon/johto/mauville/spearow/icon.png",
+      "portrait": null
+    }
+  }
+}

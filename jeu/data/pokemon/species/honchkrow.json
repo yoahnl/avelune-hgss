@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "insomnia",
+    "secondary": "super_luck"
+  },
+  "baseStats": {
+    "atk": 125,
+    "bst": 505,
+    "def": 52,
+    "hp": 100,
+    "spa": 105,
+    "spd": 52,
+    "spe": 71
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "honchkrow",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "honchkrow",
+  "names": {
+    "fr": "Corboss"
+  },
+  "nationalDex": 430,
+  "progression": {
+    "baseExp": 187,
+    "baseFriendship": 35,
+    "catchRate": 30,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "honchkrow",
+    "learnset": "honchkrow",
+    "media": "honchkrow"
+  },
+  "schemaVersion": 1,
+  "slug": "honchkrow",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dark",
+      "flying"
+    ]
+  }
+}

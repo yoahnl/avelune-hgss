@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "crobat",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/crobat/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/crobat/back.png",
+      "cry": "assets/pokemon/battle-cries/ad11d9e362b85903f804e9cf8d2c8399e2e3c4c5a10c54c8c29bae9712955923.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/crobat/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/crobat/front.png",
+      "icon": "assets/pokemon/johto/revisites/crobat/icon.png",
+      "overworld": "assets/pokemon/overworld/crobat/base/9ae0afecaf425561217d916a7daa894645d1d5b259984a0f85f9e87074727c5f.png",
+      "overworldShiny": "assets/pokemon/overworld/crobat/base/861f80e6edcbd3d8883a5841ef09612d19bd3a60e0742550d0b1b678c8b0effe.png",
+      "party": "assets/pokemon/johto/revisites/crobat/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "spinarak",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/route-30/spinarak/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-30/spinarak/back.png",
+      "cry": "assets/audio/pokemon/spinarak/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/route-30/spinarak/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-30/spinarak/front.png",
+      "icon": "assets/pokemon/johto/route-30/spinarak/icon.png",
+      "overworld": "assets/pokemon/overworld/spinarak/base/ce8dabbc4fc118cef177029e373d16ff65d3259ff2457de230a8cd0b8c8d5a9f.png",
+      "party": "assets/pokemon/johto/route-30/spinarak/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/spinarak/base/12afc2811ae0e468b93070da6d7ed6f388795bd1b93c72c714d707a33878f495.png"
+    }
+  }
+}

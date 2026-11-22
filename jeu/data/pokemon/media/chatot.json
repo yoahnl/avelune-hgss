@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "chatot",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/chatot/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/chatot/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/75372f84c5f0f32cb7b809711b00f2c1be0c213575a12a822360f286b178110c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/chatot/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/chatot/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/chatot/icon.png",
+      "overworld": "assets/pokemon/hgss-api/chatot/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/chatot/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/chatot/icon.png",
+      "portrait": null
+    }
+  }
+}

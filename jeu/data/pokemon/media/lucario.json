@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "lucario",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/lucario/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/lucario/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/243d3b0f5936efd4aaf89479b964f1791a44cf4c8a31307326a37b01ec15de3e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/lucario/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/lucario/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/lucario/icon.png",
+      "overworld": "assets/pokemon/hgss-api/lucario/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/lucario/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/lucario/icon.png",
+      "portrait": null
+    }
+  }
+}

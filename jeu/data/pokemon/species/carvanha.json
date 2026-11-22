@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "rough_skin",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 305,
+    "def": 20,
+    "hp": 45,
+    "spa": 65,
+    "spd": 20,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_2"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "carvanha",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "carvanha",
+  "names": {
+    "fr": "Carvanha"
+  },
+  "nationalDex": 318,
+  "progression": {
+    "baseExp": 88,
+    "baseFriendship": 35,
+    "catchRate": 225,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "carvanha",
+    "learnset": "carvanha",
+    "media": "carvanha"
+  },
+  "schemaVersion": 1,
+  "slug": "carvanha",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "dark"
+    ]
+  }
+}

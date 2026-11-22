@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "synchronize",
+    "secondary": "inner_focus"
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 490,
+    "def": 45,
+    "hp": 55,
+    "spa": 135,
+    "spd": 85,
+    "spe": 120
+  },
+  "breeding": {
+    "eggGroups": [
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.25,
+      "male": 0.75
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "alakazam",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "alakazam",
+  "names": {
+    "fr": "Alakazam"
+  },
+  "nationalDex": 65,
+  "progression": {
+    "baseExp": 186,
+    "baseFriendship": 70,
+    "catchRate": 50,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "alakazam",
+    "learnset": "alakazam",
+    "media": "alakazam"
+  },
+  "schemaVersion": 1,
+  "slug": "alakazam",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic"
+    ]
+  }
+}

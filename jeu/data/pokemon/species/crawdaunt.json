@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "hyper_cutter",
+    "secondary": "shell_armor"
+  },
+  "baseStats": {
+    "atk": 120,
+    "bst": 468,
+    "def": 85,
+    "hp": 63,
+    "spa": 90,
+    "spd": 55,
+    "spe": 55
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "crawdaunt",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "crawdaunt",
+  "names": {
+    "fr": "Colhomard"
+  },
+  "nationalDex": 342,
+  "progression": {
+    "baseExp": 161,
+    "baseFriendship": 70,
+    "catchRate": 155,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "crawdaunt",
+    "learnset": "crawdaunt",
+    "media": "crawdaunt"
+  },
+  "schemaVersion": 1,
+  "slug": "crawdaunt",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "dark"
+    ]
+  }
+}

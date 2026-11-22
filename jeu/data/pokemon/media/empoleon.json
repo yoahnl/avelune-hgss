@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "empoleon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/empoleon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/empoleon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/f3e5ea50ebf78c58cb737f34a50ab0b427cb6db5d8b1e1ad9cdcf0b2972b72fd.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/empoleon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/empoleon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/empoleon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/empoleon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/empoleon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/empoleon/icon.png",
+      "portrait": null
+    }
+  }
+}

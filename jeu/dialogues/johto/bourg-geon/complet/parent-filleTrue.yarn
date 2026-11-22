@@ -1,0 +1,5 @@
+title: Start
+---
+Salut, {{ player_name }}! Luth est à l’étage, dans sa chambre!
+Il s’amuse avec son Pokémon, comme d’habitude.
+===

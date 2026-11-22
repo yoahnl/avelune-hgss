@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "heracross",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/heracross/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/heracross/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/18e8afd46a9ca45e975fad4f33b64cc9a4c84ff3324ded418e2460c3e70e8190.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/heracross/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/heracross/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/heracross/icon.png",
+      "overworld": "assets/pokemon/hgss-api/heracross/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/heracross/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/heracross/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sand_stream",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 134,
+    "bst": 600,
+    "def": 110,
+    "hp": 100,
+    "spa": 95,
+    "spd": 100,
+    "spe": 61
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "tyranitar",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "tyranitar",
+  "names": {
+    "fr": "Tyranocif"
+  },
+  "nationalDex": 248,
+  "progression": {
+    "baseExp": 218,
+    "baseFriendship": 35,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "tyranitar",
+    "learnset": "tyranitar",
+    "media": "tyranitar"
+  },
+  "schemaVersion": 1,
+  "slug": "tyranitar",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock",
+      "dark"
+    ]
+  }
+}

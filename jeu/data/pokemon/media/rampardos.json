@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "rampardos",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/rampardos/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/rampardos/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/2b0e738a72f7f48bbe827ff9200abe8d4a62ffd50d397e02f98456226904bd33.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/rampardos/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/rampardos/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/rampardos/icon.png",
+      "overworld": "assets/pokemon/hgss-api/rampardos/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/rampardos/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/rampardos/icon.png",
+      "portrait": null
+    }
+  }
+}

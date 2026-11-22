@@ -1,0 +1,8 @@
+title: Start
+---
+Voulez-vous soigner votre équipe?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

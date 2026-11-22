@@ -1,0 +1,11 @@
+title: Start
+---
+Assistant: {{ player_name }}! Enfin! Le Professeur Orme m’a demandé
+Assistant: de venir à ta rencontre.
+Assistant: En fait...
+Assistant: On aimerait que tu t’occupes de cet Oeuf de Pokémon!
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

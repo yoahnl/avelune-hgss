@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "poliwrath",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/poliwrath/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/poliwrath/back.png",
+      "cry": "assets/pokemon/battle-cries/b3e96d56873147be24603b09a01522b4af41a3e3397e7f75d686e53ab551e785.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/poliwrath/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/poliwrath/front.png",
+      "icon": "assets/pokemon/johto/revisites/poliwrath/icon.png",
+      "overworld": "assets/pokemon/overworld/poliwrath/base/962b4fefa569881f0177a41237c9b84b8516731fe45815ab1de851ce1a3f4c01.png",
+      "overworldShiny": "assets/pokemon/overworld/poliwrath/base/e1ccdf240f4d2b70549cffb71c21f2ee47bc31b5dd463a02186b7083670a54cc.png",
+      "party": "assets/pokemon/johto/revisites/poliwrath/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "cute_charm",
+    "secondary": "klutz"
+  },
+  "baseStats": {
+    "atk": 76,
+    "bst": 480,
+    "def": 84,
+    "hp": 65,
+    "spa": 54,
+    "spd": 96,
+    "spe": 105
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "lopunny",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "lopunny",
+  "names": {
+    "fr": "Lockpin"
+  },
+  "nationalDex": 428,
+  "progression": {
+    "baseExp": 178,
+    "baseFriendship": 140,
+    "catchRate": 60,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "lopunny",
+    "learnset": "lopunny",
+    "media": "lopunny"
+  },
+  "schemaVersion": 1,
+  "slug": "lopunny",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

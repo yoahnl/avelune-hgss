@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "porygon2",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/porygon2/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/porygon2/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/bffeba37978e56f37e4852154b1c4312f8417e48b53ac398e18ab7900793ce75.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/porygon2/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/porygon2/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/porygon2/icon.png",
+      "overworld": "assets/pokemon/hgss-api/porygon2/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/porygon2/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/porygon2/icon.png",
+      "portrait": null
+    }
+  }
+}

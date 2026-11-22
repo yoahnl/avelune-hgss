@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "inner_focus",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 455,
+    "def": 70,
+    "hp": 75,
+    "spa": 65,
+    "spd": 75,
+    "spe": 90
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "golbat",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "golbat",
+  "names": {
+    "fr": "Nosferalto"
+  },
+  "nationalDex": 42,
+  "progression": {
+    "baseExp": 171,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "golbat",
+    "learnset": "golbat",
+    "media": "golbat"
+  },
+  "schemaVersion": 1,
+  "slug": "golbat",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison",
+      "flying"
+    ]
+  }
+}

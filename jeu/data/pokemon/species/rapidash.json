@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "run_away",
+    "secondary": "flash_fire"
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 500,
+    "def": 70,
+    "hp": 65,
+    "spa": 80,
+    "spd": 80,
+    "spe": 105
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "rapidash",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "rapidash",
+  "names": {
+    "fr": "Galopa"
+  },
+  "nationalDex": 78,
+  "progression": {
+    "baseExp": 192,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "rapidash",
+    "learnset": "rapidash",
+    "media": "rapidash"
+  },
+  "schemaVersion": 1,
+  "slug": "rapidash",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire"
+    ]
+  }
+}

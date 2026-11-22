@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "victreebel",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/victreebel/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/victreebel/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b605d201bf6ffb5b3a2bcd2d8e00c377e91eb620efee170bdb3bb7818c87eec4.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/victreebel/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/victreebel/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/victreebel/icon.png",
+      "overworld": "assets/pokemon/hgss-api/victreebel/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/victreebel/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/victreebel/icon.png",
+      "portrait": null
+    }
+  }
+}

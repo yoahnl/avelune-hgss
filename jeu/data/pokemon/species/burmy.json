@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "shed_skin",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 29,
+    "bst": 224,
+    "def": 45,
+    "hp": 40,
+    "spa": 29,
+    "spd": 45,
+    "spe": 36
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "burmy",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "burmy",
+  "names": {
+    "fr": "Cheniti"
+  },
+  "nationalDex": 412,
+  "progression": {
+    "baseExp": 61,
+    "baseFriendship": 70,
+    "catchRate": 120,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "burmy",
+    "learnset": "burmy",
+    "media": "burmy"
+  },
+  "schemaVersion": 1,
+  "slug": "burmy",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug"
+    ]
+  }
+}

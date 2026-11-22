@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "rock_head",
+    "secondary": "lightningrod"
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 320,
+    "def": 95,
+    "hp": 50,
+    "spa": 40,
+    "spd": 50,
+    "spe": 35
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "cubone",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "cubone",
+  "names": {
+    "fr": "Osselait"
+  },
+  "nationalDex": 104,
+  "progression": {
+    "baseExp": 87,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "cubone",
+    "learnset": "cubone",
+    "media": "cubone"
+  },
+  "schemaVersion": 1,
+  "slug": "cubone",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ground"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "articuno",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/articuno/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/articuno/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/a1c9000d5117ebf27ea5613a56b7e82c8222cb566b3dc89a7a60220c35c0a6a3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/articuno/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/articuno/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/articuno/icon.png",
+      "overworld": "assets/pokemon/hgss-api/articuno/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/articuno/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/articuno/icon.png",
+      "portrait": null
+    }
+  }
+}

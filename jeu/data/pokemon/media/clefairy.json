@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "clefairy",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/clefairy/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/clefairy/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/89ff32d27972a5fff31d5caf9bbd1980ca182444d39d4053f99c2a2847b92fb3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/clefairy/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/clefairy/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/clefairy/icon.png",
+      "overworld": "assets/pokemon/hgss-api/clefairy/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/clefairy/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/clefairy/icon.png",
+      "portrait": null
+    }
+  }
+}

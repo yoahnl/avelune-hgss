@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "inner_focus",
+    "secondary": "early_bird"
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 455,
+    "def": 65,
+    "hp": 70,
+    "spa": 90,
+    "spd": 65,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "girafarig",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "girafarig",
+  "names": {
+    "fr": "Girafarig"
+  },
+  "nationalDex": 203,
+  "progression": {
+    "baseExp": 149,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "girafarig",
+    "learnset": "girafarig",
+    "media": "girafarig"
+  },
+  "schemaVersion": 1,
+  "slug": "girafarig",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "psychic"
+    ]
+  }
+}

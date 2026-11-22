@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "lileep",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/lileep/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/lileep/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/377960b4f1d39938112998601d6a7d2a5c8afc214ce20267564b1e42c9512eeb.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/lileep/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/lileep/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/lileep/icon.png",
+      "overworld": "assets/pokemon/hgss-api/lileep/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/lileep/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/lileep/icon.png",
+      "portrait": null
+    }
+  }
+}

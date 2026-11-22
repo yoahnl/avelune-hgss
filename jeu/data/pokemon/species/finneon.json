@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swift_swim",
+    "secondary": "storm_drain"
+  },
+  "baseStats": {
+    "atk": 49,
+    "bst": 330,
+    "def": 56,
+    "hp": 49,
+    "spa": 49,
+    "spd": 61,
+    "spe": 66
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_2"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "finneon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "finneon",
+  "names": {
+    "fr": "Ecayon"
+  },
+  "nationalDex": 456,
+  "progression": {
+    "baseExp": 90,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "finneon",
+    "learnset": "finneon",
+    "media": "finneon"
+  },
+  "schemaVersion": 1,
+  "slug": "finneon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

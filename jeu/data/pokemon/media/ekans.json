@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "ekans",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/ekans/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/ekans/back.png",
+      "cry": "assets/pokemon/battle-cries/ff9468fafcff8634c1105f032cc8d57f2a87d3ece103b78443f11b9f973875fc.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/ekans/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/ekans/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/ekans/icon.png",
+      "overworld": "assets/pokemon/overworld/ekans/base/7c460cdf21a768e4f5ccf99958774e7cc53e4a27388a23a83d64c885b55f1758.png",
+      "overworldShiny": "assets/pokemon/overworld/ekans/base/6ed2cde4e4358cf2f137e3cab82a7e224854bb7543d47e753d759a94a72b3bf7.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/ekans/icon.png",
+      "portrait": null
+    }
+  }
+}

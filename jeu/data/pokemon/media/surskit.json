@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "surskit",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/surskit/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/surskit/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/55f63c41c0b570791ec8fa532ad32022f199c79adef79d839945c13c07cdb222.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/surskit/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/surskit/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/surskit/icon.png",
+      "overworld": "assets/pokemon/hgss-api/surskit/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/surskit/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/surskit/icon.png",
+      "portrait": null
+    }
+  }
+}

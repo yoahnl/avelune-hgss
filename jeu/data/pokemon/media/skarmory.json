@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "skarmory",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/skarmory/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/skarmory/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/264cac68b9c10ca874c1faf183d8374cc929c70e2c91aceaf9bab57c082c9701.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/skarmory/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/skarmory/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/skarmory/icon.png",
+      "overworld": "assets/pokemon/hgss-api/skarmory/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/skarmory/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/skarmory/icon.png",
+      "portrait": null
+    }
+  }
+}

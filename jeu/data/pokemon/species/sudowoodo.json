@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sturdy",
+    "secondary": "rock_head"
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 410,
+    "def": 115,
+    "hp": 70,
+    "spa": 30,
+    "spd": 65,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "sudowoodo",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "sudowoodo",
+  "names": {
+    "fr": "Simularbre"
+  },
+  "nationalDex": 185,
+  "progression": {
+    "baseExp": 135,
+    "baseFriendship": 70,
+    "catchRate": 65,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "sudowoodo",
+    "learnset": "sudowoodo",
+    "media": "sudowoodo"
+  },
+  "schemaVersion": 1,
+  "slug": "sudowoodo",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock"
+    ]
+  }
+}

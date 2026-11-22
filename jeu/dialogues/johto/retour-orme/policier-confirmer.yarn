@@ -1,0 +1,8 @@
+title: Start
+---
+Très bien! {{ fact.fact_hgss_nom_rival }}, donc?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

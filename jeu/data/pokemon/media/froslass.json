@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "froslass",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/froslass/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/froslass/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/a770cf008dc549fcf60d9730ce5b097fcc1e41efb134dc051a8a3728f9daa623.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/froslass/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/froslass/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/froslass/icon.png",
+      "overworld": "assets/pokemon/hgss-api/froslass/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/froslass/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/froslass/icon.png",
+      "portrait": null
+    }
+  }
+}

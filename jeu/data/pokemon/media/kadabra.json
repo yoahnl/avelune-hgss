@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "kadabra",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/kadabra/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/kadabra/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/42f2b1ad8644d61a2a73c73b1e2006f206c9f156f64db07dbfcc8bdf07bc3773.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/kadabra/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/kadabra/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/kadabra/icon.png",
+      "overworld": "assets/pokemon/hgss-api/kadabra/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/kadabra/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/kadabra/icon.png",
+      "portrait": null
+    }
+  }
+}

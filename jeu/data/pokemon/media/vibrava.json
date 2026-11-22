@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "vibrava",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/vibrava/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/vibrava/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6ded054d1a49bb747dab725b7e2c77271747403c05ccc19558a608507fe51252.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/vibrava/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/vibrava/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/vibrava/icon.png",
+      "overworld": "assets/pokemon/hgss-api/vibrava/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/vibrava/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/vibrava/icon.png",
+      "portrait": null
+    }
+  }
+}

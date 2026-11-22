@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "slakoth",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/slakoth/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/slakoth/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/97f3dcef5f4bfceae13d90de60702b77d8b7e239d67437e0f1e3a180972a61f8.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/slakoth/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/slakoth/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/slakoth/icon.png",
+      "overworld": "assets/pokemon/hgss-api/slakoth/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/slakoth/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/slakoth/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "loudred",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/loudred/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/loudred/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ff43cb2dbeae43b39cbde99ecd048af9554682b90bd206a19a71aea07cea749a.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/loudred/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/loudred/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/loudred/icon.png",
+      "overworld": "assets/pokemon/hgss-api/loudred/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/loudred/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/loudred/icon.png",
+      "portrait": null
+    }
+  }
+}

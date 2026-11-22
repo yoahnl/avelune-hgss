@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 454,
+    "def": 72,
+    "hp": 74,
+    "spa": 90,
+    "spd": 72,
+    "spe": 46
+  },
+  "breeding": {
+    "eggGroups": [
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "carnivine",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "carnivine",
+  "names": {
+    "fr": "Vortente"
+  },
+  "nationalDex": 455,
+  "progression": {
+    "baseExp": 164,
+    "baseFriendship": 70,
+    "catchRate": 200,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "carnivine",
+    "learnset": "carnivine",
+    "media": "carnivine"
+  },
+  "schemaVersion": 1,
+  "slug": "carnivine",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass"
+    ]
+  }
+}

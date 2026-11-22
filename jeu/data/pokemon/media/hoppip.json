@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "hoppip",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/hoppip/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/hoppip/back.png",
+      "cry": "assets/pokemon/battle-cries/30275a85330a2ed52bf9213cfd819999f662d5bcb18e0bfb4be948a1130d9c01.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/hoppip/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/hoppip/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/hoppip/icon.png",
+      "overworld": "assets/pokemon/overworld/hoppip/base/fa2b18fc4ba7e7aec6b7659e4da95bda0577e4b47ed9bddeef296554b414860b.png",
+      "overworldShiny": "assets/pokemon/overworld/hoppip/base/164d4bd5fc17bb41f53692a148410e1af278c810204d3ca78f70adbe1c798eaa.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/hoppip/icon.png",
+      "portrait": null
+    }
+  }
+}

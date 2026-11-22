@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "slaking",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/slaking/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/slaking/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/e21a612064b85be60017355b22e46f4630dee3ab4c8cb15cc590970ee83d0751.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/slaking/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/slaking/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/slaking/icon.png",
+      "overworld": "assets/pokemon/hgss-api/slaking/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/slaking/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/slaking/icon.png",
+      "portrait": null
+    }
+  }
+}

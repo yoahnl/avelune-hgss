@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "machoke",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/machoke/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/machoke/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b753b8eeeaae308c015d87526b0b8f359f76fcc3c1bbd873c978055f5654e17c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/machoke/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/machoke/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/machoke/icon.png",
+      "overworld": "assets/pokemon/hgss-api/machoke/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/machoke/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/machoke/icon.png",
+      "portrait": null
+    }
+  }
+}

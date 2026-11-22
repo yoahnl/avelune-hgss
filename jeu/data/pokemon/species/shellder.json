@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "shell_armor",
+    "secondary": "skill_link"
+  },
+  "baseStats": {
+    "atk": 65,
+    "bst": 305,
+    "def": 100,
+    "hp": 30,
+    "spa": 45,
+    "spd": 25,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "shellder",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "shellder",
+  "names": {
+    "fr": "Kokiyas"
+  },
+  "nationalDex": 90,
+  "progression": {
+    "baseExp": 97,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "shellder",
+    "learnset": "shellder",
+    "media": "shellder"
+  },
+  "schemaVersion": 1,
+  "slug": "shellder",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

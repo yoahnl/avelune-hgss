@@ -1,0 +1,24 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "transform",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "transform"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "ditto",
+  "startingMoves": [
+    "transform"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

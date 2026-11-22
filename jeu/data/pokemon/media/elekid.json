@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "elekid",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/elekid/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/elekid/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/1a76ec2d24184296e81abcc4d8c978aa28223b2bd4d17f7475681ae8b5b5e53b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/elekid/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/elekid/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/elekid/icon.png",
+      "overworld": "assets/pokemon/hgss-api/elekid/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/elekid/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/elekid/icon.png",
+      "portrait": null
+    }
+  }
+}

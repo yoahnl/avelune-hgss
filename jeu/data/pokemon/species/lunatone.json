@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 55,
+    "bst": 440,
+    "def": 65,
+    "hp": 70,
+    "spa": 95,
+    "spd": 85,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "lunatone",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "lunatone",
+  "names": {
+    "fr": "Seleroc"
+  },
+  "nationalDex": 337,
+  "progression": {
+    "baseExp": 150,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "lunatone",
+    "learnset": "lunatone",
+    "media": "lunatone"
+  },
+  "schemaVersion": 1,
+  "slug": "lunatone",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "rock",
+      "psychic"
+    ]
+  }
+}

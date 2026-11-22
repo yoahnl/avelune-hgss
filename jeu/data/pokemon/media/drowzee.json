@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "drowzee",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/drowzee/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/drowzee/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/a9217d594ee655a40b3b5d060bbbb5b8eddfcec60d06c0c058a06ad47e96cdf2.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/drowzee/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/drowzee/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/drowzee/icon.png",
+      "overworld": "assets/pokemon/hgss-api/drowzee/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/drowzee/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/drowzee/icon.png",
+      "portrait": null
+    }
+  }
+}

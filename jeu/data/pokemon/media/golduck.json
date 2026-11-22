@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "golduck",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/golduck/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/golduck/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/c79c816f4dcff9ac5a836c9576d9f0a99a61a82c6a9b2a62d818f533a6262c29.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/golduck/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/golduck/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/golduck/icon.png",
+      "overworld": "assets/pokemon/hgss-api/golduck/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/golduck/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/golduck/icon.png",
+      "portrait": null
+    }
+  }
+}

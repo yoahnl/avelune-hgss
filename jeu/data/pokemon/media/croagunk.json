@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "croagunk",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/croagunk/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/croagunk/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b835157bfda24329277fe06706a29ddf21ae92f4b910f019b83e48fe2e49d663.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/croagunk/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/croagunk/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/croagunk/icon.png",
+      "overworld": "assets/pokemon/hgss-api/croagunk/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/croagunk/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/croagunk/icon.png",
+      "portrait": null
+    }
+  }
+}

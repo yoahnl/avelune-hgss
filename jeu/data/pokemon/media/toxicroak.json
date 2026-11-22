@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "toxicroak",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/toxicroak/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/toxicroak/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/61fc2533ede036af7c04db81cbd7e8a521e72e61e7ea5d9ad3730626e7330418.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/toxicroak/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/toxicroak/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/toxicroak/icon.png",
+      "overworld": "assets/pokemon/hgss-api/toxicroak/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/toxicroak/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/toxicroak/icon.png",
+      "portrait": null
+    }
+  }
+}

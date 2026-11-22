@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "masquerain",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/masquerain/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/masquerain/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d15ff1996a7379d465fdf4955feb9af9eb00952076f19b6b955523305960ab20.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/masquerain/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/masquerain/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/masquerain/icon.png",
+      "overworld": "assets/pokemon/hgss-api/masquerain/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/masquerain/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/masquerain/icon.png",
+      "portrait": null
+    }
+  }
+}

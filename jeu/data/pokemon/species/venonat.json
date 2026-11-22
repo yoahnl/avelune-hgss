@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "compoundeyes",
+    "secondary": "tinted_lens"
+  },
+  "baseStats": {
+    "atk": 55,
+    "bst": 305,
+    "def": 50,
+    "hp": 60,
+    "spa": 40,
+    "spd": 55,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "venonat",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "venonat",
+  "names": {
+    "fr": "Mimitoss"
+  },
+  "nationalDex": 48,
+  "progression": {
+    "baseExp": 75,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "venonat",
+    "learnset": "venonat",
+    "media": "venonat"
+  },
+  "schemaVersion": 1,
+  "slug": "venonat",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "poison"
+    ]
+  }
+}

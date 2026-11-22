@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "heatran",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/heatran/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/heatran/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/856b0807145246bc26a71025c6d741e792d28d1363673ce4ee15c398841c9934.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/heatran/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/heatran/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/heatran/icon.png",
+      "overworld": "assets/pokemon/hgss-api/heatran/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/heatran/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/heatran/icon.png",
+      "portrait": null
+    }
+  }
+}

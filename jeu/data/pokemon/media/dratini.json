@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "dratini",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/dratini/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/dratini/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/f2073c35a3c4b49d2aa683fc4c8ff9d188309e38f4b52477daa2ffbd107b7df4.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/dratini/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/dratini/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/dratini/icon.png",
+      "overworld": "assets/pokemon/hgss-api/dratini/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/dratini/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/dratini/icon.png",
+      "portrait": null
+    }
+  }
+}

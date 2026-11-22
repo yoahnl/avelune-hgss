@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "dunsparce",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/dunsparce/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/dunsparce/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/29f4d84ab47400b2a4e6932cf3b5e3225a6e5fee87a3a21f753508640c64ad34.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/dunsparce/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/dunsparce/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/dunsparce/icon.png",
+      "overworld": "assets/pokemon/hgss-api/dunsparce/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/dunsparce/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/dunsparce/icon.png",
+      "portrait": null
+    }
+  }
+}

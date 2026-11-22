@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "sceptile",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/sceptile/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/sceptile/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/51aed74cf35c81a74e67e676b0ac4a9075056ee276b51f73f66414e8f526677d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/sceptile/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/sceptile/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/sceptile/icon.png",
+      "overworld": "assets/pokemon/hgss-api/sceptile/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/sceptile/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/sceptile/icon.png",
+      "portrait": null
+    }
+  }
+}

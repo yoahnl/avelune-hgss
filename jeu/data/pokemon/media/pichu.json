@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "pichu",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/pichu/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/pichu/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/44ca1588ff61d765c805d3ef7e60fa363fc8f2ddb9bd0bd677e026460064ab8b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/pichu/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/pichu/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/pichu/icon.png",
+      "overworld": "assets/pokemon/hgss-api/pichu/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/pichu/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/pichu/icon.png",
+      "portrait": null
+    }
+  }
+}

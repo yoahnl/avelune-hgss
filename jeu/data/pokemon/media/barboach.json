@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "barboach",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/barboach/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/barboach/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/67c3d88ffe900ef48d62a78fee0e0eb98e14e730c39178453a184ccc9d63458c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/barboach/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/barboach/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/barboach/icon.png",
+      "overworld": "assets/pokemon/hgss-api/barboach/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/barboach/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/barboach/icon.png",
+      "portrait": null
+    }
+  }
+}

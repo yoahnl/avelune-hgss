@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swift_swim",
+    "secondary": "water_veil"
+  },
+  "baseStats": {
+    "atk": 92,
+    "bst": 450,
+    "def": 65,
+    "hp": 80,
+    "spa": 65,
+    "spd": 80,
+    "spe": 68
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_2"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "seaking",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "seaking",
+  "names": {
+    "fr": "Poissoroy"
+  },
+  "nationalDex": 119,
+  "progression": {
+    "baseExp": 170,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "seaking",
+    "learnset": "seaking",
+    "media": "seaking"
+  },
+  "schemaVersion": 1,
+  "slug": "seaking",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

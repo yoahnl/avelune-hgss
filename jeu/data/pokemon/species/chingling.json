@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 30,
+    "bst": 285,
+    "def": 50,
+    "hp": 45,
+    "spa": 65,
+    "spd": 50,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "chingling",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "chingling",
+  "names": {
+    "fr": "Korillon"
+  },
+  "nationalDex": 433,
+  "progression": {
+    "baseExp": 74,
+    "baseFriendship": 70,
+    "catchRate": 120,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "chingling",
+    "learnset": "chingling",
+    "media": "chingling"
+  },
+  "schemaVersion": 1,
+  "slug": "chingling",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic"
+    ]
+  }
+}

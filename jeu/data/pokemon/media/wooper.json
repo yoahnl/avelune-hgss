@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "wooper",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/wooper/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/wooper/back.png",
+      "cry": "assets/pokemon/battle-cries/cb5694623634a3d4bc4598ab5c6f243debf620522b72f025b461c27dc8664199.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/wooper/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/wooper/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/wooper/icon.png",
+      "overworld": "assets/pokemon/overworld/wooper/base/873113858dff6dfb1876b5c51def2c0083eafdb2ae0d3c753b0eff7200ef6eab.png",
+      "overworldShiny": "assets/pokemon/overworld/wooper/base/b18b5437c86d4ce7f386698ad75268572cc673eb0316b62d88b9e18bdb5d8c74.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/wooper/icon.png",
+      "portrait": null
+    }
+  }
+}

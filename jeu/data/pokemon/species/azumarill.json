@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "thick_fat",
+    "secondary": "huge_power"
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 410,
+    "def": 80,
+    "hp": 100,
+    "spa": 50,
+    "spd": 80,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "fairy"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "azumarill",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "azumarill",
+  "names": {
+    "fr": "Azumarill"
+  },
+  "nationalDex": 184,
+  "progression": {
+    "baseExp": 153,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "azumarill",
+    "learnset": "azumarill",
+    "media": "azumarill"
+  },
+  "schemaVersion": 1,
+  "slug": "azumarill",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

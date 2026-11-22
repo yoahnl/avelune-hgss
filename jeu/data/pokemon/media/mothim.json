@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "mothim",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/mothim/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/mothim/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/50dfaae00fa7f0dd3e51066c285a0f7e69ab988d8f91fb47d3df59a062e52e55.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/mothim/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/mothim/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/mothim/icon.png",
+      "overworld": "assets/pokemon/hgss-api/mothim/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/mothim/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/mothim/icon.png",
+      "portrait": null
+    }
+  }
+}

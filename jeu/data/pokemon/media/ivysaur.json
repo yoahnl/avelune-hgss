@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "ivysaur",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/ivysaur/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/ivysaur/back.png",
+      "cry": "assets/pokemon/battle-cries/480734e6292abed3fb573188134a8d7d5450c77b130423bc284389aae3a6a394.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/ivysaur/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/ivysaur/front.png",
+      "icon": "assets/pokemon/johto/revisites/ivysaur/icon.png",
+      "overworld": "assets/pokemon/overworld/ivysaur/base/ee5fde760d93afcfe1ab0a8347cef48223c6d01676958ece599ad2d4a1ecef81.png",
+      "overworldShiny": "assets/pokemon/overworld/ivysaur/base/3c53177beb99ecf9a9da6eac6cc3ca6ea92d7aab20b53493bbfd57ddbb73a23c.png",
+      "party": "assets/pokemon/johto/revisites/ivysaur/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "sudowoodo",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/sudowoodo/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/sudowoodo/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/61fee985f99dd8a431733ffbbd5ec3a45233e8174f5795dafb333c921745a96f.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/sudowoodo/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/sudowoodo/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/sudowoodo/icon.png",
+      "overworld": "assets/pokemon/hgss-api/sudowoodo/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/sudowoodo/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/sudowoodo/icon.png",
+      "portrait": null
+    }
+  }
+}

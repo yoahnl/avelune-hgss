@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "rayquaza",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/rayquaza/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/rayquaza/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ea7cd610d5b8fa51165f3b6ab0e22ca8c97d0ec8bd0bfc49d8cf8b2cfdf4a957.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/rayquaza/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/rayquaza/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/rayquaza/icon.png",
+      "overworld": "assets/pokemon/hgss-api/rayquaza/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/rayquaza/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/rayquaza/icon.png",
+      "portrait": null
+    }
+  }
+}

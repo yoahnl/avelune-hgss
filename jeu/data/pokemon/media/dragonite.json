@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "dragonite",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/dragonite/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/dragonite/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/fa607808cc10af5245eb67866028cd8a0a02bec516e68a8ca7284e63aee2a7d5.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/dragonite/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/dragonite/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/dragonite/icon.png",
+      "overworld": "assets/pokemon/hgss-api/dragonite/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/dragonite/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/dragonite/icon.png",
+      "portrait": null
+    }
+  }
+}

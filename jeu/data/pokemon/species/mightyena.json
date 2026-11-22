@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "intimidate",
+    "secondary": "quick_feet"
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 420,
+    "def": 70,
+    "hp": 70,
+    "spa": 60,
+    "spd": 60,
+    "spe": 70
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "mightyena",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "mightyena",
+  "names": {
+    "fr": "Grahyena"
+  },
+  "nationalDex": 262,
+  "progression": {
+    "baseExp": 128,
+    "baseFriendship": 70,
+    "catchRate": 127,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "mightyena",
+    "learnset": "mightyena",
+    "media": "mightyena"
+  },
+  "schemaVersion": 1,
+  "slug": "mightyena",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dark"
+    ]
+  }
+}

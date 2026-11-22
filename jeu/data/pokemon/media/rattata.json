@@ -1,0 +1,28 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 2,
+  "speciesId": "rattata",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backAnimated": "assets/pokemon/gen5-fallback/rattata/back-animated.gif",
+      "backFemaleAnimated": "assets/pokemon/gen5-fallback/rattata/back-female-animated.gif",
+      "backShinyAnimated": "assets/pokemon/gen5-fallback/rattata/back-shiny-animated.gif",
+      "backShinyFemaleAnimated": "assets/pokemon/gen5-fallback/rattata/back-shiny-female-animated.gif",
+      "backShinyStatic": "assets/pokemon/johto/route-29/rattata/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-29/rattata/back.png",
+      "cry": "assets/audio/pokemon/rattata/cry.wav",
+      "frontAnimated": "assets/pokemon/gen5-fallback/rattata/front-animated.gif",
+      "frontFemaleAnimated": "assets/pokemon/gen5-fallback/rattata/front-female-animated.gif",
+      "frontShinyAnimated": "assets/pokemon/gen5-fallback/rattata/front-shiny-animated.gif",
+      "frontShinyFemaleAnimated": "assets/pokemon/gen5-fallback/rattata/front-shiny-female-animated.gif",
+      "frontShinyStatic": "assets/pokemon/johto/route-29/rattata/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-29/rattata/front.png",
+      "icon": "assets/pokemon/johto/route-29/rattata/icon.png",
+      "overworld": "assets/pokemon/overworld/rattata/base/b25651a3026486d767d2e51f13d821807c71cb7c72002ce9710635e0885ae8d7.png",
+      "party": "assets/pokemon/johto/route-29/rattata/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/rattata/base/d435816f809532c226fcf3d276bc57778e3c93ec4926431954a52cc51ff3cbec.png"
+    }
+  }
+}

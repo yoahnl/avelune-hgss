@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "totodile",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/bourg-geon/totodile/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/bourg-geon/totodile/back.png",
+      "cry": "assets/audio/pokemon/totodile/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/bourg-geon/totodile/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/bourg-geon/totodile/front.png",
+      "icon": "assets/pokemon/johto/bourg-geon/totodile/icon.png",
+      "overworld": "assets/pokemon/overworld/totodile/base/778e0427857c30172c5e7cba56fa75efa157b93c8536d2855eee56b0318336fc.png",
+      "party": "assets/pokemon/johto/bourg-geon/totodile/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/totodile/base/6bcfab3a94bbf64ff4fd3b45f1e393a19aecace1540d296462640b14692db1a2.png"
+    }
+  }
+}

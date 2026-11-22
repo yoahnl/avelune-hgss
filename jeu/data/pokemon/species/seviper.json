@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "shed_skin",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 458,
+    "def": 60,
+    "hp": 73,
+    "spa": 100,
+    "spd": 60,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "seviper",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "seviper",
+  "names": {
+    "fr": "Seviper"
+  },
+  "nationalDex": 336,
+  "progression": {
+    "baseExp": 165,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "seviper",
+    "learnset": "seviper",
+    "media": "seviper"
+  },
+  "schemaVersion": 1,
+  "slug": "seviper",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison"
+    ]
+  }
+}

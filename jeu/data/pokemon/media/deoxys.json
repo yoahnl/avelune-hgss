@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "deoxys",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/deoxys/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/deoxys/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/dcd1854e7f4f4413b4df688ce84b3f7b2ae02bafb95b121021a46a00358627b0.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/deoxys/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/deoxys/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/deoxys/icon.png",
+      "overworld": "assets/pokemon/hgss-api/deoxys/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/deoxys/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/deoxys/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "salamence",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/salamence/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/salamence/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ab09409f96d0d20bd26fad71ce3ff35dc7c9de75d34dff30c44ec48c4c616b4b.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/salamence/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/salamence/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/salamence/icon.png",
+      "overworld": "assets/pokemon/hgss-api/salamence/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/salamence/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/salamence/icon.png",
+      "portrait": null
+    }
+  }
+}

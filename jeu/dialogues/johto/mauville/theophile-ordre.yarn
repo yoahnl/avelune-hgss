@@ -1,0 +1,13 @@
+title: Start
+---
+Théophile: Alors! Je vais tout t’apprendre! Dans un combat, c’est le Pokémon qui
+Théophile: est! en haut à gauche de la liste qui
+Théophile: est envoyé en premier. C’est-à-dire
+Théophile: celui qui t’accompagne!
+Théophile: Des fois, ça peut être utile de changer l’ordre! de ta liste.
+Théophile: Tu veux savoir autre! chose?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

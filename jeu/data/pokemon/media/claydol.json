@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "claydol",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/claydol/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/claydol/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/fbd76d43dd900004b1baab69b5552369bd742d27f47ad1fc601ffde7e001ea25.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/claydol/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/claydol/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/claydol/icon.png",
+      "overworld": "assets/pokemon/hgss-api/claydol/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/claydol/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/claydol/icon.png",
+      "portrait": null
+    }
+  }
+}

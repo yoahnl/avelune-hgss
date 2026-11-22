@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "shuppet",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/shuppet/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/shuppet/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/c828ccc469db2c8db886b7a3c4dfa7d1a7d5150370e1544756ba6456bb2ea4d9.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/shuppet/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/shuppet/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/shuppet/icon.png",
+      "overworld": "assets/pokemon/hgss-api/shuppet/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/shuppet/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/shuppet/icon.png",
+      "portrait": null
+    }
+  }
+}

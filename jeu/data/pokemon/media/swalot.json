@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "swalot",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/swalot/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/swalot/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/9dfa65dd399b25e3704dcf777d4dfd6e40c0f8c219cbd18b05d854c41c65f633.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/swalot/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/swalot/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/swalot/icon.png",
+      "overworld": "assets/pokemon/hgss-api/swalot/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/swalot/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/swalot/icon.png",
+      "portrait": null
+    }
+  }
+}

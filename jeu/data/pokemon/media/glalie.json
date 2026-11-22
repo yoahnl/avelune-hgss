@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "glalie",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/glalie/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/glalie/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/0325380e305e740c9953e859691900f30028f3ce021a96a70aa5da6e838a4db7.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/glalie/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/glalie/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/glalie/icon.png",
+      "overworld": "assets/pokemon/hgss-api/glalie/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/glalie/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/glalie/icon.png",
+      "portrait": null
+    }
+  }
+}

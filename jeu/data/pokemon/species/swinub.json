@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "oblivious",
+    "secondary": "snow_cloak"
+  },
+  "baseStats": {
+    "atk": 50,
+    "bst": 250,
+    "def": 40,
+    "hp": 50,
+    "spa": 30,
+    "spd": 30,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "swinub",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "swinub",
+  "names": {
+    "fr": "Marcacrin"
+  },
+  "nationalDex": 220,
+  "progression": {
+    "baseExp": 78,
+    "baseFriendship": 70,
+    "catchRate": 225,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "swinub",
+    "learnset": "swinub",
+    "media": "swinub"
+  },
+  "schemaVersion": 1,
+  "slug": "swinub",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ice",
+      "ground"
+    ]
+  }
+}

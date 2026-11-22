@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "bibarel",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/bibarel/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/bibarel/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/5852dd71ca5a68814bf22edbcc527f4d2e06a867953ec4da6a47fad3bf91f29e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/bibarel/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/bibarel/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/bibarel/icon.png",
+      "overworld": "assets/pokemon/hgss-api/bibarel/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/bibarel/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/bibarel/icon.png",
+      "portrait": null
+    }
+  }
+}

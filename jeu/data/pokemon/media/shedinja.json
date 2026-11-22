@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "shedinja",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/shedinja/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/shedinja/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/34256238380130a14d70bd764869fd8ea6eb5e64774b69e1756baa216afe3483.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/shedinja/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/shedinja/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/shedinja/icon.png",
+      "overworld": "assets/pokemon/hgss-api/shedinja/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/shedinja/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/shedinja/icon.png",
+      "portrait": null
+    }
+  }
+}

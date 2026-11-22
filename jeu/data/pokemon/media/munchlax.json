@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "munchlax",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/munchlax/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/munchlax/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/5b3652ab079d4cb782f261082eb53689e23132f5605a5f053740ff7c8c68d727.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/munchlax/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/munchlax/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/munchlax/icon.png",
+      "overworld": "assets/pokemon/hgss-api/munchlax/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/munchlax/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/munchlax/icon.png",
+      "portrait": null
+    }
+  }
+}

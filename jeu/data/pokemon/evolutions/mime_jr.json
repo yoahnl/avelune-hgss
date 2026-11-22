@@ -1,0 +1,16 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {},
+      "itemId": null,
+      "method": "known_move",
+      "minFriendship": null,
+      "minLevel": null,
+      "requiredMoveId": "mimic",
+      "targetSpeciesId": "mr_mime"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "mime_jr"
+}

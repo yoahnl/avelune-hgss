@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "shield_dust",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 45,
+    "bst": 195,
+    "def": 35,
+    "hp": 45,
+    "spa": 20,
+    "spd": 30,
+    "spe": 20
+  },
+  "breeding": {
+    "eggGroups": [
+      "bug"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "wurmple",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "wurmple",
+  "names": {
+    "fr": "Chenipotte"
+  },
+  "nationalDex": 265,
+  "progression": {
+    "baseExp": 54,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "wurmple",
+    "learnset": "wurmple",
+    "media": "wurmple"
+  },
+  "schemaVersion": 1,
+  "slug": "wurmple",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "turtwig",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/turtwig/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/turtwig/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/52051e812cd69c0062d2498a1e64f7ea1e2843cc41cd0f21d3363894e7b1c341.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/turtwig/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/turtwig/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/turtwig/icon.png",
+      "overworld": "assets/pokemon/hgss-api/turtwig/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/turtwig/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/turtwig/icon.png",
+      "portrait": null
+    }
+  }
+}

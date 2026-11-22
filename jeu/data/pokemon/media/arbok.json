@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "arbok",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/arbok/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/arbok/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/de340a8c59d18e489bf5e28e0f92126c8658c89704fe13590e780b205748eff7.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/arbok/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/arbok/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/arbok/icon.png",
+      "overworld": "assets/pokemon/hgss-api/arbok/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/arbok/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/arbok/icon.png",
+      "portrait": null
+    }
+  }
+}

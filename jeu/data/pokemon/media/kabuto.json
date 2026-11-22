@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "kabuto",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/kabuto/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/kabuto/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/c03baabfcd0563c4c8fb9e4a47f8af53b2b1cd6075aeb5ce0367fdae75f7ae46.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/kabuto/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/kabuto/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/kabuto/icon.png",
+      "overworld": "assets/pokemon/hgss-api/kabuto/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/kabuto/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/kabuto/icon.png",
+      "portrait": null
+    }
+  }
+}

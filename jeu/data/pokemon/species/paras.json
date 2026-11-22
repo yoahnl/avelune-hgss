@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "effect_spore",
+    "secondary": "dry_skin"
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 285,
+    "def": 55,
+    "hp": 35,
+    "spa": 45,
+    "spd": 55,
+    "spe": 25
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 5.4
+  },
+  "forms": {
+    "baseFormId": "paras",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "paras",
+  "names": {
+    "fr": "Paras"
+  },
+  "nationalDex": 46,
+  "progression": {
+    "baseExp": 70,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "paras",
+    "learnset": "paras",
+    "media": "paras"
+  },
+  "schemaVersion": 1,
+  "slug": "paras",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "grass"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "gabite",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/gabite/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/gabite/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/9408f6376b8271e6dffebe499f6c9575ad76db3fb223f5ca41046907e474ae70.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/gabite/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/gabite/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/gabite/icon.png",
+      "overworld": "assets/pokemon/hgss-api/gabite/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/gabite/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/gabite/icon.png",
+      "portrait": null
+    }
+  }
+}

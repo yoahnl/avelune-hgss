@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "immunity",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 115,
+    "bst": 458,
+    "def": 60,
+    "hp": 73,
+    "spa": 60,
+    "spd": 60,
+    "spe": 90
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "zangoose",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "zangoose",
+  "names": {
+    "fr": "Mangriff"
+  },
+  "nationalDex": 335,
+  "progression": {
+    "baseExp": 165,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "zangoose",
+    "learnset": "zangoose",
+    "media": "zangoose"
+  },
+  "schemaVersion": 1,
+  "slug": "zangoose",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

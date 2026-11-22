@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "snow_cloak",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 480,
+    "def": 70,
+    "hp": 70,
+    "spa": 80,
+    "spd": 70,
+    "spe": 110
+  },
+  "breeding": {
+    "eggGroups": [
+      "fairy",
+      "mineral"
+    ],
+    "genderRatio": {
+      "female": 1.0,
+      "male": 0.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "froslass",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "froslass",
+  "names": {
+    "fr": "Momartik"
+  },
+  "nationalDex": 478,
+  "progression": {
+    "baseExp": 187,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "froslass",
+    "learnset": "froslass",
+    "media": "froslass"
+  },
+  "schemaVersion": 1,
+  "slug": "froslass",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ice",
+      "ghost"
+    ]
+  }
+}

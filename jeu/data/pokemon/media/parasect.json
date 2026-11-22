@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "parasect",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/parasect/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/parasect/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/93a765e4c3c8281124d81f3e2c1f9581653ac6c024d546a2338dceb9314141c5.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/parasect/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/parasect/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/parasect/icon.png",
+      "overworld": "assets/pokemon/hgss-api/parasect/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/parasect/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/parasect/icon.png",
+      "portrait": null
+    }
+  }
+}

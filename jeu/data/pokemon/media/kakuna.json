@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "kakuna",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/kakuna/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/kakuna/back.png",
+      "cry": "assets/pokemon/battle-cries/dabf664431a02c2c2b1caa5870b22608c7b0b34a7babfe38391e0250b75505b2.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/kakuna/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/kakuna/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/kakuna/icon.png",
+      "overworld": "assets/pokemon/overworld/kakuna/base/aa77b10f68e7cb963992627b527db71a7f10b810a315d1b669143dae029c6bbc.png",
+      "overworldShiny": "assets/pokemon/overworld/kakuna/base/07d6d45a995651457cad7e5d32f68b9baa094a7859ec1d52d1e5da089a60306e.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/kakuna/icon.png",
+      "portrait": null
+    }
+  }
+}

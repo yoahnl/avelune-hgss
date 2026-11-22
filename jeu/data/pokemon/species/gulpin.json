@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "liquid_ooze",
+    "secondary": "sticky_hold"
+  },
+  "baseStats": {
+    "atk": 43,
+    "bst": 302,
+    "def": 53,
+    "hp": 70,
+    "spa": 43,
+    "spd": 53,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "gulpin",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "gulpin",
+  "names": {
+    "fr": "Gloupti"
+  },
+  "nationalDex": 316,
+  "progression": {
+    "baseExp": 75,
+    "baseFriendship": 70,
+    "catchRate": 225,
+    "growthRateId": "fluctuating"
+  },
+  "refs": {
+    "evolution": "gulpin",
+    "learnset": "gulpin",
+    "media": "gulpin"
+  },
+  "schemaVersion": 1,
+  "slug": "gulpin",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison"
+    ]
+  }
+}

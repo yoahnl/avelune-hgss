@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "ledyba",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/ledyba/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/ledyba/back.png",
+      "cry": "assets/pokemon/battle-cries/f5d14ca03a3b7b001d72703c5a3d369d2442c967e34c2a998ebdb973faeb927e.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/ledyba/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/ledyba/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/ledyba/icon.png",
+      "overworld": "assets/pokemon/overworld/ledyba/base/181c6d50c5644f74c4aa714c5e6653461f572ff522b79af57bb43651196a934e.png",
+      "overworldShiny": "assets/pokemon/overworld/ledyba/base/16ddfd874c52a2c9e5988e0543a462400220d754c6e6bd967694168dd8dfe7ff.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/ledyba/icon.png",
+      "portrait": null
+    }
+  }
+}

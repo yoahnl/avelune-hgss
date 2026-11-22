@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "chikorita",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/bourg-geon/chikorita/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/bourg-geon/chikorita/back.png",
+      "cry": "assets/audio/pokemon/chikorita/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/bourg-geon/chikorita/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/bourg-geon/chikorita/front.png",
+      "icon": "assets/pokemon/johto/bourg-geon/chikorita/icon.png",
+      "overworld": "assets/pokemon/overworld/chikorita/base/5f47e4295ce06eba3c4ce1ee8e2481bc8306126d99f027297ac2e0863b46233d.png",
+      "party": "assets/pokemon/johto/bourg-geon/chikorita/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/chikorita/base/8ed848e72b170a9d631cf344812b430e8a92dea7b36d5dd02116d4a8be0cd9b6.png"
+    }
+  }
+}

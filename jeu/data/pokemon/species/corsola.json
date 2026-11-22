@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "hustle",
+    "secondary": "natural_cure"
+  },
+  "baseStats": {
+    "atk": 55,
+    "bst": 380,
+    "def": 85,
+    "hp": 55,
+    "spa": 65,
+    "spd": 85,
+    "spe": 35
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "water_3"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "corsola",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "corsola",
+  "names": {
+    "fr": "Corayon"
+  },
+  "nationalDex": 222,
+  "progression": {
+    "baseExp": 113,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "corsola",
+    "learnset": "corsola",
+    "media": "corsola"
+  },
+  "schemaVersion": 1,
+  "slug": "corsola",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "rock"
+    ]
+  }
+}

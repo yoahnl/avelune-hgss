@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "staryu",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/staryu/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/staryu/back.png",
+      "cry": "assets/pokemon/battle-cries/e6bf78ca72f9b773e492af4db7da7eb11604ecdc7d708ee5ac7196101c3bd1c1.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/staryu/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/staryu/front.png",
+      "icon": "assets/pokemon/johto/revisites/staryu/icon.png",
+      "overworld": "assets/pokemon/overworld/staryu/base/3596f3589bc9a8be813317a60a83db0de2222bce6f06f5afee3ae4a0cd794b5d.png",
+      "overworldShiny": "assets/pokemon/overworld/staryu/base/ed65db88df50ab99ad3c49846a6d26cefa88a8966658df9de3dff493b06a102d.png",
+      "party": "assets/pokemon/johto/revisites/staryu/icon.png",
+      "portrait": null
+    }
+  }
+}

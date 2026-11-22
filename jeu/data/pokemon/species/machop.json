@@ -1,0 +1,78 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "guts",
+    "secondary": "no_guard"
+  },
+  "baseStats": {
+    "atk": 80,
+    "bst": 305,
+    "def": 50,
+    "hp": 70,
+    "spa": 35,
+    "spd": 35,
+    "spe": 35
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.25,
+      "male": 0.75
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 19.5
+  },
+  "forms": {
+    "baseFormId": "machop",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "machop",
+  "names": {
+    "fr": "Machoc"
+  },
+  "nationalDex": 66,
+  "progression": {
+    "baseExp": 75,
+    "baseFriendship": 70,
+    "catchRate": 180,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "machop",
+    "learnset": "machop",
+    "media": "machop"
+  },
+  "schemaVersion": 1,
+  "slug": "machop",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fighting"
+    ]
+  }
+}

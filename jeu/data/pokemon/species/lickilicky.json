@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "own_tempo",
+    "secondary": "oblivious"
+  },
+  "baseStats": {
+    "atk": 85,
+    "bst": 515,
+    "def": 95,
+    "hp": 110,
+    "spa": 80,
+    "spd": 95,
+    "spe": 50
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "lickilicky",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "lickilicky",
+  "names": {
+    "fr": "Coudlangue"
+  },
+  "nationalDex": 463,
+  "progression": {
+    "baseExp": 193,
+    "baseFriendship": 70,
+    "catchRate": 30,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "lickilicky",
+    "learnset": "lickilicky",
+    "media": "lickilicky"
+  },
+  "schemaVersion": 1,
+  "slug": "lickilicky",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

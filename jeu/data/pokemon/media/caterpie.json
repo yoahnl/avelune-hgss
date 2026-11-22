@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "caterpie",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/route-30/caterpie/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-30/caterpie/back.png",
+      "cry": "assets/audio/pokemon/caterpie/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/route-30/caterpie/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-30/caterpie/front.png",
+      "icon": "assets/pokemon/johto/route-30/caterpie/icon.png",
+      "overworld": "assets/pokemon/overworld/caterpie/base/15d41510e7c2439dba60cf44a3cc6e57f88299fc8026103c24349962f003f836.png",
+      "party": "assets/pokemon/johto/route-30/caterpie/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/caterpie/base/92e4cb6f4df98137480bef2f7219413111a442e1006c94bc02f696e3902e5155.png"
+    }
+  }
+}

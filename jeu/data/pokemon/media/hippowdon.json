@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "hippowdon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/hippowdon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/hippowdon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/66ce355084ebf06a1edc9184ada65c74e1ae0536c88a077ad947d00632502d9d.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/hippowdon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/hippowdon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/hippowdon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/hippowdon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/hippowdon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/hippowdon/icon.png",
+      "portrait": null
+    }
+  }
+}

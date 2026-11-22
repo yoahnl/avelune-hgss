@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "pidgeotto",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/mauville/pidgeotto/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/mauville/pidgeotto/back.png",
+      "cry": "assets/pokemon/battle-cries/49b19cfffe3fff8573636608313e8b4c30a9700d7da9a30a48768e9156c4669d.wav",
+      "frontShinyStatic": "assets/pokemon/johto/mauville/pidgeotto/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/mauville/pidgeotto/front.png",
+      "icon": "assets/pokemon/johto/mauville/pidgeotto/icon.png",
+      "overworld": "assets/pokemon/overworld/pidgeotto/base/a59f6775e84929fe8463548c220f772831c8d179318c6c3e3a7640c0d214ede2.png",
+      "overworldShiny": "assets/pokemon/overworld/pidgeotto/base/ce280761faa31db682c530d1bfd6b382606c336beaf94f13a05ca7bb08c226d8.png",
+      "party": "assets/pokemon/johto/mauville/pidgeotto/icon.png",
+      "portrait": null
+    }
+  }
+}

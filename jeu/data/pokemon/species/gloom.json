@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "chlorophyll",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 65,
+    "bst": 395,
+    "def": 70,
+    "hp": 60,
+    "spa": 85,
+    "spd": 75,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [
+      "grass"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "gloom",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "gloom",
+  "names": {
+    "fr": "Ortide"
+  },
+  "nationalDex": 44,
+  "progression": {
+    "baseExp": 132,
+    "baseFriendship": 70,
+    "catchRate": 120,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "gloom",
+    "learnset": "gloom",
+    "media": "gloom"
+  },
+  "schemaVersion": 1,
+  "slug": "gloom",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "poison"
+    ]
+  }
+}

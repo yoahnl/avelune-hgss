@@ -1,0 +1,78 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "flash_fire",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 41,
+    "bst": 299,
+    "def": 40,
+    "hp": 38,
+    "spa": 50,
+    "spd": 65,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 9.9
+  },
+  "forms": {
+    "baseFormId": "vulpix",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "vulpix",
+  "names": {
+    "fr": "Goupix"
+  },
+  "nationalDex": 37,
+  "progression": {
+    "baseExp": 63,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "vulpix",
+    "learnset": "vulpix",
+    "media": "vulpix"
+  },
+  "schemaVersion": 1,
+  "slug": "vulpix",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire"
+    ]
+  }
+}

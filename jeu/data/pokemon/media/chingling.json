@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "chingling",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/chingling/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/chingling/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/702b1806f3edfc25b6f7f87c4162fa528771172fc60305af3f80225613f947be.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/chingling/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/chingling/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/chingling/icon.png",
+      "overworld": "assets/pokemon/hgss-api/chingling/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/chingling/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/chingling/icon.png",
+      "portrait": null
+    }
+  }
+}

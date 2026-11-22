@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "moltres",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/moltres/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/moltres/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/51bb6ecba344f1de2b44617277f89504b198661f59dfa71e496bbc862518fe1c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/moltres/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/moltres/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/moltres/icon.png",
+      "overworld": "assets/pokemon/hgss-api/moltres/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/moltres/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/moltres/icon.png",
+      "portrait": null
+    }
+  }
+}

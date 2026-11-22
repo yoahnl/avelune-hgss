@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "own_tempo",
+    "secondary": "tangled_feet"
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 360,
+    "def": 60,
+    "hp": 60,
+    "spa": 60,
+    "spd": 60,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "spinda",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "spinda",
+  "names": {
+    "fr": "Spinda"
+  },
+  "nationalDex": 327,
+  "progression": {
+    "baseExp": 85,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "spinda",
+    "learnset": "spinda",
+    "media": "spinda"
+  },
+  "schemaVersion": 1,
+  "slug": "spinda",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

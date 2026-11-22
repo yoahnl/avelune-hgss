@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "oddish",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/oddish/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/oddish/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/a678abd73319aadb2b3f5e3335bd57cada0306c9393148e75dfeb9c2256a8537.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/oddish/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/oddish/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/oddish/icon.png",
+      "overworld": "assets/pokemon/hgss-api/oddish/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/oddish/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/oddish/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "take_down",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "take_down"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "beldum",
+  "startingMoves": [
+    "take_down"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

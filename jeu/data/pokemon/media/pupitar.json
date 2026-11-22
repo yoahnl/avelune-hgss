@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "pupitar",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/pupitar/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/pupitar/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/cf262421ecd2a312181070beedd54f817e408c6b54fa5cc1f2e4e7ab32378995.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/pupitar/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/pupitar/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/pupitar/icon.png",
+      "overworld": "assets/pokemon/hgss-api/pupitar/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/pupitar/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/pupitar/icon.png",
+      "portrait": null
+    }
+  }
+}

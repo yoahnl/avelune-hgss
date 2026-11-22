@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "zigzagoon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/zigzagoon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/zigzagoon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/c4bd96938ef7b3fac433bcad1d73ece5aa4a57633d74ea84a366e5f1e7a0d1f1.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/zigzagoon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/zigzagoon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/zigzagoon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/zigzagoon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/zigzagoon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/zigzagoon/icon.png",
+      "portrait": null
+    }
+  }
+}

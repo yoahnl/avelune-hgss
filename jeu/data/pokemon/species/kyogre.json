@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "drizzle",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 670,
+    "def": 90,
+    "hp": 100,
+    "spa": 150,
+    "spd": 140,
+    "spe": 90
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 120
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": true,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "kyogre",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "kyogre",
+  "names": {
+    "fr": "Kyogre"
+  },
+  "nationalDex": 382,
+  "progression": {
+    "baseExp": 218,
+    "baseFriendship": 0,
+    "catchRate": 5,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "kyogre",
+    "learnset": "kyogre",
+    "media": "kyogre"
+  },
+  "schemaVersion": 1,
+  "slug": "kyogre",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

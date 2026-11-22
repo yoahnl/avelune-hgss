@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "marvel_scale",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 540,
+    "def": 79,
+    "hp": 95,
+    "spa": 100,
+    "spd": 125,
+    "spe": 81
+  },
+  "breeding": {
+    "eggGroups": [
+      "water_1",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "milotic",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "milotic",
+  "names": {
+    "fr": "Milobellus"
+  },
+  "nationalDex": 350,
+  "progression": {
+    "baseExp": 213,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "erratic"
+  },
+  "refs": {
+    "evolution": "milotic",
+    "learnset": "milotic",
+    "media": "milotic"
+  },
+  "schemaVersion": 1,
+  "slug": "milotic",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

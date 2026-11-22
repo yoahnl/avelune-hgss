@@ -1,0 +1,10 @@
+title: Start
+---
+Infirmière: Bonjour! Bienvenue au Centre Pokémon.
+Infirmière: Nous pouvons soigner vos Pokémon.
+Infirmière: Voulez-vous les soigner?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

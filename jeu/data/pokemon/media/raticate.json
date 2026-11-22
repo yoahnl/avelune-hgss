@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "raticate",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/raticate/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/raticate/back.png",
+      "cry": "assets/pokemon/battle-cries/7b4d0097407cf8b13c49b2e532b08c17a9125062f146d8cf36dbf96e7468d4fa.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/raticate/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/raticate/front.png",
+      "icon": "assets/pokemon/johto/revisites/raticate/icon.png",
+      "overworld": "assets/pokemon/overworld/raticate/base/77097f9132008668b44c0458d083bb1e0cf77428e1fb2231819daa2c8a60c3ec.png",
+      "overworldShiny": "assets/pokemon/overworld/raticate/base/d29573452d3ae60da1775fcc6b884b64cf7d878bc34e64e6e253f6ece608ba37.png",
+      "party": "assets/pokemon/johto/revisites/raticate/icon.png",
+      "portrait": null
+    }
+  }
+}

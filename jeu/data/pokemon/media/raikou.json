@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "raikou",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/raikou/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/raikou/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/bbeaa9fba884ab43fe03b545b8956a8af39aa397af3c8955a6bc2d3b928f1d5c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/raikou/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/raikou/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/raikou/icon.png",
+      "overworld": "assets/pokemon/hgss-api/raikou/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/raikou/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/raikou/icon.png",
+      "portrait": null
+    }
+  }
+}

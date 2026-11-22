@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "shinx",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/shinx/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/shinx/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/eb361bd7f9bd4f6133e8c28ded95ecf39887f34343264becf988a5d01a251a89.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/shinx/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/shinx/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/shinx/icon.png",
+      "overworld": "assets/pokemon/hgss-api/shinx/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/shinx/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/shinx/icon.png",
+      "portrait": null
+    }
+  }
+}

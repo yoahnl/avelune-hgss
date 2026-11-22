@@ -1,0 +1,78 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "thick_fat",
+    "secondary": "huge_power"
+  },
+  "baseStats": {
+    "atk": 20,
+    "bst": 250,
+    "def": 50,
+    "hp": 70,
+    "spa": 20,
+    "spd": 50,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 10
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 8.5
+  },
+  "forms": {
+    "baseFormId": "marill",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "marill",
+  "names": {
+    "fr": "Marill"
+  },
+  "nationalDex": 183,
+  "progression": {
+    "baseExp": 58,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "marill",
+    "learnset": "marill",
+    "media": "marill"
+  },
+  "schemaVersion": 1,
+  "slug": "marill",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:route29-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water"
+    ]
+  }
+}

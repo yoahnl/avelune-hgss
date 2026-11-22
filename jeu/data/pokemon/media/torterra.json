@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "torterra",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/torterra/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/torterra/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/3ddd12cd2e1a6448c763df2eb281f5736e745f56559601199528d452e87de68e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/torterra/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/torterra/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/torterra/icon.png",
+      "overworld": "assets/pokemon/hgss-api/torterra/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/torterra/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/torterra/icon.png",
+      "portrait": null
+    }
+  }
+}

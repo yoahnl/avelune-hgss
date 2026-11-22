@@ -1,0 +1,9 @@
+title: Start
+---
+Vendeur de Queues de Ramoloss: Que dirais-tu d’une friandise pleine de bons éléments nutritifs?
+Vendeur de Queues de Ramoloss: J’te fais un prix: 1 000 000 $! Ça te dit?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

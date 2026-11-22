@@ -1,0 +1,5 @@
+title: Start
+---
+Allô, {{ player_name }}?
+Tu vas bien? Passe donc me voir!
+===

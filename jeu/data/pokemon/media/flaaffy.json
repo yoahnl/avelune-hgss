@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "flaaffy",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/flaaffy/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/flaaffy/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/128c68e115add800c00128d184a4c1a344c4855564fe9355015803bf4bc5749a.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/flaaffy/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/flaaffy/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/flaaffy/icon.png",
+      "overworld": "assets/pokemon/hgss-api/flaaffy/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/flaaffy/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/flaaffy/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,9 @@
+title: Start
+---
+Admirateur de Fargas: Hellooo? Comment va la santé, aujourd’hui?
+Admirateur de Fargas: Tu cueilles des Noigrumes?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

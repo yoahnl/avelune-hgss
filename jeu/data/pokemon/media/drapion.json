@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "drapion",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/drapion/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/drapion/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d74944d7321ddde738bd4183c5b7710325bf7d22ce0f90bcddbf7a8b486a86c5.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/drapion/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/drapion/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/drapion/icon.png",
+      "overworld": "assets/pokemon/hgss-api/drapion/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/drapion/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/drapion/icon.png",
+      "portrait": null
+    }
+  }
+}

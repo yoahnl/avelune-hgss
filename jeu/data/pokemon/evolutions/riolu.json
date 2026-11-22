@@ -1,0 +1,18 @@
+{
+  "evolutions": [
+    {
+      "conditionText": {
+        "fr": "Condition native HeartGold : EVO_FRIENDSHIP_DAY ; paramètre 0."
+      },
+      "itemId": null,
+      "method": "friendship_day",
+      "minFriendship": 220,
+      "minLevel": null,
+      "requiredMoveId": null,
+      "targetSpeciesId": "lucario"
+    }
+  ],
+  "preEvolution": null,
+  "schemaVersion": 1,
+  "speciesId": "riolu"
+}

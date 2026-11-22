@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "squirtle",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/squirtle/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/squirtle/back.png",
+      "cry": "assets/pokemon/battle-cries/534196a630c48010ec3ee8283de92c09dabbc3ead5aabbbf8f1eb7038ce09f71.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/squirtle/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/squirtle/front.png",
+      "icon": "assets/pokemon/johto/revisites/squirtle/icon.png",
+      "overworld": "assets/pokemon/overworld/squirtle/base/f6fb8780d0149f76872b67a202f16a91eccfede0005b8bc2db0f925a6baca431.png",
+      "overworldShiny": "assets/pokemon/overworld/squirtle/base/3f7ff881beb204142b3f2803db21b5dec8fb12ce12edc936b47863ae11823529.png",
+      "party": "assets/pokemon/johto/revisites/squirtle/icon.png",
+      "portrait": null
+    }
+  }
+}

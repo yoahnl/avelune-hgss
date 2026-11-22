@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "swarm",
+    "secondary": "insomnia"
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 250,
+    "def": 40,
+    "hp": 40,
+    "spa": 40,
+    "spd": 40,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 8.5
+  },
+  "forms": {
+    "baseFormId": "spinarak",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "spinarak",
+  "names": {
+    "fr": "Mimigal"
+  },
+  "nationalDex": 167,
+  "progression": {
+    "baseExp": 54,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "spinarak",
+    "learnset": "spinarak",
+    "media": "spinarak"
+  },
+  "schemaVersion": 1,
+  "slug": "spinarak",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:route29-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "bug",
+      "poison"
+    ]
+  }
+}

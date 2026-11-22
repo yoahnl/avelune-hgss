@@ -1,0 +1,38 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "poison_sting",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "string_shot",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 15,
+      "moveId": "bug_bite",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "poison_sting",
+    "string_shot"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "weedle",
+  "startingMoves": [
+    "poison_sting",
+    "string_shot"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

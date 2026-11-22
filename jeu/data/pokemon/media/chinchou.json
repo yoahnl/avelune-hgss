@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "chinchou",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/chinchou/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/chinchou/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/181a06a89f8eecaf0090d44c6fd5e4c9a5346c364b06ece9475f74125659082f.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/chinchou/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/chinchou/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/chinchou/icon.png",
+      "overworld": "assets/pokemon/hgss-api/chinchou/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/chinchou/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/chinchou/icon.png",
+      "portrait": null
+    }
+  }
+}

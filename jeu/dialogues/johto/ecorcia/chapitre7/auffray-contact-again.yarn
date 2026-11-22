@@ -1,0 +1,8 @@
+title: Start
+---
+Auffray: Ah! Je savais bien que tu voudrais mieux me connaître!
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

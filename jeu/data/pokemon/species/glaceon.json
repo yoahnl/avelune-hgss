@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "snow_cloak",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 525,
+    "def": 110,
+    "hp": 65,
+    "spa": 130,
+    "spd": 95,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 35
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "glaceon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "glaceon",
+  "names": {
+    "fr": "Givrali"
+  },
+  "nationalDex": 471,
+  "progression": {
+    "baseExp": 196,
+    "baseFriendship": 35,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "glaceon",
+    "learnset": "glaceon",
+    "media": "glaceon"
+  },
+  "schemaVersion": 1,
+  "slug": "glaceon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ice"
+    ]
+  }
+}

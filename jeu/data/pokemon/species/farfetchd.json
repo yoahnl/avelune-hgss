@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "keen_eye",
+    "secondary": "inner_focus"
+  },
+  "baseStats": {
+    "atk": 65,
+    "bst": 352,
+    "def": 55,
+    "hp": 52,
+    "spa": 58,
+    "spd": 62,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "farfetchd",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "farfetchd",
+  "names": {
+    "fr": "Canarticho"
+  },
+  "nationalDex": 83,
+  "progression": {
+    "baseExp": 94,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "farfetchd",
+    "learnset": "farfetchd",
+    "media": "farfetchd"
+  },
+  "schemaVersion": 1,
+  "slug": "farfetchd",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "metang",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/metang/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/metang/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/0ab0b77210fa71d01816dc47b7157a6af7b96989d88dcd26e01451fbf1a5e302.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/metang/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/metang/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/metang/icon.png",
+      "overworld": "assets/pokemon/hgss-api/metang/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/metang/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/metang/icon.png",
+      "portrait": null
+    }
+  }
+}

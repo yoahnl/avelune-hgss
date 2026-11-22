@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "soundproof",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 51,
+    "bst": 240,
+    "def": 23,
+    "hp": 64,
+    "spa": 51,
+    "spd": 23,
+    "spe": 28
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "whismur",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "whismur",
+  "names": {
+    "fr": "Chuchmur"
+  },
+  "nationalDex": 293,
+  "progression": {
+    "baseExp": 68,
+    "baseFriendship": 70,
+    "catchRate": 190,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "whismur",
+    "learnset": "whismur",
+    "media": "whismur"
+  },
+  "schemaVersion": 1,
+  "slug": "whismur",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

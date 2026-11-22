@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "solrock",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/solrock/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/solrock/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/7ab8393d62293dcc471983a83fd24fa0cce182c2d27ece4dd7268c95952da9c2.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/solrock/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/solrock/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/solrock/icon.png",
+      "overworld": "assets/pokemon/hgss-api/solrock/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/solrock/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/solrock/icon.png",
+      "portrait": null
+    }
+  }
+}

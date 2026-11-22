@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "venusaur",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/venusaur/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/venusaur/back.png",
+      "cry": "assets/pokemon/battle-cries/ba10f370b01a0cf1215b4c31e36557e29ea2d3300668797297cb7198105f4544.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/venusaur/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/venusaur/front.png",
+      "icon": "assets/pokemon/johto/revisites/venusaur/icon.png",
+      "overworld": "assets/pokemon/overworld/venusaur/base/083eb6240512272aac716c97bc6c3809740577cb9a1134fe9f5a1fa550b043ba.png",
+      "overworldShiny": "assets/pokemon/overworld/venusaur/base/97151fb58f9c1dcb2d20a0d5021be874be32c45d80a02aaac56eac6d30c56977.png",
+      "party": "assets/pokemon/johto/revisites/venusaur/icon.png",
+      "portrait": null
+    }
+  }
+}

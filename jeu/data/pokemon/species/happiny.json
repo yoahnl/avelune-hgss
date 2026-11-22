@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "natural_cure",
+    "secondary": "serene_grace"
+  },
+  "baseStats": {
+    "atk": 5,
+    "bst": 220,
+    "def": 5,
+    "hp": 100,
+    "spa": 15,
+    "spd": 65,
+    "spe": 30
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "female": 1.0,
+      "male": 0.0
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": true,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "happiny",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "happiny",
+  "names": {
+    "fr": "Ptiravi"
+  },
+  "nationalDex": 440,
+  "progression": {
+    "baseExp": 255,
+    "baseFriendship": 140,
+    "catchRate": 130,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "happiny",
+    "learnset": "happiny",
+    "media": "happiny"
+  },
+  "schemaVersion": 1,
+  "slug": "happiny",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

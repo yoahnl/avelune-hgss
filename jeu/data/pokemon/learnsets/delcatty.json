@@ -1,0 +1,48 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "fake_out",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "attract",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "sing",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "double_slap",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "fake_out",
+    "attract",
+    "sing",
+    "double_slap"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "delcatty",
+  "startingMoves": [
+    "fake_out",
+    "attract",
+    "sing",
+    "double_slap"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

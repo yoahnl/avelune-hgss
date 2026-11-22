@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "cyndaquil",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/bourg-geon/cyndaquil/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/bourg-geon/cyndaquil/back.png",
+      "cry": "assets/audio/pokemon/cyndaquil/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/bourg-geon/cyndaquil/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/bourg-geon/cyndaquil/front.png",
+      "icon": "assets/pokemon/johto/bourg-geon/cyndaquil/icon.png",
+      "overworld": "assets/pokemon/overworld/cyndaquil/base/fc0bde66148b4440bad5ab27f6ef9c541a17e9bb6240f4bcc44bb9c1419316b7.png",
+      "party": "assets/pokemon/johto/bourg-geon/cyndaquil/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/cyndaquil/base/31a8071f315093cde0266397d7d97c53954a729e6c7ee4c4f3802a7e94f481b3.png"
+    }
+  }
+}

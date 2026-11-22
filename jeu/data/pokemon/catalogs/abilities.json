@@ -1,0 +1,1009 @@
+{
+  "catalog": "abilities",
+  "entries": [
+    {
+      "id": "overgrow",
+      "name": "Engrais",
+      "names": {
+        "fr": "Engrais"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "blaze",
+      "name": "Brasier",
+      "names": {
+        "fr": "Brasier"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "torrent",
+      "name": "Torrent",
+      "names": {
+        "fr": "Torrent"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "keen_eye",
+      "name": "Regard Vif",
+      "names": {
+        "fr": "Regard Vif"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "tangled_feet",
+      "name": "Pieds Confus",
+      "names": {
+        "fr": "Pieds Confus"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "run_away",
+      "name": "Fuite",
+      "names": {
+        "fr": "Fuite"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "guts",
+      "name": "Cran",
+      "names": {
+        "fr": "Cran"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "insomnia",
+      "name": "Insomnia",
+      "names": {
+        "fr": "Insomnia"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "thick_fat",
+      "name": "Isograisse",
+      "names": {
+        "fr": "Isograisse"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "huge_power",
+      "name": "Coloforce",
+      "names": {
+        "fr": "Coloforce"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "shield_dust",
+      "name": "Ecran Poudre",
+      "names": {
+        "fr": "Ecran Poudre"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "shed_skin",
+      "name": "Mue",
+      "names": {
+        "fr": "Mue"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "swarm",
+      "name": "Essaim",
+      "names": {
+        "fr": "Essaim"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "chlorophyll",
+      "name": "Chlorophyle",
+      "names": {
+        "fr": "Chlorophyle"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "rock_head",
+      "name": "Tête de Roc",
+      "names": {
+        "fr": "Tête de Roc"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "sturdy",
+      "name": "Fermeté",
+      "names": {
+        "fr": "Fermeté"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "levitate",
+      "name": "Lévitation",
+      "names": {
+        "fr": "Lévitation"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "hustle",
+      "name": "Agitation",
+      "names": {
+        "fr": "Agitation"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "serene_grace",
+      "name": "Sérénité",
+      "names": {
+        "fr": "Sérénité"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "intimidate",
+      "name": "Intimidation",
+      "names": {
+        "fr": "Intimidation"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "sand_veil",
+      "name": "Voile Sable",
+      "names": {
+        "fr": "Voile Sable"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "poison_point",
+      "name": "Point Poison",
+      "names": {
+        "fr": "Point Poison"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "rivalry",
+      "name": "Rivalité",
+      "names": {
+        "fr": "Rivalité"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "flash_fire",
+      "name": "Torche",
+      "names": {
+        "fr": "Torche"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "inner_focus",
+      "name": "Attention",
+      "names": {
+        "fr": "Attention"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "effect_spore",
+      "name": "Pose Spore",
+      "names": {
+        "fr": "Pose Spore"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "dry_skin",
+      "name": "Peau Sèche",
+      "names": {
+        "fr": "Peau Sèche"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "water_absorb",
+      "name": "Absorb Eau",
+      "names": {
+        "fr": "Absorb Eau"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "damp",
+      "name": "Moiteur",
+      "names": {
+        "fr": "Moiteur"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "no_guard",
+      "name": "Annule Garde",
+      "names": {
+        "fr": "Annule Garde"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "clear_body",
+      "name": "Corps Sain",
+      "names": {
+        "fr": "Corps Sain"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "liquid_ooze",
+      "name": "Suintement",
+      "names": {
+        "fr": "Suintement"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "oblivious",
+      "name": "Benêt",
+      "names": {
+        "fr": "Benêt"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "own_tempo",
+      "name": "Tempo Perso",
+      "names": {
+        "fr": "Tempo Perso"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "swift_swim",
+      "name": "Glissade",
+      "names": {
+        "fr": "Glissade"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "water_veil",
+      "name": "Ignifu-Voile",
+      "names": {
+        "fr": "Ignifu-Voile"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "technician",
+      "name": "Technicien",
+      "names": {
+        "fr": "Technicien"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "early_bird",
+      "name": "Matinal",
+      "names": {
+        "fr": "Matinal"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "static",
+      "name": "Statik",
+      "names": {
+        "fr": "Statik"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "leaf_guard",
+      "name": "Feuil. Garde",
+      "names": {
+        "fr": "Feuil. Garde"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "lightning_rod",
+      "name": "Paratonnerre",
+      "names": {
+        "fr": "Paratonnerre"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "scrappy",
+      "name": "Querelleur",
+      "names": {
+        "fr": "Querelleur"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "shell_armor",
+      "name": "Coque Armure",
+      "names": {
+        "fr": "Coque Armure"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "adaptability",
+      "name": "Adaptabilité",
+      "names": {
+        "fr": "Adaptabilité"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "volt_absorb",
+      "name": "Absorb Volt",
+      "names": {
+        "fr": "Absorb Volt"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "synchronize",
+      "name": "Synchro",
+      "names": {
+        "fr": "Synchro"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "snow_cloak",
+      "name": "Rideau Neige",
+      "names": {
+        "fr": "Rideau Neige"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "hyper_cutter",
+      "name": "Hyper Cutter",
+      "names": {
+        "fr": "Hyper Cutter"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "natural_cure",
+      "name": "Médic Nature",
+      "names": {
+        "fr": "Médic Nature"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "illuminate",
+      "name": "Lumiatirance",
+      "names": {
+        "fr": "Lumiatirance"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "compoundeyes",
+      "name": "Oeil Composé",
+      "names": {
+        "fr": "Oeil Composé"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "cute_charm",
+      "name": "Joli Sourire",
+      "names": {
+        "fr": "Joli Sourire"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "magic_guard",
+      "name": "Garde Magik",
+      "names": {
+        "fr": "Garde Magik"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "tinted_lens",
+      "name": "Lentiteintée",
+      "names": {
+        "fr": "Lentiteintée"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "arena_trap",
+      "name": "Piège",
+      "names": {
+        "fr": "Piège"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "pickup",
+      "name": "Ramassage",
+      "names": {
+        "fr": "Ramassage"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "limber",
+      "name": "Echauffement",
+      "names": {
+        "fr": "Echauffement"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "cloud_nine",
+      "name": "Ciel Gris",
+      "names": {
+        "fr": "Ciel Gris"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "vital_spirit",
+      "name": "Esprit Vital",
+      "names": {
+        "fr": "Esprit Vital"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "anger_point",
+      "name": "Colérique",
+      "names": {
+        "fr": "Colérique"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "magnet_pull",
+      "name": "Magnépiège",
+      "names": {
+        "fr": "Magnépiège"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "hydration",
+      "name": "Hydratation",
+      "names": {
+        "fr": "Hydratation"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "stench",
+      "name": "Puanteur",
+      "names": {
+        "fr": "Puanteur"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "sticky_hold",
+      "name": "Glue",
+      "names": {
+        "fr": "Glue"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "skill_link",
+      "name": "Multi-Coups",
+      "names": {
+        "fr": "Multi-Coups"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "forewarn",
+      "name": "Prédiction",
+      "names": {
+        "fr": "Prédiction"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "soundproof",
+      "name": "Anti-Bruit",
+      "names": {
+        "fr": "Anti-Bruit"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "lightningrod",
+      "name": "Paratonnerre",
+      "names": {
+        "fr": "Paratonnerre"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "reckless",
+      "name": "Téméraire",
+      "names": {
+        "fr": "Téméraire"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "iron_fist",
+      "name": "Poing de Fer",
+      "names": {
+        "fr": "Poing de Fer"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "sniper",
+      "name": "Sniper",
+      "names": {
+        "fr": "Sniper"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "filter",
+      "name": "Filtre",
+      "names": {
+        "fr": "Filtre"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "flame_body",
+      "name": "Corps Ardent",
+      "names": {
+        "fr": "Corps Ardent"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "mold_breaker",
+      "name": "Brise Moule",
+      "names": {
+        "fr": "Brise Moule"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "trace",
+      "name": "Calque",
+      "names": {
+        "fr": "Calque"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "download",
+      "name": "Télécharge",
+      "names": {
+        "fr": "Télécharge"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "battle_armor",
+      "name": "Armurbaston",
+      "names": {
+        "fr": "Armurbaston"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "pressure",
+      "name": "Pression",
+      "names": {
+        "fr": "Pression"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "immunity",
+      "name": "Vaccin",
+      "names": {
+        "fr": "Vaccin"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "solar_power",
+      "name": "Force Soleil",
+      "names": {
+        "fr": "Force Soleil"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "speed_boost",
+      "name": "Turbo",
+      "names": {
+        "fr": "Turbo"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "super_luck",
+      "name": "Chanceux",
+      "names": {
+        "fr": "Chanceux"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "shadow_tag",
+      "name": "Marque Ombre",
+      "names": {
+        "fr": "Marque Ombre"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "quick_feet",
+      "name": "Pied Véloce",
+      "names": {
+        "fr": "Pied Véloce"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "gluttony",
+      "name": "Gloutonnerie",
+      "names": {
+        "fr": "Gloutonnerie"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "magma_armor",
+      "name": "Armumagma",
+      "names": {
+        "fr": "Armumagma"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "suction_cups",
+      "name": "Ventouse",
+      "names": {
+        "fr": "Ventouse"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "frisk",
+      "name": "Fouille",
+      "names": {
+        "fr": "Fouille"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "steadfast",
+      "name": "Impassible",
+      "names": {
+        "fr": "Impassible"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "sand_stream",
+      "name": "Sable Volant",
+      "names": {
+        "fr": "Sable Volant"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "rain_dish",
+      "name": "Cuvette",
+      "names": {
+        "fr": "Cuvette"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "poison_heal",
+      "name": "Soin Poison",
+      "names": {
+        "fr": "Soin Poison"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "truant",
+      "name": "Absentéisme",
+      "names": {
+        "fr": "Absentéisme"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "wonder_guard",
+      "name": "Garde Mystik",
+      "names": {
+        "fr": "Garde Mystik"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "normalize",
+      "name": "Normalise",
+      "names": {
+        "fr": "Normalise"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "stall",
+      "name": "Frein",
+      "names": {
+        "fr": "Frein"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "pure_power",
+      "name": "Force Pure",
+      "names": {
+        "fr": "Force Pure"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "plus",
+      "name": "Plus",
+      "names": {
+        "fr": "Plus"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "minus",
+      "name": "Minus",
+      "names": {
+        "fr": "Minus"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "rough_skin",
+      "name": "Peau Dure",
+      "names": {
+        "fr": "Peau Dure"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "simple",
+      "name": "Simple",
+      "names": {
+        "fr": "Simple"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "solid_rock",
+      "name": "Solide Roc",
+      "names": {
+        "fr": "Solide Roc"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "white_smoke",
+      "name": "Ecran Fumée",
+      "names": {
+        "fr": "Ecran Fumée"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "anticipation",
+      "name": "Anticipation",
+      "names": {
+        "fr": "Anticipation"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "marvel_scale",
+      "name": "Ecaille Spé.",
+      "names": {
+        "fr": "Ecaille Spé."
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "forecast",
+      "name": "Météo",
+      "names": {
+        "fr": "Météo"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "color_change",
+      "name": "Déguisement",
+      "names": {
+        "fr": "Déguisement"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "ice_body",
+      "name": "Corps Gel",
+      "names": {
+        "fr": "Corps Gel"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "drizzle",
+      "name": "Crachin",
+      "names": {
+        "fr": "Crachin"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "drought",
+      "name": "Sécheresse",
+      "names": {
+        "fr": "Sécheresse"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "air_lock",
+      "name": "Air Lock",
+      "names": {
+        "fr": "Air Lock"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "unaware",
+      "name": "Inconscient",
+      "names": {
+        "fr": "Inconscient"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "honey_gather",
+      "name": "Cherche Miel",
+      "names": {
+        "fr": "Cherche Miel"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "flower_gift",
+      "name": "Don Floral",
+      "names": {
+        "fr": "Don Floral"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "storm_drain",
+      "name": "Lavabo",
+      "names": {
+        "fr": "Lavabo"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "aftermath",
+      "name": "Boom Final",
+      "names": {
+        "fr": "Boom Final"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "unburden",
+      "name": "Délestage",
+      "names": {
+        "fr": "Délestage"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "klutz",
+      "name": "Maladresse",
+      "names": {
+        "fr": "Maladresse"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "heatproof",
+      "name": "Ignifuge",
+      "names": {
+        "fr": "Ignifuge"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "snow_warning",
+      "name": "Alerte Neige",
+      "names": {
+        "fr": "Alerte Neige"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "motor_drive",
+      "name": "Motorisé",
+      "names": {
+        "fr": "Motorisé"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "slow_start",
+      "name": "Début Calme",
+      "names": {
+        "fr": "Début Calme"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "bad_dreams",
+      "name": "Mauvais Rêve",
+      "names": {
+        "fr": "Mauvais Rêve"
+      },
+      "source": "heartgold-fr-rom"
+    },
+    {
+      "id": "multitype",
+      "name": "Multi-Type",
+      "names": {
+        "fr": "Multi-Type"
+      },
+      "source": "heartgold-fr-rom"
+    }
+  ],
+  "kind": "pokemon_catalog",
+  "meta": {
+    "description": "HeartGold — données nécessaires à Bourg Geon et Route 29.",
+    "notes": [
+      "Learnsets natifs complets des huit espèces du périmètre ; méthodes de combat du moteur générique."
+    ],
+    "sourcePriority": [
+      "heartgold-fr-rom",
+      "pret-pokeheartgold"
+    ]
+  },
+  "schemaVersion": 1
+}

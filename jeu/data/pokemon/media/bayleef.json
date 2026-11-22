@@ -1,0 +1,24 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 2,
+  "speciesId": "bayleef",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backAnimated": "assets/pokemon/gen5-fallback/bayleef/back-animated.gif",
+      "backShinyAnimated": "assets/pokemon/gen5-fallback/bayleef/back-shiny-animated.gif",
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/bayleef/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/bayleef/back.png",
+      "cry": "assets/pokemon/battle-cries/178fa2a85b0c9b30e515832b3e98062604fca5edc82961096e10fbc27b1ec130.wav",
+      "frontAnimated": "assets/pokemon/gen5-fallback/bayleef/front-animated.gif",
+      "frontShinyAnimated": "assets/pokemon/gen5-fallback/bayleef/front-shiny-animated.gif",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/bayleef/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/bayleef/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/bayleef/icon.png",
+      "overworld": "assets/pokemon/overworld/bayleef/base/90899f817e0379edc8641255ce600ba14236c0bc1551857eb775521ad8473890.png",
+      "overworldShiny": "assets/pokemon/overworld/bayleef/base/9f9fe9f7f389497405357d7d1dca81455150df70c5f0e87d9b72edcdc26eb70f.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/bayleef/icon.png",
+      "portrait": null
+    }
+  }
+}

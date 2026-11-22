@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "burmy",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/burmy/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/burmy/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/3eaaca9bc514749272f42bb905a218daaa3e18987266bcf04709c50eb5d29ac7.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/burmy/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/burmy/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/burmy/icon.png",
+      "overworld": "assets/pokemon/hgss-api/burmy/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/burmy/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/burmy/icon.png",
+      "portrait": null
+    }
+  }
+}

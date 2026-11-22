@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "hitmontop",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/hitmontop/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/hitmontop/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/2162394df2abc33e181b14f733d36d8854afc41b15121e54183e30b9315035e6.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/hitmontop/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/hitmontop/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/hitmontop/icon.png",
+      "overworld": "assets/pokemon/hgss-api/hitmontop/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/hitmontop/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/hitmontop/icon.png",
+      "portrait": null
+    }
+  }
+}

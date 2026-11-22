@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "pure_power",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 40,
+    "bst": 280,
+    "def": 55,
+    "hp": 30,
+    "spa": 40,
+    "spd": 55,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "meditite",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "meditite",
+  "names": {
+    "fr": "Meditikka"
+  },
+  "nationalDex": 307,
+  "progression": {
+    "baseExp": 91,
+    "baseFriendship": 70,
+    "catchRate": 180,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "meditite",
+    "learnset": "meditite",
+    "media": "meditite"
+  },
+  "schemaVersion": 1,
+  "slug": "meditite",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fighting",
+      "psychic"
+    ]
+  }
+}

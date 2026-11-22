@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "pachirisu",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/pachirisu/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/pachirisu/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/94e75c884cc3b81fd4ff057608bd2cc2c95b36157b2ddf4aacd513a3993b7df4.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/pachirisu/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/pachirisu/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/pachirisu/icon.png",
+      "overworld": "assets/pokemon/hgss-api/pachirisu/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/pachirisu/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/pachirisu/icon.png",
+      "portrait": null
+    }
+  }
+}

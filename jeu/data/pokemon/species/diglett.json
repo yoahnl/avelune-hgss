@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sand_veil",
+    "secondary": "arena_trap"
+  },
+  "baseStats": {
+    "atk": 55,
+    "bst": 265,
+    "def": 25,
+    "hp": 10,
+    "spa": 35,
+    "spd": 45,
+    "spe": 95
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "diglett",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "diglett",
+  "names": {
+    "fr": "Taupiqueur"
+  },
+  "nationalDex": 50,
+  "progression": {
+    "baseExp": 81,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "diglett",
+    "learnset": "diglett",
+    "media": "diglett"
+  },
+  "schemaVersion": 1,
+  "slug": "diglett",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ground"
+    ]
+  }
+}

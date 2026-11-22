@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "damp",
+    "secondary": "water_absorb"
+  },
+  "baseStats": {
+    "atk": 45,
+    "bst": 210,
+    "def": 45,
+    "hp": 55,
+    "spa": 25,
+    "spd": 25,
+    "spe": 15
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 8.5
+  },
+  "forms": {
+    "baseFormId": "wooper",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "wooper",
+  "names": {
+    "fr": "Axoloto"
+  },
+  "nationalDex": 194,
+  "progression": {
+    "baseExp": 52,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "wooper",
+    "learnset": "wooper",
+    "media": "wooper"
+  },
+  "schemaVersion": 1,
+  "slug": "wooper",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "ground"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "mankey",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/mankey/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/mankey/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/b85b8e9bc6d98b12ee9f300fd9157c0ae1fb5c631252014c16268930ac3f24ba.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/mankey/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/mankey/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/mankey/icon.png",
+      "overworld": "assets/pokemon/hgss-api/mankey/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/mankey/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/mankey/icon.png",
+      "portrait": null
+    }
+  }
+}

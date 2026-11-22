@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "blaze",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 78,
+    "bst": 405,
+    "def": 52,
+    "hp": 64,
+    "spa": 78,
+    "spd": 52,
+    "spe": 81
+  },
+  "breeding": {
+    "eggGroups": [
+      "field",
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "monferno",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "monferno",
+  "names": {
+    "fr": "Chimpenfeu"
+  },
+  "nationalDex": 391,
+  "progression": {
+    "baseExp": 142,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "monferno",
+    "learnset": "monferno",
+    "media": "monferno"
+  },
+  "schemaVersion": 1,
+  "slug": "monferno",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  }
+}

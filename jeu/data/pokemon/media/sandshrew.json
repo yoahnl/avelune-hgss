@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "sandshrew",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/sandshrew/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/sandshrew/back.png",
+      "cry": "assets/pokemon/battle-cries/8754c9aa7b33305e17c4f735067144e5eeac99e9c6d88a748632479afbc14e4f.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/sandshrew/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/sandshrew/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/sandshrew/icon.png",
+      "overworld": "assets/pokemon/overworld/sandshrew/base/138936882b386ec4f5aabce2e58fca94dae565622f7ce6de8fd93137949132a6.png",
+      "overworldShiny": "assets/pokemon/overworld/sandshrew/base/42ac549e89fd0681f826940167904c924f0ae45453429dad541c5760c2eaa07b.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/sandshrew/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "poison_point",
+    "secondary": "rivalry"
+  },
+  "baseStats": {
+    "atk": 72,
+    "bst": 365,
+    "def": 57,
+    "hp": 61,
+    "spa": 55,
+    "spd": 55,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.0,
+      "male": 1.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "nidorino",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "nidorino",
+  "names": {
+    "fr": "Nidorino"
+  },
+  "nationalDex": 33,
+  "progression": {
+    "baseExp": 118,
+    "baseFriendship": 70,
+    "catchRate": 120,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "nidorino",
+    "learnset": "nidorino",
+    "media": "nidorino"
+  },
+  "schemaVersion": 1,
+  "slug": "nidorino",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "blaze",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 84,
+    "bst": 534,
+    "def": 78,
+    "hp": 78,
+    "spa": 109,
+    "spd": 85,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "charizard",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "charizard",
+  "names": {
+    "fr": "Dracaufeu"
+  },
+  "nationalDex": 6,
+  "progression": {
+    "baseExp": 209,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "charizard",
+    "learnset": "charizard",
+    "media": "charizard"
+  },
+  "schemaVersion": 1,
+  "slug": "charizard",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fire",
+      "flying"
+    ]
+  }
+}

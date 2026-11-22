@@ -1,0 +1,10 @@
+title: Start
+---
+Bonjour! Bienvenue au Centre Pokémon.
+Nous pouvons soigner vos Pokémon.
+Voulez-vous les soigner?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

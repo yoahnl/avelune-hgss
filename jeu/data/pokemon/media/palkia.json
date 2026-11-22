@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "palkia",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/palkia/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/palkia/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/ecbff9f465fd7c537fb7ce86ed01d0e7ca3d00347826e04e98550a628a445001.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/palkia/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/palkia/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/palkia/icon.png",
+      "overworld": "assets/pokemon/hgss-api/palkia/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/palkia/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/palkia/icon.png",
+      "portrait": null
+    }
+  }
+}

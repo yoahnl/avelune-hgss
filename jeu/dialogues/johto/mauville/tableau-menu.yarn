@@ -1,0 +1,16 @@
+title: Start
+---
+Tableau: Quel sujet voulez-vous lire?
+-> Poison
+    <<outcome 0>>
+-> Paralysie
+    <<outcome 1>>
+-> Sommeil
+    <<outcome 2>>
+-> Brûlure
+    <<outcome 3>>
+-> Gel
+    <<outcome 4>>
+-> QUITTER
+    <<outcome quit>>
+===

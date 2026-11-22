@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "tentacruel",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/tentacruel/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/tentacruel/back.png",
+      "cry": "assets/pokemon/battle-cries/9046b59b60f07312c40aa38b5bd665ec145193eedca3bd67debddef0ba361725.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/tentacruel/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/tentacruel/front.png",
+      "icon": "assets/pokemon/johto/revisites/tentacruel/icon.png",
+      "overworld": "assets/pokemon/overworld/tentacruel/base/653b65cce8720db9822ceabee0d29bb770901264725c4565f938690d4f479fa9.png",
+      "overworldShiny": "assets/pokemon/overworld/tentacruel/base/61a96e27a437e78b1e9eecc21a497cdb26c2f6db67886858210b63f93925fe6d.png",
+      "party": "assets/pokemon/johto/revisites/tentacruel/icon.png",
+      "portrait": null
+    }
+  }
+}

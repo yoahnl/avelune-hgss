@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "early_bird",
+    "secondary": "flash_fire"
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 330,
+    "def": 30,
+    "hp": 45,
+    "spa": 80,
+    "spd": 50,
+    "spe": 65
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "houndour",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "houndour",
+  "names": {
+    "fr": "Malosse"
+  },
+  "nationalDex": 228,
+  "progression": {
+    "baseExp": 114,
+    "baseFriendship": 35,
+    "catchRate": 120,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "houndour",
+    "learnset": "houndour",
+    "media": "houndour"
+  },
+  "schemaVersion": 1,
+  "slug": "houndour",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dark",
+      "fire"
+    ]
+  }
+}

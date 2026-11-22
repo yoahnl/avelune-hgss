@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "wynaut",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/wynaut/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/wynaut/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/5330cc78e6b031be0f95be5f11fba09b9b08413379234e76a564b2ebf04c650c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/wynaut/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/wynaut/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/wynaut/icon.png",
+      "overworld": "assets/pokemon/hgss-api/wynaut/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/wynaut/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/wynaut/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "mewtwo",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/mewtwo/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/mewtwo/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/cc50c5bbb3e8f9f578cf1a53c3eab808ad3ad5f4511e8661835a364c4da800cc.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/mewtwo/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/mewtwo/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/mewtwo/icon.png",
+      "overworld": "assets/pokemon/hgss-api/mewtwo/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/mewtwo/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/mewtwo/icon.png",
+      "portrait": null
+    }
+  }
+}

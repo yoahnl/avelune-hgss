@@ -1,0 +1,7 @@
+title: Start
+---
+Professeur Orme: Allô, {{ player_name }}?
+Professeur Orme: On a découvert quelque chose!
+Professeur Orme: Je ne peux pas t’en dire plus, mais je voudrais te confier l’Oeuf.
+Professeur Orme: Va voir mon assistant à la Boutique Pokémon de Mauville. Il te le remettra!
+===

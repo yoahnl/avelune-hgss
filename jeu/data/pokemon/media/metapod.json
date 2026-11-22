@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "metapod",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/route-30/metapod/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-30/metapod/back.png",
+      "cry": "assets/audio/pokemon/metapod/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/route-30/metapod/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-30/metapod/front.png",
+      "icon": "assets/pokemon/johto/route-30/metapod/icon.png",
+      "overworld": "assets/pokemon/overworld/metapod/base/8797646ec112faf18f96602d052963abd7cbcb1c8317b0a7c304621e46d1ff3e.png",
+      "party": "assets/pokemon/johto/route-30/metapod/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/metapod/base/416c473468427089a6fb89583418790b589da4b63a0c9cbafa8e456cf2eb3f53.png"
+    }
+  }
+}

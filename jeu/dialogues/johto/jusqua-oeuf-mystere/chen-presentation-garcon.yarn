@@ -1,0 +1,8 @@
+title: Start
+---
+Chen: Bien! Je suis le Professeur Chen, chercheur en Pokémon!
+Tu t’appelles donc {{ player_name }}?
+J’étais venu rendre visite à mon ami M. Pokémon, et voilà que le jeune Orme
+me dit qu’il venait d’envoyer quelqu’un!
+Je suis donc resté pour t’attendre.
+===

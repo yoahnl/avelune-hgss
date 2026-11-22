@@ -1,0 +1,128 @@
+{
+  "defaultFormId": "a",
+  "schemaVersion": 1,
+  "speciesId": "unown",
+  "variants": {
+    "a": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-a/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-a/back.png",
+      "cry": "assets/pokemon/battle-cries/a612466d47dc36110722be932668020660f7246ef1749af571cf6c62b564c1bb.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-a/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-a/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-a/icon.png",
+      "overworld": "assets/pokemon/overworld/unown/a/0ef6b8129d4b9bc611b204cec4630d49e7e12ae023b87f753d082f84f4c3bde1.png",
+      "overworldShiny": "assets/pokemon/overworld/unown/a/11d583a1f051768a60885f7a74a801e40b4765c4ce76f15b8161554ed729b455.png",
+      "party": "assets/pokemon/johto/revisites/unown-a/icon.png",
+      "portrait": null
+    },
+    "b": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-b/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-b/back.png",
+      "cry": null,
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-b/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-b/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-b/icon.png",
+      "overworld": null,
+      "party": "assets/pokemon/johto/revisites/unown-b/icon.png",
+      "portrait": null
+    },
+    "c": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-c/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-c/back.png",
+      "cry": null,
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-c/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-c/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-c/icon.png",
+      "overworld": null,
+      "party": "assets/pokemon/johto/revisites/unown-c/icon.png",
+      "portrait": null
+    },
+    "d": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-d/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-d/back.png",
+      "cry": null,
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-d/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-d/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-d/icon.png",
+      "overworld": null,
+      "party": "assets/pokemon/johto/revisites/unown-d/icon.png",
+      "portrait": null
+    },
+    "e": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-e/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-e/back.png",
+      "cry": null,
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-e/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-e/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-e/icon.png",
+      "overworld": null,
+      "party": "assets/pokemon/johto/revisites/unown-e/icon.png",
+      "portrait": null
+    },
+    "f": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-f/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-f/back.png",
+      "cry": null,
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-f/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-f/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-f/icon.png",
+      "overworld": null,
+      "party": "assets/pokemon/johto/revisites/unown-f/icon.png",
+      "portrait": null
+    },
+    "g": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-g/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-g/back.png",
+      "cry": null,
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-g/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-g/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-g/icon.png",
+      "overworld": null,
+      "party": "assets/pokemon/johto/revisites/unown-g/icon.png",
+      "portrait": null
+    },
+    "h": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-h/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-h/back.png",
+      "cry": null,
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-h/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-h/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-h/icon.png",
+      "overworld": null,
+      "party": "assets/pokemon/johto/revisites/unown-h/icon.png",
+      "portrait": null
+    },
+    "i": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-i/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-i/back.png",
+      "cry": null,
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-i/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-i/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-i/icon.png",
+      "overworld": null,
+      "party": "assets/pokemon/johto/revisites/unown-i/icon.png",
+      "portrait": null
+    },
+    "j": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/unown-j/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/unown-j/back.png",
+      "cry": null,
+      "frontShinyStatic": "assets/pokemon/johto/revisites/unown-j/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/unown-j/front.png",
+      "icon": "assets/pokemon/johto/revisites/unown-j/icon.png",
+      "overworld": null,
+      "party": "assets/pokemon/johto/revisites/unown-j/icon.png",
+      "portrait": null
+    }
+  }
+}

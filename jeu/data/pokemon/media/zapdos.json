@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "zapdos",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/zapdos/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/zapdos/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/337e0c87db28aa7cd4602e7c04bc7e4bec7a057400f18b0611033bc2b8c35a5f.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/zapdos/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/zapdos/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/zapdos/icon.png",
+      "overworld": "assets/pokemon/hgss-api/zapdos/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/zapdos/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/zapdos/icon.png",
+      "portrait": null
+    }
+  }
+}

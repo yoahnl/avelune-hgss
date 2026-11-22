@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "octillery",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/octillery/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/octillery/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/9ceee8fbd436076db0eff64cfd299d91146e001d76e0cd4f28c8da04a1c4b43f.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/octillery/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/octillery/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/octillery/icon.png",
+      "overworld": "assets/pokemon/hgss-api/octillery/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/octillery/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/octillery/icon.png",
+      "portrait": null
+    }
+  }
+}

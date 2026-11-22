@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "thick_fat",
+    "secondary": "own_tempo"
+  },
+  "baseStats": {
+    "atk": 82,
+    "bst": 452,
+    "def": 64,
+    "hp": 71,
+    "spa": 64,
+    "spd": 59,
+    "spe": 112
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.75,
+      "male": 0.25
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "purugly",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "purugly",
+  "names": {
+    "fr": "Chaffreux"
+  },
+  "nationalDex": 432,
+  "progression": {
+    "baseExp": 183,
+    "baseFriendship": 70,
+    "catchRate": 75,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "purugly",
+    "learnset": "purugly",
+    "media": "purugly"
+  },
+  "schemaVersion": 1,
+  "slug": "purugly",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal"
+    ]
+  }
+}

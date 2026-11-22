@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "mantine",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/mantine/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/mantine/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/a15a1e52d1d231257cfa932907d5a943affb7e39882f0db6cac56fe7e8120735.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/mantine/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/mantine/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/mantine/icon.png",
+      "overworld": "assets/pokemon/hgss-api/mantine/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/mantine/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/mantine/icon.png",
+      "portrait": null
+    }
+  }
+}

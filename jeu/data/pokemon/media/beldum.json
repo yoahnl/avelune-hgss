@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "beldum",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/beldum/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/beldum/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/85a8fc01bc6fa7cc129b928f93b8806434a48e00e7256a50bd140cd5cc1d5cdd.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/beldum/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/beldum/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/beldum/icon.png",
+      "overworld": "assets/pokemon/hgss-api/beldum/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/beldum/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/beldum/icon.png",
+      "portrait": null
+    }
+  }
+}

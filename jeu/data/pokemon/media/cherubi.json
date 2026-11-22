@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "cherubi",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/cherubi/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/cherubi/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/60837935fc01c4d6345d76ed08deba042938d2f9481b08047b6c8d5e4a708465.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/cherubi/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/cherubi/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/cherubi/icon.png",
+      "overworld": "assets/pokemon/hgss-api/cherubi/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/cherubi/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/cherubi/icon.png",
+      "portrait": null
+    }
+  }
+}

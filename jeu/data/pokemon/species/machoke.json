@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "guts",
+    "secondary": "no_guard"
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 405,
+    "def": 70,
+    "hp": 80,
+    "spa": 50,
+    "spd": 60,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [
+      "human_like"
+    ],
+    "genderRatio": {
+      "female": 0.25,
+      "male": 0.75
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "machoke",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "machoke",
+  "names": {
+    "fr": "Machopeur"
+  },
+  "nationalDex": 67,
+  "progression": {
+    "baseExp": 146,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "machoke",
+    "learnset": "machoke",
+    "media": "machoke"
+  },
+  "schemaVersion": 1,
+  "slug": "machoke",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "fighting"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "cleffa",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/cleffa/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/cleffa/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/02d123b13d695de8dd8b1c906672a6e278e7dfe9b14ca9d74669e4a07c7c78f7.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/cleffa/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/cleffa/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/cleffa/icon.png",
+      "overworld": "assets/pokemon/hgss-api/cleffa/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/cleffa/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/cleffa/icon.png",
+      "portrait": null
+    }
+  }
+}

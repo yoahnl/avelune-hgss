@@ -1,0 +1,78 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "overgrow",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 49,
+    "bst": 318,
+    "def": 65,
+    "hp": 45,
+    "spa": 49,
+    "spd": 65,
+    "spe": 45
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.125,
+      "male": 0.875
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 6.4
+  },
+  "forms": {
+    "baseFormId": "chikorita",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": true,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "chikorita",
+  "names": {
+    "fr": "Germignon"
+  },
+  "nationalDex": 152,
+  "progression": {
+    "baseExp": 64,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "chikorita",
+    "learnset": "chikorita",
+    "media": "chikorita"
+  },
+  "schemaVersion": 1,
+  "slug": "chikorita",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:route29-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass"
+    ]
+  }
+}

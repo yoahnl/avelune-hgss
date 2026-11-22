@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "horsea",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/horsea/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/horsea/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/94c96d6283dad29e52e44e0ba10e4babe0a47bbb0f5a80636afd2f3c9b6ad0ef.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/horsea/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/horsea/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/horsea/icon.png",
+      "overworld": "assets/pokemon/hgss-api/horsea/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/horsea/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/horsea/icon.png",
+      "portrait": null
+    }
+  }
+}

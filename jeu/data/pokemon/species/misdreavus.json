@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 60,
+    "bst": 435,
+    "def": 60,
+    "hp": 60,
+    "spa": 85,
+    "spd": 85,
+    "spe": 85
+  },
+  "breeding": {
+    "eggGroups": [
+      "amorphous"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 25
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "misdreavus",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "misdreavus",
+  "names": {
+    "fr": "Feuforeve"
+  },
+  "nationalDex": 200,
+  "progression": {
+    "baseExp": 147,
+    "baseFriendship": 35,
+    "catchRate": 45,
+    "growthRateId": "fast"
+  },
+  "refs": {
+    "evolution": "misdreavus",
+    "learnset": "misdreavus",
+    "media": "misdreavus"
+  },
+  "schemaVersion": 1,
+  "slug": "misdreavus",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ghost"
+    ]
+  }
+}

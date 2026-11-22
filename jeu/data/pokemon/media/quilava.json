@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "quilava",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/quilava/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/ecorcia-chapitre7/quilava/back.png",
+      "cry": "assets/pokemon/battle-cries/2d13a5f9bb8cfb5f4b44236daafdddec5de4eb8efce4ec8e37fa88b1286e0f76.wav",
+      "frontShinyStatic": "assets/pokemon/johto/ecorcia-chapitre7/quilava/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/ecorcia-chapitre7/quilava/front.png",
+      "icon": "assets/pokemon/johto/ecorcia-chapitre7/quilava/icon.png",
+      "overworld": "assets/pokemon/overworld/quilava/base/d8f9505f6f12608bbd5c5254c63174737625ba84c4c8d29e41bf43c1183a51db.png",
+      "overworldShiny": "assets/pokemon/overworld/quilava/base/863a4a681e677d41ec90f41b7ca3409b37a44dab35b2e0981787ec96653e21eb.png",
+      "party": "assets/pokemon/johto/ecorcia-chapitre7/quilava/icon.png",
+      "portrait": null
+    }
+  }
+}

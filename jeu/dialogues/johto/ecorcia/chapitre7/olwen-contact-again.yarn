@@ -1,0 +1,9 @@
+title: Start
+---
+Olwen: On échange nos numéros? Entre aventuriers, on a plein de
+Olwen: choses à se dire!
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

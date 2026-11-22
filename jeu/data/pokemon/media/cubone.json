@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "cubone",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/cubone/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/cubone/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/cccc953c0a00ee0830a2afb05983d78f3b3c00e7334161a00f05eb0b9b3da83e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/cubone/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/cubone/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/cubone/icon.png",
+      "overworld": "assets/pokemon/hgss-api/cubone/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/cubone/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/cubone/icon.png",
+      "portrait": null
+    }
+  }
+}

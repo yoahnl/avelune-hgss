@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "insomnia",
+    "secondary": "super_luck"
+  },
+  "baseStats": {
+    "atk": 85,
+    "bst": 405,
+    "def": 42,
+    "hp": 60,
+    "spa": 85,
+    "spd": 42,
+    "spe": 91
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "murkrow",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "murkrow",
+  "names": {
+    "fr": "Cornebre"
+  },
+  "nationalDex": 198,
+  "progression": {
+    "baseExp": 107,
+    "baseFriendship": 35,
+    "catchRate": 30,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "murkrow",
+    "learnset": "murkrow",
+    "media": "murkrow"
+  },
+  "schemaVersion": 1,
+  "slug": "murkrow",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "dark",
+      "flying"
+    ]
+  }
+}

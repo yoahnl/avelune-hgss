@@ -1,0 +1,8 @@
+title: Start
+---
+Petite-fille de Fargas: Tu veux le téléphone de mon papy, hein?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

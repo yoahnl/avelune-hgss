@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "eevee",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/revisites/eevee/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/revisites/eevee/back.png",
+      "cry": "assets/pokemon/battle-cries/7cdd5fb6b3e08060f354a184076220de79d275af3e4aee0e974087902da4fa20.wav",
+      "frontShinyStatic": "assets/pokemon/johto/revisites/eevee/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/revisites/eevee/front.png",
+      "icon": "assets/pokemon/johto/revisites/eevee/icon.png",
+      "overworld": "assets/pokemon/overworld/eevee/base/e3abfa10de03f84511644aad6f88a20dc01da7d1b1e82802f76c524e7a823180.png",
+      "overworldShiny": "assets/pokemon/overworld/eevee/base/ecce705e6eeeffd5c477f189fc0489cd6208be7f9277dca0e3f3eb2e36024d12.png",
+      "party": "assets/pokemon/johto/revisites/eevee/icon.png",
+      "portrait": null
+    }
+  }
+}

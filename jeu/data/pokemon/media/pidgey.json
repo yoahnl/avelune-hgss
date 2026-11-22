@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "pidgey",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/route-29/pidgey/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-29/pidgey/back.png",
+      "cry": "assets/audio/pokemon/pidgey/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/route-29/pidgey/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-29/pidgey/front.png",
+      "icon": "assets/pokemon/johto/route-29/pidgey/icon.png",
+      "overworld": "assets/pokemon/overworld/pidgey/base/a761197373f35bdafa0c3e8a14f00c744448e72e1ac0e1efa2fb35cf79a12430.png",
+      "party": "assets/pokemon/johto/route-29/pidgey/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/pidgey/base/24431b32fa958b32fe00baa4a2a42b062dd97462d5bdccf3eb934c693bbf2335.png"
+    }
+  }
+}

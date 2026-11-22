@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "lightningrod",
+    "secondary": "rock_head"
+  },
+  "baseStats": {
+    "atk": 85,
+    "bst": 345,
+    "def": 95,
+    "hp": 80,
+    "spa": 30,
+    "spd": 30,
+    "spe": 25
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "rhyhorn",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "rhyhorn",
+  "names": {
+    "fr": "Rhinocorne"
+  },
+  "nationalDex": 111,
+  "progression": {
+    "baseExp": 135,
+    "baseFriendship": 70,
+    "catchRate": 120,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "rhyhorn",
+    "learnset": "rhyhorn",
+    "media": "rhyhorn"
+  },
+  "schemaVersion": 1,
+  "slug": "rhyhorn",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ground",
+      "rock"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "lugia",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/lugia/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/lugia/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/85227af25a5c0a5b121c7f65e46f6ff034e0ef061d7511050bcf84b3df3f76dd.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/lugia/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/lugia/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/lugia/icon.png",
+      "overworld": "assets/pokemon/hgss-api/lugia/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/lugia/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/lugia/icon.png",
+      "portrait": null
+    }
+  }
+}

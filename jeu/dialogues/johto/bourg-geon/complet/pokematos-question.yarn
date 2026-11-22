@@ -1,0 +1,8 @@
+title: Start
+---
+Et ça sert aussi à téléphoner! Tu te souviens comment ça marche?
+-> Oui
+    <<outcome yes>>
+-> Non
+    <<outcome no>>
+===

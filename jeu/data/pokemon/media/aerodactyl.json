@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "aerodactyl",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/aerodactyl/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/aerodactyl/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/1f3325cf9dff8f7c81b110ffccc40c9d263ab5176206a19a734fbc07fd2000e3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/aerodactyl/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/aerodactyl/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/aerodactyl/icon.png",
+      "overworld": "assets/pokemon/hgss-api/aerodactyl/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/aerodactyl/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/aerodactyl/icon.png",
+      "portrait": null
+    }
+  }
+}

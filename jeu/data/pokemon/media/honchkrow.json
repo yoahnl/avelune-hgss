@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "honchkrow",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/honchkrow/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/honchkrow/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/517be6e5abc0a6d58f31792e7c011f1cb6081ae6e7a5717929463c8889865bdb.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/honchkrow/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/honchkrow/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/honchkrow/icon.png",
+      "overworld": "assets/pokemon/hgss-api/honchkrow/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/honchkrow/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/honchkrow/icon.png",
+      "portrait": null
+    }
+  }
+}

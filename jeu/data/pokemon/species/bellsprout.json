@@ -1,0 +1,79 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "chlorophyll",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 75,
+    "bst": 300,
+    "def": 35,
+    "hp": 50,
+    "spa": 70,
+    "spd": 30,
+    "spe": 40
+  },
+  "breeding": {
+    "eggGroups": [],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": 4.0
+  },
+  "forms": {
+    "baseFormId": "bellsprout",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "bellsprout",
+  "names": {
+    "fr": "Chetiflor"
+  },
+  "nationalDex": 69,
+  "progression": {
+    "baseExp": 84,
+    "baseFriendship": 70,
+    "catchRate": 255,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "bellsprout",
+    "learnset": "bellsprout",
+    "media": "bellsprout"
+  },
+  "schemaVersion": 1,
+  "slug": "bellsprout",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:route29-personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "grass",
+      "poison"
+    ]
+  }
+}

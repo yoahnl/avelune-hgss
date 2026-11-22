@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "magnet_pull",
+    "secondary": "sturdy"
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 535,
+    "def": 115,
+    "hp": 70,
+    "spa": 130,
+    "spd": 90,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "magnezone",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "magnezone",
+  "names": {
+    "fr": "Magnezone"
+  },
+  "nationalDex": 462,
+  "progression": {
+    "baseExp": 211,
+    "baseFriendship": 70,
+    "catchRate": 30,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "magnezone",
+    "learnset": "magnezone",
+    "media": "magnezone"
+  },
+  "schemaVersion": 1,
+  "slug": "magnezone",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "electric",
+      "steel"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "typhlosion",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/typhlosion/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/typhlosion/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/97ad40e8887c7dcfd3cba5adc9ddeac14a7f997ad87b21596b25629facc3b487.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/typhlosion/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/typhlosion/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/typhlosion/icon.png",
+      "overworld": "assets/pokemon/hgss-api/typhlosion/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/typhlosion/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/typhlosion/icon.png",
+      "portrait": null
+    }
+  }
+}

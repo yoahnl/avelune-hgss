@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "sharpedo",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/sharpedo/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/sharpedo/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d8b869867ce178267e9e548b2f21466ecbe5bd4b119159313a08aa105862c65a.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/sharpedo/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/sharpedo/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/sharpedo/icon.png",
+      "overworld": "assets/pokemon/hgss-api/sharpedo/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/sharpedo/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/sharpedo/icon.png",
+      "portrait": null
+    }
+  }
+}

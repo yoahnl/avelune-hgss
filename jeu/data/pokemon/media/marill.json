@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "marill",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/johto/route-29/marill/back-shiny.png",
+      "backStatic": "assets/pokemon/johto/route-29/marill/back.png",
+      "cry": "assets/audio/pokemon/marill/cry.wav",
+      "frontShinyStatic": "assets/pokemon/johto/route-29/marill/front-shiny.png",
+      "frontStatic": "assets/pokemon/johto/route-29/marill/front.png",
+      "icon": "assets/pokemon/johto/route-29/marill/icon.png",
+      "overworld": "assets/pokemon/overworld/marill/base/44198e096fa47c9543ef421bceac6f2631cd8e45c409f82e0775e5b69304a1a7.png",
+      "party": "assets/pokemon/johto/route-29/marill/icon.png",
+      "portrait": null,
+      "overworldShiny": "assets/pokemon/overworld/marill/base/80c6ad5e8f560ff6105f6c0db427fd804c22c3ca1b103c32f3be9d737b1d2ae0.png"
+    }
+  }
+}

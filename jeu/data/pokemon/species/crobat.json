@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "inner_focus",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 535,
+    "def": 80,
+    "hp": 85,
+    "spa": 70,
+    "spd": 80,
+    "spe": 130
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "crobat",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "crobat",
+  "names": {
+    "fr": "Nostenfer"
+  },
+  "nationalDex": 169,
+  "progression": {
+    "baseExp": 204,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "crobat",
+    "learnset": "crobat",
+    "media": "crobat"
+  },
+  "schemaVersion": 1,
+  "slug": "crobat",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "poison",
+      "flying"
+    ]
+  }
+}

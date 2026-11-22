@@ -1,0 +1,82 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "water_absorb",
+    "secondary": "shell_armor"
+  },
+  "baseStats": {
+    "atk": 85,
+    "bst": 535,
+    "def": 80,
+    "hp": 130,
+    "spa": 85,
+    "spd": 95,
+    "spe": 60
+  },
+  "breeding": {
+    "eggGroups": [
+      "monster",
+      "water_1"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 40
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "lapras",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "lapras",
+  "names": {
+    "fr": "Lokhlass"
+  },
+  "nationalDex": 131,
+  "progression": {
+    "baseExp": 219,
+    "baseFriendship": 70,
+    "catchRate": 45,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "lapras",
+    "learnset": "lapras",
+    "media": "lapras"
+  },
+  "schemaVersion": 1,
+  "slug": "lapras",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:chapter7-revisits"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "water",
+      "ice"
+    ]
+  }
+}

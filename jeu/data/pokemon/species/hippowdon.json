@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "sand_stream",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 112,
+    "bst": 525,
+    "def": 118,
+    "hp": 108,
+    "spa": 68,
+    "spd": 72,
+    "spe": 47
+  },
+  "breeding": {
+    "eggGroups": [
+      "field"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 30
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "hippowdon",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 4,
+  "id": "hippowdon",
+  "names": {
+    "fr": "Hippodocus"
+  },
+  "nationalDex": 450,
+  "progression": {
+    "baseExp": 198,
+    "baseFriendship": 70,
+    "catchRate": 60,
+    "growthRateId": "slow"
+  },
+  "refs": {
+    "evolution": "hippowdon",
+    "learnset": "hippowdon",
+    "media": "hippowdon"
+  },
+  "schemaVersion": 1,
+  "slug": "hippowdon",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ground"
+    ]
+  }
+}

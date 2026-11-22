@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "spinda",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/spinda/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/spinda/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/3e2637840742e267d8d92be08c50c0e4367c2d381c47c2aaf5068a686ffdf6de.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/spinda/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/spinda/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/spinda/icon.png",
+      "overworld": "assets/pokemon/hgss-api/spinda/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/spinda/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/spinda/icon.png",
+      "portrait": null
+    }
+  }
+}

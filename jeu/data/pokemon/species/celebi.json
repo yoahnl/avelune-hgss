@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "natural_cure",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 100,
+    "bst": 600,
+    "def": 100,
+    "hp": 100,
+    "spa": 100,
+    "spd": 100,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "undiscovered"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 120
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": true,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "celebi",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 2,
+  "id": "celebi",
+  "names": {
+    "fr": "Celebi"
+  },
+  "nationalDex": 251,
+  "progression": {
+    "baseExp": 64,
+    "baseFriendship": 100,
+    "catchRate": 45,
+    "growthRateId": "medium_slow"
+  },
+  "refs": {
+    "evolution": "celebi",
+    "learnset": "celebi",
+    "media": "celebi"
+  },
+  "schemaVersion": 1,
+  "slug": "celebi",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "psychic",
+      "grass"
+    ]
+  }
+}

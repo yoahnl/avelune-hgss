@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "magneton",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/magneton/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/magneton/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/6c90bbab3aab5c140b661a2a2d6177a0484a3f5ee974adb4921d476fcb150051.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/magneton/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/magneton/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/magneton/icon.png",
+      "overworld": "assets/pokemon/hgss-api/magneton/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/magneton/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/magneton/icon.png",
+      "portrait": null
+    }
+  }
+}

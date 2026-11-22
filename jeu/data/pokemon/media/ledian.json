@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "ledian",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/ledian/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/ledian/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/d65a3c0328babb1eb3fc718c1be5a89da51de16f1113d089f3c362daff4283b3.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/ledian/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/ledian/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/ledian/icon.png",
+      "overworld": "assets/pokemon/hgss-api/ledian/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/ledian/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/ledian/icon.png",
+      "portrait": null
+    }
+  }
+}

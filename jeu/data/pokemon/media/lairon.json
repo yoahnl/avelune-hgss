@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "lairon",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/lairon/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/lairon/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/8a209580d675453ee5bf43b1ad998dd7e61dadd495d42a3f460b5f373e1c1266.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/lairon/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/lairon/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/lairon/icon.png",
+      "overworld": "assets/pokemon/hgss-api/lairon/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/lairon/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/lairon/icon.png",
+      "portrait": null
+    }
+  }
+}

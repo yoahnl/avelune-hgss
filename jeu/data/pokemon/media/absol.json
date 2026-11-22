@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "absol",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/absol/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/absol/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/78a99415d2f037d0bcb5e4bde10cc001003ddc23e409a4aeba9bca432fea1410.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/absol/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/absol/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/absol/icon.png",
+      "overworld": "assets/pokemon/hgss-api/absol/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/absol/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/absol/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "rhyperior",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/rhyperior/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/rhyperior/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/44623259fa49fa6241e800db3f449e384e2b2b23821bb97019bf5a84bdcd3003.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/rhyperior/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/rhyperior/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/rhyperior/icon.png",
+      "overworld": "assets/pokemon/hgss-api/rhyperior/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/rhyperior/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/rhyperior/icon.png",
+      "portrait": null
+    }
+  }
+}

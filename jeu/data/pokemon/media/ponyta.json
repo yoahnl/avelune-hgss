@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "ponyta",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/ponyta/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/ponyta/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/cd1848107d42459d6f946d0fb8b726027b09cbb742c3d910c63c7c6e978f375c.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/ponyta/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/ponyta/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/ponyta/icon.png",
+      "overworld": "assets/pokemon/hgss-api/ponyta/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/ponyta/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/ponyta/icon.png",
+      "portrait": null
+    }
+  }
+}

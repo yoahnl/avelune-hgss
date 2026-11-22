@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "mudkip",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/mudkip/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/mudkip/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/0e2077907f2c63c20bf1eb16bddc847a0b7f7b6000faea3ef3c5cec2b562b256.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/mudkip/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/mudkip/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/mudkip/icon.png",
+      "overworld": "assets/pokemon/hgss-api/mudkip/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/mudkip/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/mudkip/icon.png",
+      "portrait": null
+    }
+  }
+}

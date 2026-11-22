@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "celebi",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/celebi/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/celebi/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/5fdbeb37d815c20cc9328377cd0e5689b59ae88ad26616b770fe9946354d738e.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/celebi/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/celebi/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/celebi/icon.png",
+      "overworld": "assets/pokemon/hgss-api/celebi/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/celebi/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/celebi/icon.png",
+      "portrait": null
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "levitate",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 70,
+    "bst": 500,
+    "def": 105,
+    "hp": 60,
+    "spa": 70,
+    "spd": 120,
+    "spe": 75
+  },
+  "breeding": {
+    "eggGroups": [
+      "mineral"
+    ],
+    "genderRatio": {
+      "genderless": 1.0
+    },
+    "hatchCycles": 20
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "claydol",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 3,
+  "id": "claydol",
+  "names": {
+    "fr": "Kaorine"
+  },
+  "nationalDex": 344,
+  "progression": {
+    "baseExp": 189,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "claydol",
+    "learnset": "claydol",
+    "media": "claydol"
+  },
+  "schemaVersion": 1,
+  "slug": "claydol",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "ground",
+      "psychic"
+    ]
+  }
+}

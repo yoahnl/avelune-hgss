@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "illumise",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/illumise/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/illumise/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/31f543e3cf7f440974eefe23bcb19ee914e52bf0e8ffeac5b60d5d1052b06ef9.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/illumise/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/illumise/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/illumise/icon.png",
+      "overworld": "assets/pokemon/hgss-api/illumise/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/illumise/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/illumise/icon.png",
+      "portrait": null
+    }
+  }
+}

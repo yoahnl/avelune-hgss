@@ -1,0 +1,48 @@
+{
+  "egg": [],
+  "event": [],
+  "hm": [],
+  "levelUp": [
+    {
+      "level": 1,
+      "moveId": "sing",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "disable",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "defense_curl",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "level": 1,
+      "moveId": "double_slap",
+      "source": "heartgold-fr-rom",
+      "versionGroup": "heartgold-soulsilver"
+    }
+  ],
+  "relearnMoves": [
+    "sing",
+    "disable",
+    "defense_curl",
+    "double_slap"
+  ],
+  "schemaVersion": 1,
+  "speciesId": "wigglytuff",
+  "startingMoves": [
+    "sing",
+    "disable",
+    "defense_curl",
+    "double_slap"
+  ],
+  "tm": [],
+  "transfer": [],
+  "tutor": []
+}

@@ -1,0 +1,81 @@
+{
+  "abilities": {
+    "hidden": null,
+    "primary": "keen_eye",
+    "secondary": null
+  },
+  "baseStats": {
+    "atk": 90,
+    "bst": 442,
+    "def": 65,
+    "hp": 65,
+    "spa": 61,
+    "spd": 61,
+    "spe": 100
+  },
+  "breeding": {
+    "eggGroups": [
+      "flying"
+    ],
+    "genderRatio": {
+      "female": 0.5,
+      "male": 0.5
+    },
+    "hatchCycles": 15
+  },
+  "classification": {
+    "isBaby": false,
+    "isEnabledInProject": true,
+    "isLegendary": false,
+    "isMythical": false,
+    "isObtainable": true
+  },
+  "dexContent": {
+    "color": null,
+    "flavorText": null,
+    "heightM": null,
+    "weightKg": null
+  },
+  "forms": {
+    "baseFormId": "fearow",
+    "formId": "base",
+    "formName": null,
+    "isBaseForm": true,
+    "otherForms": []
+  },
+  "gameplayFlags": {
+    "giftOnly": false,
+    "starterEligible": false,
+    "tradeOnly": false
+  },
+  "genIntroduced": 1,
+  "id": "fearow",
+  "names": {
+    "fr": "Rapasdepic"
+  },
+  "nationalDex": 22,
+  "progression": {
+    "baseExp": 162,
+    "baseFriendship": 70,
+    "catchRate": 90,
+    "growthRateId": "medium_fast"
+  },
+  "refs": {
+    "evolution": "fearow",
+    "learnset": "fearow",
+    "media": "fearow"
+  },
+  "schemaVersion": 1,
+  "slug": "fearow",
+  "sourceMeta": {
+    "seedVersion": 1,
+    "seededBy": "heartgold-fr-rom:personal-learnset"
+  },
+  "speciesName": {},
+  "typing": {
+    "types": [
+      "normal",
+      "flying"
+    ]
+  }
+}

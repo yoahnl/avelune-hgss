@@ -1,0 +1,20 @@
+{
+  "defaultFormId": "base",
+  "schemaVersion": 1,
+  "speciesId": "ursaring",
+  "variants": {
+    "base": {
+      "animations": {},
+      "backShinyStatic": "assets/pokemon/hgss-api/ursaring/backShinyStatic.png",
+      "backStatic": "assets/pokemon/hgss-api/ursaring/backStatic.png",
+      "cry": "assets/pokemon/battle-cries/0e207015271b483c49468bb56105f5330100212f0aba6bb04004a156a4a41ddc.wav",
+      "frontShinyStatic": "assets/pokemon/hgss-api/ursaring/frontShinyStatic.png",
+      "frontStatic": "assets/pokemon/hgss-api/ursaring/frontStatic.png",
+      "icon": "assets/pokemon/hgss-api/ursaring/icon.png",
+      "overworld": "assets/pokemon/hgss-api/ursaring/overworld.png",
+      "overworldShiny": "assets/pokemon/hgss-api/ursaring/overworldShiny.png",
+      "party": "assets/pokemon/hgss-api/ursaring/icon.png",
+      "portrait": null
+    }
+  }
+}
