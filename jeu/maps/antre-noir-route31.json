@@ -65696,7 +65696,7 @@
           {
             "id": "antre-noir-route31-contour-28",
             "name": "Paroi rocheuse 29",
-            "blueprintId": "hgss-antre-contour-28",
+            "blueprintId": "hgss-antre-contour-30",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -65733,7 +65733,7 @@
                 "resolverVersion": 4,
                 "blueprintRevision": 1,
                 "components": {
-                  "blueprint": "sha256:8280d4cf34e818ec19eb9a7b146b755240fec115c96c7e9f282ba935f9b55334",
+                  "blueprint": "sha256:bcf06e6b7443442ad16ed2530878660d71fa2feacf9065129709f7022dc2a529",
                   "geometryAndSeed": "sha256:e92250e661cabcbdd0239eaef9147789aa7f5aa1fada8d0a498edbaaaa7394c5",
                   "parameters": "sha256:f747e723b160efc113cd27f3afd5bccd3c56cd109514c622b9329fbdf73b27f3",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
@@ -65741,7 +65741,7 @@
                   "mapContext": "sha256:8ae7ef44ea22bfa8466d20e0b2a4368ad3cab8c6539c70fdec50def076a40e09",
                   "visualSnapshots": "sha256:f4841423f26d2949ccdb2cf9660301820a1ace86edde6709119f1eeaae5a2e2d"
                 },
-                "inputFingerprint": "sha256:90f8d4b4b9b8f8b8cfacb5c76e9c475663ce023413edc8e8d4322612ea5d90aa",
+                "inputFingerprint": "sha256:88b120dc2d97dd4e3ea91b9935d070ab53b5ddd0c388abd6c2442de1718388fb",
                 "outputFingerprint": "sha256:6b90b54d49cf762bab198b2fe9b58a19c2e6862301f070a75c19c8906d0d9c10"
               },
               "targetsSpatialScene": true,
