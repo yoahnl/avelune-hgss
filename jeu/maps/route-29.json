@@ -28779,7 +28779,7 @@
         "encounter": {
           "encounterTableId": "hgss-r29-hautes-herbes",
           "encounterKind": "walk",
-          "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+          "battleBackgroundRelativePath": "assets/battle/backgrounds/johto-illustrations/route-29.png",
           "battleMusicPath": null,
           "encounterMusicPath": null,
           "battleTransitionIds": []

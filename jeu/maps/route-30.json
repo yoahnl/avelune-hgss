@@ -64476,7 +64476,7 @@
         "encounter": {
           "encounterTableId": "hgss-r30-hautes-herbes",
           "encounterKind": "walk",
-          "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+          "battleBackgroundRelativePath": "assets/battle/backgrounds/johto-illustrations/route-30.png",
           "battleMusicPath": null,
           "encounterMusicPath": null,
           "battleTransitionIds": []

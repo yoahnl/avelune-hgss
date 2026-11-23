@@ -103164,7 +103164,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-route-32-marche",
         "encounterKind": "walk",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/johto-illustrations/route-32.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
@@ -105834,7 +105834,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-route-32-canne",
         "encounterKind": "old_rod",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/johto-illustrations/route-32-rivage.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []

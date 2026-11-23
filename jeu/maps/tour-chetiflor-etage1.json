@@ -17710,7 +17710,7 @@
       "encounter": {
         "encounterTableId": "hgss-tour-chetiflor-etage1",
         "encounterKind": "walk",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/johto-illustrations/tour-chetiflor.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
