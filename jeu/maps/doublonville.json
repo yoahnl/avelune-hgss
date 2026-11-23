@@ -37786,7 +37786,7 @@
           {
             "id": "doublonville-contour-17",
             "name": "Contour natif — doublonville — 18",
-            "blueprintId": "hgss-contour-c03677e1cae30260535f",
+            "blueprintId": "hgss-contour-93c74020add3a0ad100d",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -37815,7 +37815,7 @@
                 "resolverVersion": 4,
                 "blueprintRevision": 2,
                 "components": {
-                  "blueprint": "sha256:c6ba10bec0c57fc0598f3a735770ddebd62eb85008ac830e76aa5fc8036f334e",
+                  "blueprint": "sha256:e8f2c8b736e2c7f581c8393fbce5fe3a3a3f3e023e320e2fbcf6d9598e54d792",
                   "geometryAndSeed": "sha256:0fa31c6e0db913a04f238a602b0c8919ec00e329d0ae56744b9acbd818dd5ca9",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
@@ -37823,7 +37823,7 @@
                   "mapContext": "sha256:40382922c0ede2da0f0cc4f52433507383697c4861a55775fcd169d9c51153ea",
                   "visualSnapshots": "sha256:87e8296a5d00e653996a5beba8842b5b34a015c5d2389c014ea256bd68926417"
                 },
-                "inputFingerprint": "sha256:d5596718625ab3d95b9eb9d90b8c001cdb7dd39eb93576e84df10b916a269a6e",
+                "inputFingerprint": "sha256:95f1ad3c1a377d1e29492bd452212e35748e988c04b7f33180b2ad7297e31fb1",
                 "outputFingerprint": "sha256:f6d2318238331c098aa8542143ad44615cd8f0bd5dda5fad8018121b3b107b96"
               },
               "targetsSpatialScene": true,
@@ -42259,7 +42259,7 @@
           {
             "id": "doublonville-contour-62",
             "name": "Contour natif — doublonville — 63",
-            "blueprintId": "hgss-contour-ec4ea28e582b108a36dc",
+            "blueprintId": "hgss-contour-d6012159180971e1772e",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -42288,7 +42288,7 @@
                 "resolverVersion": 4,
                 "blueprintRevision": 2,
                 "components": {
-                  "blueprint": "sha256:034ac08c0c00823ca8d931541305bc1ead25548d32be5d678177f6f705428af4",
+                  "blueprint": "sha256:03d6bc45d0794937cac157b523f410c3c708d7c01d657cd645f558c12169ddce",
                   "geometryAndSeed": "sha256:04ba885ccec7be37a2c3491e796718f2d5ff7ba9de6e52e40bb7d1328709950a",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
@@ -42296,7 +42296,7 @@
                   "mapContext": "sha256:40382922c0ede2da0f0cc4f52433507383697c4861a55775fcd169d9c51153ea",
                   "visualSnapshots": "sha256:c459666349ae5e2294117c1c5b6a273c42403a3ea22d7e7532286ab3e3b76b7e"
                 },
-                "inputFingerprint": "sha256:d58e60daae77b271685901ad04db7a8ba6ee50902b6ea895d7cd4db3b66655bc",
+                "inputFingerprint": "sha256:86be7a7f2b4b8841d30c97f93ef27b940963cdd6867c44630a6548eba288f7e2",
                 "outputFingerprint": "sha256:38b66e8106918aca98c5fd0b346db54ee3e752f3f9b6c9804d23f8623b482275"
               },
               "targetsSpatialScene": true,
@@ -42723,7 +42723,7 @@
           {
             "id": "doublonville-contour-70",
             "name": "Contour natif — doublonville — 71",
-            "blueprintId": "hgss-contour-b7f4a6a93530e0bd5410",
+            "blueprintId": "hgss-contour-d6012159180971e1772e",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -42752,7 +42752,7 @@
                 "resolverVersion": 4,
                 "blueprintRevision": 2,
                 "components": {
-                  "blueprint": "sha256:9dd50439ea9a37904940763da3f6562593bab346c4f68c544835f56f3ed579a4",
+                  "blueprint": "sha256:03d6bc45d0794937cac157b523f410c3c708d7c01d657cd645f558c12169ddce",
                   "geometryAndSeed": "sha256:adb9a8bb05af492242d1c299e941068f35ac74cb6a23de8fd88b6c0b10ef1358",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
@@ -42760,7 +42760,7 @@
                   "mapContext": "sha256:40382922c0ede2da0f0cc4f52433507383697c4861a55775fcd169d9c51153ea",
                   "visualSnapshots": "sha256:c459666349ae5e2294117c1c5b6a273c42403a3ea22d7e7532286ab3e3b76b7e"
                 },
-                "inputFingerprint": "sha256:57dd859007730aa6bdedc15e6110b551ebfe3781c2ead5e40fbab27eb98335c7",
+                "inputFingerprint": "sha256:8809efbdad33e72b73015316ef15fce0629f6b6abc29b85d3b4f9d0cde9b5732",
                 "outputFingerprint": "sha256:35c77a2e2f98cc86b5ce178d4c9caad985dbf3bb99b3f49a73254845aab4d863"
               },
               "targetsSpatialScene": true,
@@ -43477,7 +43477,7 @@
           {
             "id": "doublonville-contour-83",
             "name": "Contour natif — doublonville — 84",
-            "blueprintId": "hgss-contour-a5899f6b5e16ecbd5d19",
+            "blueprintId": "hgss-contour-d6012159180971e1772e",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -43506,7 +43506,7 @@
                 "resolverVersion": 4,
                 "blueprintRevision": 2,
                 "components": {
-                  "blueprint": "sha256:95d230ed99a02a8516c478093bce09051e3707571fb3f73069e9a6cce26148b0",
+                  "blueprint": "sha256:03d6bc45d0794937cac157b523f410c3c708d7c01d657cd645f558c12169ddce",
                   "geometryAndSeed": "sha256:6c27c9c3831531eb92da76cd077986266a23543b62eb323006ca8ed7ce0db45a",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
@@ -43514,7 +43514,7 @@
                   "mapContext": "sha256:40382922c0ede2da0f0cc4f52433507383697c4861a55775fcd169d9c51153ea",
                   "visualSnapshots": "sha256:c459666349ae5e2294117c1c5b6a273c42403a3ea22d7e7532286ab3e3b76b7e"
                 },
-                "inputFingerprint": "sha256:9e47488a3e20e7ee37d39cc7b537a429b27b2dd4735d8e7f9c41383981c6acbe",
+                "inputFingerprint": "sha256:eba3297f58edcbc60aee1c8e7bb72063288578bcfe5d51a95d196223ba6aaecf",
                 "outputFingerprint": "sha256:da6e8442f3c64a8247c05e03eb75df0809b4932f205d287ef11a6356b398633c"
               },
               "targetsSpatialScene": true,
