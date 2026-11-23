@@ -1,0 +1,1 @@
+{"schemaVersion":1,"owner":{"mapId":"mauville","unitKind":"sector","unitId":"mauville-foret-nord-ouest"},"references":[{"kind":"environmentPreset","id":"hgss-mauville-arbres-entiers"},{"kind":"model3d","id":"hgss-arbre-entier-foret-dense"},{"kind":"smartTileMaterial","id":"hgss-r29-herbe"},{"kind":"smartTilePreset","id":"hgss-r29-herbe-principale"}]}
