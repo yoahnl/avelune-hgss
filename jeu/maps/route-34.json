@@ -32403,18 +32403,18 @@
             "materialization": {
               "receipt": {
                 "resolverVersion": 4,
-                "blueprintRevision": 1,
+                "blueprintRevision": 2,
                 "components": {
-                  "blueprint": "sha256:a868ea47469ac4dc3d78e2a6e97420b471fc6f928c30f0e9c381568965de46f0",
+                  "blueprint": "sha256:da3f570819def19a57923107d435cbab7ef3b987bb83539c8142dd9297203839",
                   "geometryAndSeed": "sha256:c7b5f5852861a7624ce9544450dd83753685e194a406364d0ce6be315c8021bc",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
                   "keepOutRegions": "sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
                   "mapContext": "sha256:ae2799cf170e98a851c55f34f1c4bd931e4bf7821f95827f2dd51796a4fdb1b8",
-                  "visualSnapshots": "sha256:5e9050b28db14a5515d9cd996195a3f942ee2f8abaf20fe869ad1628153e4097"
+                  "visualSnapshots": "sha256:9288709da656df4120b2ff4b317b038fe2ef075d61a6139c3266ed50e0cf93cf"
                 },
-                "inputFingerprint": "sha256:be46e42ace91f5771c5535ee15daea4095ddc9f72010010b9276cad6ca5a77f8",
-                "outputFingerprint": "sha256:c1606848556b8daf18241684a83045d1473e9aae773fd9787ac18828f4440203"
+                "inputFingerprint": "sha256:0c94cb9698d2b082e91bed7ed71773f23e2b619dff7d8f9fa904ff112716f9bc",
+                "outputFingerprint": "sha256:2464933086ed4202f9014c6051fad311572345fe496ea86df693ceda7c810b3f"
               },
               "targetsSpatialScene": true,
               "spatialPlacements": [
@@ -32434,7 +32434,7 @@
           {
             "id": "route-34-contour-4",
             "name": "Contour natif — route-34 — 5",
-            "blueprintId": "hgss-contour-689793e890160fa906d3",
+            "blueprintId": "hgss-contour-6cc1871e9fea94e31f71",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -32461,18 +32461,18 @@
             "materialization": {
               "receipt": {
                 "resolverVersion": 4,
-                "blueprintRevision": 1,
+                "blueprintRevision": 2,
                 "components": {
-                  "blueprint": "sha256:5732af8ccd90f4eb9f73681be89534c14cbd0afa904634f6d1059b10938b8599",
+                  "blueprint": "sha256:da3f570819def19a57923107d435cbab7ef3b987bb83539c8142dd9297203839",
                   "geometryAndSeed": "sha256:9cb17a665287bf48139abdb718775167968071761d07c1be31ed1748c580b85e",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
                   "keepOutRegions": "sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
                   "mapContext": "sha256:ae2799cf170e98a851c55f34f1c4bd931e4bf7821f95827f2dd51796a4fdb1b8",
-                  "visualSnapshots": "sha256:5e9050b28db14a5515d9cd996195a3f942ee2f8abaf20fe869ad1628153e4097"
+                  "visualSnapshots": "sha256:9288709da656df4120b2ff4b317b038fe2ef075d61a6139c3266ed50e0cf93cf"
                 },
-                "inputFingerprint": "sha256:b04fd0537be3fcf92c9c05300ce8cb41e536eafecad9e05747e38097b28c5436",
-                "outputFingerprint": "sha256:711298699b74ab50e930e4f81954d0d248946171d2c73e47f00ce32c136d5db7"
+                "inputFingerprint": "sha256:1509fc77c8c070c0979c82a65b49e42a7be72dd3afee4462bf8dab467ccc499f",
+                "outputFingerprint": "sha256:3887912df13c22577d0eeb27e22d4193f6e56c8bf508e0d049d2fd9eb9a6f676"
               },
               "targetsSpatialScene": true,
               "spatialPlacements": [
@@ -32608,7 +32608,7 @@
           {
             "id": "route-34-contour-7",
             "name": "Contour natif — route-34 — 8",
-            "blueprintId": "hgss-contour-824bd052d1284070ac85",
+            "blueprintId": "hgss-contour-6cc1871e9fea94e31f71",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -32635,18 +32635,18 @@
             "materialization": {
               "receipt": {
                 "resolverVersion": 4,
-                "blueprintRevision": 1,
+                "blueprintRevision": 2,
                 "components": {
-                  "blueprint": "sha256:f6c5a5460ce30a6f3b3ef3d2cda4917cad515efdf4f7c37695c36c8a0a495d46",
+                  "blueprint": "sha256:da3f570819def19a57923107d435cbab7ef3b987bb83539c8142dd9297203839",
                   "geometryAndSeed": "sha256:007c51f5fe6bdd7d83a588ea8386b13bbb97f90091086fb30e05f3abf2e4cf86",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
                   "keepOutRegions": "sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
                   "mapContext": "sha256:ae2799cf170e98a851c55f34f1c4bd931e4bf7821f95827f2dd51796a4fdb1b8",
-                  "visualSnapshots": "sha256:2cbbdc5dd34d0b16aa57b6c3eab8ec9b8a4e30df339c777700aefdcaa8636f52"
+                  "visualSnapshots": "sha256:9288709da656df4120b2ff4b317b038fe2ef075d61a6139c3266ed50e0cf93cf"
                 },
-                "inputFingerprint": "sha256:2bb3186d9495d2500734fa6eb2fbd6849fdcb8f6386d25f7287cf4ac2eaabcd4",
-                "outputFingerprint": "sha256:2f4a937fee65ae785c2d2d325eb8a68ffe6c59267850b79d4af9dc0760373567"
+                "inputFingerprint": "sha256:1bef4363d42f29f9c7be2df6de23d6e8f5329d10a55c2c0b47be2bc42e8d74d9",
+                "outputFingerprint": "sha256:1119e48126655251a0c0117bab6ef9550b8bfbdd7a7953da5bc47de41a91bdea"
               },
               "targetsSpatialScene": true,
               "spatialPlacements": [
