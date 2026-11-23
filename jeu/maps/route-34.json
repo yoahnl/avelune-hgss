@@ -32550,7 +32550,7 @@
           {
             "id": "route-34-contour-6",
             "name": "Contour natif — route-34 — 7",
-            "blueprintId": "hgss-contour-d2b1c9aad251a4ea6e6d",
+            "blueprintId": "hgss-contour-6d84e3c74b2814247c41",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -32579,7 +32579,7 @@
                 "resolverVersion": 4,
                 "blueprintRevision": 1,
                 "components": {
-                  "blueprint": "sha256:227fc2c5e25403c61dda9f5ee700a4730a24357bf0d751630d6257cea6efe63a",
+                  "blueprint": "sha256:44870154d8c32b261b314b9253048a0aaae1048d7ce8a510df64164370c5b97f",
                   "geometryAndSeed": "sha256:58513f5b9efdad4500279f4046d4a20a50443510fd6300410b360fee127a6be5",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
@@ -32587,7 +32587,7 @@
                   "mapContext": "sha256:ae2799cf170e98a851c55f34f1c4bd931e4bf7821f95827f2dd51796a4fdb1b8",
                   "visualSnapshots": "sha256:ef68a13f4380ce3d3fbb803aa9093b0735e2320341e44facd38e38a7a396440e"
                 },
-                "inputFingerprint": "sha256:5e2b1de240d9ecb325c1acfb39e239fb85278a5e2b0c4d0e5db2e4439df82d1e",
+                "inputFingerprint": "sha256:fda1fd538a8891443c059aaf0fb5935de3d73c73e5fe5e249c934b38db490f75",
                 "outputFingerprint": "sha256:4eac1fad4e1e0d78e188b063720c6685c15d78ea79dc59a01259d985bd4e811c"
               },
               "targetsSpatialScene": true,

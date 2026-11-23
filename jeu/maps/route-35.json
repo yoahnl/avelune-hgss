@@ -23839,7 +23839,7 @@
           {
             "id": "route-35-lisieres-contour-1",
             "name": "Contour natif — route-35-lisieres — 2",
-            "blueprintId": "hgss-contour-40f93c776f1721a5f51d",
+            "blueprintId": "hgss-contour-6345de1736272219cd87",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -23883,7 +23883,7 @@
                 "resolverVersion": 4,
                 "blueprintRevision": 1,
                 "components": {
-                  "blueprint": "sha256:49835414a9e92e868492ed6287900b957e448094c7365d4efe9af284152465dd",
+                  "blueprint": "sha256:9fbe3cd1c02c45f4c782a486b7879a30f37ee742ed373e9d671f9a3f1c70ebbc",
                   "geometryAndSeed": "sha256:99dcd567d8cb1b48daa43d56d57433b26490ea353a51d0eb17da409e4ca6d1ab",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
@@ -23891,7 +23891,7 @@
                   "mapContext": "sha256:8d9823e94f0f03c34a667b4e79ab6ad5478b23e6e57a29ea17212e3555256d1b",
                   "visualSnapshots": "sha256:3346c584c2e32733f4bb490f6a9c8ade153db89cdfd85bbefde6c5f19770ed47"
                 },
-                "inputFingerprint": "sha256:c6742773d686cf8ba7192e1a470228bb5952ea0fa648799d5d091a3cb31dedcd",
+                "inputFingerprint": "sha256:371b489f57b88bbc568e1abe9afef9a5a062adfc9b2061fb4e2d25cfe72584d9",
                 "outputFingerprint": "sha256:85d66ea5bc672e1840bedd60b99c48568a8f2b726582f3ee1dcc3ed43c4df86e"
               },
               "targetsSpatialScene": true,

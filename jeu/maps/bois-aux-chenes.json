@@ -56667,7 +56667,7 @@
           {
             "id": "bois-aux-chenes-lisieres-contour-1",
             "name": "Contour natif — bois-aux-chenes-lisieres — 2",
-            "blueprintId": "hgss-contour-184c444802ba018f763e",
+            "blueprintId": "hgss-contour-168f9b4b6f38e059d984",
             "seed": "0",
             "geometry": {
               "kind": "stroke",
@@ -56695,7 +56695,7 @@
                 "resolverVersion": 4,
                 "blueprintRevision": 1,
                 "components": {
-                  "blueprint": "sha256:62e6a100096aedc7e2c84e255b0f931cbc4745c0371705a2f46288c11cf17245",
+                  "blueprint": "sha256:76bac68db8e4d64c9c9a0be79309c5e9c0f0d0c5905c6fb5707c77c385d0e338",
                   "geometryAndSeed": "sha256:02f962eac69f55e9cf9681ff6b679fa43680b5f4cfc2f312fa95c8c71a44d78d",
                   "parameters": "sha256:af5308a1bc370d84cc01510eca8e115b9458d43afed7034a59e067d8f6e8dccf",
                   "overrides": "sha256:529f80aacb3b9a874cc6493b8db739c9a93a7f6a381f04dd07dab60e244aef8e",
@@ -56703,7 +56703,7 @@
                   "mapContext": "sha256:50fa7f064c7d1b940222c1940f94e558bc63caff2dbfff541fd134f2fe21847b",
                   "visualSnapshots": "sha256:e807d76e77bc936e9b476dc4bfec07751a0c3b3fcfa408e709743b7fc3c1e512"
                 },
-                "inputFingerprint": "sha256:c7bd46ea3290bfcdc1e39c877acf98c960aee43c88668d7340ed38e89eb314f9",
+                "inputFingerprint": "sha256:48e8bb8257a8d828a66e67df24ecfaa2003ce01d18fc1c94c78b3c8c596e8fd4",
                 "outputFingerprint": "sha256:1551fc1e47bc00b3150e7b43aa9bc587c20450be2a793e006a4ca1809c746452"
               },
               "targetsSpatialScene": true,
