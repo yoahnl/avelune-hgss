@@ -37381,7 +37381,7 @@
     ],
     "camera": {
       "mode": "fixed",
-      "projection": "orthographic",
+      "projection": "perspective",
       "pitchDegrees": 49.910888671875,
       "yawDegrees": 0.0,
       "fieldOfViewDegrees": 7.042236328125,
