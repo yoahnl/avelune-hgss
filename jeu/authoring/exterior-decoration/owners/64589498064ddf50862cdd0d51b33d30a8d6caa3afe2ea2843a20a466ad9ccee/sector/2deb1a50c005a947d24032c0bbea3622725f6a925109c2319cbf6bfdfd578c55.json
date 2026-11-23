@@ -1,0 +1,1 @@
+{"schemaVersion":1,"owner":{"mapId":"route-31","unitKind":"sector","unitId":"lisiere-4-m28"},"references":[{"kind":"environmentPreset","id":"hgss-johto-arbres-entiers"},{"kind":"model3d","id":"hgss-arbre-entier-foret-dense"},{"kind":"smartTileMaterial","id":"hgss-r29-herbe"},{"kind":"smartTilePreset","id":"hgss-r29-herbe-principale"}]}

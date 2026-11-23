@@ -42675,7 +42675,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-c706-caves-b2-walk",
         "encounterKind": "walk",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
@@ -42703,7 +42703,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-c706-caves-b2-surf",
         "encounterKind": "surf",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
@@ -42731,7 +42731,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-c706-caves-b2-old_rod",
         "encounterKind": "old_rod",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
@@ -42759,7 +42759,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-c706-caves-b2-good_rod",
         "encounterKind": "good_rod",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
@@ -42787,7 +42787,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-c706-caves-b2-super_rod",
         "encounterKind": "super_rod",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []

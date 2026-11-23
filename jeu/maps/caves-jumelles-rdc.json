@@ -45302,7 +45302,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-caves-jumelles-rdc-marche",
         "encounterKind": "walk",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
@@ -46472,7 +46472,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-caves-jumelles-rdc-canne",
         "encounterKind": "old_rod",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []

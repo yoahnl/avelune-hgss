@@ -34119,7 +34119,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-annexe-caves-jumelles-sous-sol1-marche",
         "encounterKind": "walk",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
@@ -34853,7 +34853,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-annexe-caves-jumelles-sous-sol1-canne",
         "encounterKind": "old_rod",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
@@ -35001,7 +35001,7 @@
       "encounter": {
         "encounterTableId": "hgss-ch7-annexe-caves-jumelles-sous-sol1-surf",
         "encounterKind": "surf",
-        "battleBackgroundRelativePath": "assets/battle/backgrounds/clairiere-johto-v1.png",
+        "battleBackgroundRelativePath": "assets/battle/backgrounds/caves-jumelles-gouache.png",
         "battleMusicPath": null,
         "encounterMusicPath": null,
         "battleTransitionIds": []
