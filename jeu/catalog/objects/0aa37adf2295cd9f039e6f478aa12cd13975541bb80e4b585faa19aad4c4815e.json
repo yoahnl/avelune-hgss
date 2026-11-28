@@ -1,0 +1,1 @@
+{"children":[{"count":2,"first":{"id":"[\"projectAggregateChunk\",\"eventRegistry\",2]","kind":"catalogMetadata"},"height":3,"last":{"id":"[\"projectAggregateChunk\",\"resourcePackInstallations\",0]","kind":"catalogMetadata"},"reference":{"byteLength":363,"sha256":"b44e36bc15144a6f60d83a79c958c57b801645263a368da5b96a5edba6ea35bf"}}],"type":"branch","version":2}
